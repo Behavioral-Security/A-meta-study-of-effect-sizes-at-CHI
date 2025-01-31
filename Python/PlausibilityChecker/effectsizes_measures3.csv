@@ -1,0 +1,272 @@
+effectsize_measure,of_interest,effectsize_measure_unified,specifiers
+Partial Eta Squared (ηp²),yes,eta_squared,partial
+Odds Ratio,yes,odds_ratio,
+V,check test,cramers_v,
+τb,yes,kendalls_tau,
+η²,yes,eta_squared,
+r,yes,Pearsons_r,
+Cohen's d,yes,Cohens_d,
+R2,yes,r_squared,
+η²_G,yes,eta_squared,generalized
+Incremental R2,yes,r_squared,
+Total R2,yes,r_squared,
+Spearman's ρ,yes,spearmans_rho,
+Odds Ratio (OR),yes,odds_ratio,
+Correlation Coefficient,check test,cor,
+R^2,yes,r_squared,
+Correlation coefficient,check test,cor,
+Cohen's D,yes,Cohens_d,
+r_s,maybe,cor,
+η2,yes,eta_squared,
+cor,check test,cor,
+ρ,yes,spearmans_rho,
+Cramer's V,yes,cramers_v,
+d,yes,Cohens_d,
+R²,yes,r_squared,
+ηp²,yes,eta_squared,partial
+ηp2,yes,eta_squared,partial
+η² (eta squared),yes,eta_squared,
+η_p^2,yes,eta_squared,partial
+Pearson's r (overall),yes,Pearsons_r,
+Pearson's r (significant asymmetric transfer),yes,Pearsons_r,
+Pearson's r (no significant effect),yes,Pearsons_r,
+rs,check test,spearmans_rho,
+Cramér's V,yes,cramers_v,
+Pearson's r,yes,Pearsons_r,
+Spearman correlation coefficient,yes,spearmans_rho,
+Pearson correlation coefficient,yes,Pearsons_r,
+Adjusted R²,maybe,r_squared,adjusted
+η²p,yes,eta_squared,partial
+Pearson's R,yes,Pearsons_r,
+ω (omega),maybe,omega,
+"
+η_p^2",yes,eta_squared,partial
+η_G^2,yes,eta_squared,generalized
+r (Correlation Coefficient),yes,Pearsons_r,
+Partial Eta Squared (η_p^2),yes,eta_squared,partial
+f,maybe,Cohens_f,
+OR,yes,odds_ratio,
+partial η²,yes,eta_squared,partial
+eta squared,yes,eta_squared,
+Partial Eta Squared,yes,eta_squared,partial
+R,check test,cor,
+Correlation with annoyance,check test,cor,
+Correlation with roughness,check test,cor,
+Correlation with pleasantness,check test,cor,
+Correlation with preference,check test,cor,
+Correlation with spectral spread,check test,cor,
+Correlation with strength,check test,cor,
+Correlation with irregularity,check test,cor,
+Correlation with spectral centroid,check test,cor,
+odds ratio,yes,odds_ratio,
+r²,check test,r_squared,
+R-squared,yes,r_squared,
+Partial η²,yes,eta_squared,partial
+ω²,yes,omega_squared,
+r^2,yes,r_squared,
+Spearman's rho,yes,spearmans_rho,
+adjusted R^2,yes,r_squared,adjusted
+correlation coefficient (r),yes,Pearsons_r,
+Partial Eta Squared (η²p),yes,eta_squared,partial
+Partial Eta Squared (η²),yes,eta_squared,partial
+est. ω²,check test,omega_squared,
+Pearson r-value (5-fold cross validation),yes,Pearsons_r,
+Pearson r-value (leave-one-subject-out),yes,Pearsons_r,
+Pearson r-value (customized leave-one-subject-out),yes,Pearsons_r,
+η^2_G,yes,eta_squared,generalized
+partial eta-squared,yes,eta_squared,partial
+R-squared (dX),yes,r_squared,
+R-squared (dY),yes,r_squared,
+within-user R2,yes,r_squared,
+cross-user R2,yes,r_squared,
+ω,maybe,omega,
+Cohen's d (Noticing vs. Synchronizing),yes,Cohens_d,
+Cohen's d (Differentiating vs. Synchronizing),yes,Cohens_d,
+$\u03B7 _G^2$,yes,eta_squared,generalized
+Kramer's v,yes,cramers_v,
+Effect Size (Time),check test,check_test,
+Effect Size (Accuracy),check test,check_test,
+R^2 Adjusted,yes,r_squared,adjusted
+Cohen's f,yes,cohens_f,
+partial ɳ²,yes,eta_squared,partial
+Adjusted R² (μ),yes,r_squared,adjusted
+Adjusted R² (σ),yes,r_squared,adjusted
+Adjusted R^2,yes,r_squared,adjusted
+partial eta squared,yes,eta_squared,partial
+Effect size,check test,check_test,
+R_adj^2,yes,r_squared,adjusted
+R^2 (left hand same-side taps),yes,r_squared,
+R^2 (right hand same-side taps),yes,r_squared,
+R^2 (right to left alternate-side taps),yes,r_squared,
+R^2 (left to right alternate-side taps),yes,r_squared,
+η^2_p,yes,eta_squared,partial
+effect size,check test,check_test,
+partial eta-squared (ηp²),yes,eta_squared,partial
+Cramer's Phi,check test,cramers_v,
+Pearson Correlation (Q3),yes,Pearsons_r,
+Pearson Correlation (Q4),yes,Pearsons_r,
+Pearson Correlation (Q5),yes,Pearsons_r,
+Pearson Correlation (Q6),yes,Pearsons_r,
+Pearson Correlation,yes,Pearsons_r,
+Kendall's tau,yes,kendalls_tau,
+rho,yes,spearmans_rho,
+Partial η² (η²_p),yes,eta_squared,partial
+Cohen's drm,yes,Cohens_d,repeated_measures
+rho coefficient,yes,spearmans_rho,
+Correlation with Team Psychological Safety,check test,cor,
+Correlation with Team Composition,check test,cor,
+Correlation with Clear Direction,check test,cor,
+Correlation with Team Cohesion,check test,cor,
+Correlation with Team Efficacy,check test,cor,
+Eta-squared,yes,eta_squared,
+ρ (Rank of Picture Realism and Perceptions),check test,spearmans_rho,
+Correlation between Donation and Affect,check test,cor,
+\hat{\eta}^2_G,yes,eta_squared,generalized
+Correlation Coefficients for Task Attributes and Activity Attributes,check test,cor,
+Correlation Coefficients for Stress Level and Task Choice,check test,cor,
+Correlation Coefficients for Energy Level and Task Choice,check test,cor,
+"
+        
+         \\omega
+        
+
+         2
+        
+        ",check test,omega_squared,
+η²ₚ,yes,eta_squared,partial
+partial η2,yes,eta_squared,partial
+r (non-spatial layout),yes,Pearsons_r,
+r (spatial layout),yes,Pearsons_r,
+ΔR²,maybe,r_squared,
+Correlation coefficient (r),yes,Pearsons_r,
+Partial eta-squared (ηp²),yes,eta_squared,partial
+rτ,check test,kendalls_tau,
+D,check test,Cohens_d,
+Correlation coefficient (adjusted R²),yes,check_test,
+Pearson's r (Length),yes,Pearsons_r,
+Pearson's r (Jargon),yes,Pearsons_r,
+Pearson's r (Sentence Structure),yes,Pearsons_r,
+Pearson's r (Vocabulary),yes,Pearsons_r,
+η² (Eta-squared),yes,eta_squared,
+$\u03B7 _{p}^{2}$,yes,Pearsons_r,
+Pearson r,yes,Pearsons_r,
+Spearman ρ,yes,spearmans_rho,
+Partial Eta Squared ($\eta_p^2$),yes,eta_squared,partial
+τ,yes,kendalls_tau,
+r',check test,Pearsons_r,
+Cohen's r,check test,Pearsons_r,
+Correlation Coefficient for Empathy,check test,cor,
+Correlation Coefficient for Credibility,check test,cor,
+Correlation Coefficient for Justice,check test,cor,
+Correlation Coefficient for Impact,check test,cor,
+Correlation Coefficient for Attractiveness,check test,cor,
+R^2 (POM),yes,r_squared,
+R^2 (Acrylic),yes,r_squared,
+R^2 (PLA),yes,r_squared,
+R^2 (FEA),yes,r_squared,
+OR (Odds Ratio),yes,odds_ratio,
+Partial eta squared (η²),yes,eta_squared,partial
+r2,check test,r_squared,
+Partial eta-squared ($\eta_p^2$),yes,eta_squared,partial
+Partial eta squared,yes,eta_squared,partial
+\hat{\eta }^2_G,yes,eta_squared,generalized
+Partial Eta Squared ($\eta^2_p$),yes,eta_squared,partial
+Partial Eta Squared (η²ₚ),yes,eta_squared,partial
+R² Change,check test,r_squared,
+η,check test,eta,
+eta_p^2,yes,eta_squared,partial
+Correlation coefficient (ρ),yes,spearmans_rho,
+R^2_m,yes,r_squared,
+R^2_c,yes,r_squared,
+R_{sp}^{2},check test,cor,
+eta-squared (η²[H]),yes,eta_squared,
+eta-squared (η²),yes,eta_squared,
+Cohen's δ,check test,Cohens_d,
+ε² (epsilon squared),yes,epsilon_square,
+ω² (omega squared),yes,omega,
+Kendall's τ,yes,kendalls_tau,
+Δ Adj. R^2,yes,r_squared,adjusted
+Δ Adjusted R^2,yes,r_squared,adjusted
+η²g,yes,eta_squared,generalized
+Spearman r,yes,spearmans_rho,
+R² (Strange Brigade),yes,r_squared,
+R² (Valorant),yes,r_squared,
+R² (Rocket League),yes,r_squared,
+Matched rank biserial correlation,maybe,rank_biserial_r,
+R² (spatial),yes,r_squared,
+R² (temporal),yes,r_squared,
+Pearson correlation coefficient (Cycle Time and Trouble Recurrence Time),yes,Pearsons_r,
+Pearson correlation coefficient (Throughput and Trouble Alarm Recurrence Time),yes,Pearsons_r,
+Pearson correlation coefficient (Throughput and Cycle Time),yes,Pearsons_r,
+Spearman's r,yes,spearmans_rho,
+Correlation,check test,cor,
+rank-biserial correlation,yes,rank_biserial_r,
+η_g^2,yes,eta_squared,generalized
+Effect Size (d),yes,Cohens_d,
+d_PSE,check test,Cohens_d,
+Rank-biserial correlation,yes,rank_biserial_r,
+Odds Ratios,yes,odds_ratio,
+R² of Intensity resp. Fear,yes,r_squared,
+R² of Agency,yes,r_squared,
+R² of Presence,yes,r_squared,
+Rank-Biserial Correlation,yes,rank_biserial_r,
+r^2 (age),yes,r_squared,
+Correlation between Decision-making and Emotional Factors,yes,check_test,
+Correlation between Decision-making and Cognitive Factors,yes,check_test,
+Pearson's r (MR),yes,Pearsons_r,
+Pearson's r (AO),yes,Pearsons_r,
+"Probability of Superiority (descriptiveness, excluding instructional video)",yes,CLES,
+"Probability of Superiority (descriptiveness, including instructional video)",yes,CLES,
+"Probability of Superiority (objectiveness, automatic-feedback)",yes,CLES,
+Probability of Superiority (descriptiveness),yes,CLES,
+Probability of Superiority (sufficiency),yes,CLES,
+Probability of Superiority (Descriptive),yes,CLES,
+Probability of Superiority (Objective),yes,CLES,
+Probability of Superiority (Learning),yes,CLES,
+Probability of Superiority (Sufficient),yes,CLES,
+Probability of Superiority (Clarity),yes,CLES,
+Probability of Superiority (Succinct),yes,CLES,
+Probability of Superiority (Referable),yes,CLES,
+Probability of Superiority (Interest),yes,CLES,
+partial eta^2,yes,eta_squared,partial
+f^2 (Condition),check test,f_squared,
+f^2 (Time),check test,f_squared,
+f^2 (Interaction),check test,f_squared,
+r (Reading Performance),yes,Pearsons_r,
+r (Reading Speed),yes,Pearsons_r,
+"r (Reading Speed, Max Motion Sickness)",yes,Pearsons_r,
+"r (Reading Performance, SSQ)",yes,Pearsons_r,
+"r (Reading Speed, SSQ)",yes,Pearsons_r,
+"r (Spatial Presence, Average Motion Sickness)",yes,Pearsons_r,
+"r (Spatial Presence, Max Motion Sickness)",yes,Pearsons_r,
+"r (Spatial Presence, SSQ)",yes,Pearsons_r,
+"r (Spatial Presence, Oculomotor)",yes,Pearsons_r,
+"r (Spatial Presence, Disorientation)",yes,Pearsons_r,
+"r (IPQ Total, Average Motion Sickness)",yes,Pearsons_r,
+"r (IPQ Total, Max Motion Sickness)",yes,Pearsons_r,
+"r (Involvement, Average Motion Sickness)",yes,Pearsons_r,
+r (Realism),yes,Pearsons_r,
+τk,yes,kendalls_tau,
+Weak positive correlation between RiCE's total score and SRIS's total score (Story-Sentiment-Visualiser),check test,cor,
+Moderate positive correlation between RiCE's total score and CSI's total score (Story-Sentiment-Visualiser),check test,cor,
+Weak positive correlation between RiCE's total score and SRIS's total score (Sound-Sketcher),check test,cor,
+Moderate positive correlation between RiCE's total score and CSI's total score (Sound-Sketcher),check test,cor,
+η²(H),maybe,eta_squared,H
+f^2,check test,f_squared,
+total effect,check test,check_test,
+effect,check test,check_test,
+Kendall's Tau-b,yes,kendalls_tau,
+Partial Eta Squared ($\eta_{p}^{2}$),yes,eta_squared,partial
+d',check test,Cohens_d,
+Correlation (r),yes,Pearsons_r,
+Correlation (r) with OE,yes,Pearsons_r,
+Correlation (r) with RSE,yes,Pearsons_r,
+Correlation (r) with LOT-R,yes,Pearsons_r,
+Generalized eta squared (η_G^2),yes,eta_squared,generalized
+Partial eta squared (η^2_p),yes,eta_squared,partial
+Generalized eta squared (η^2_G),yes,eta_squared,generalized
+τ (tau),yes,kendalls_tau,
+ηP²,yes,eta_squared,partial
+generalized η² (ges),yes,eta_squared,generalized
+ρ (rho),yes,spearmans_rho,
+Adjusted R-squared,yes,r_squared,adjusted

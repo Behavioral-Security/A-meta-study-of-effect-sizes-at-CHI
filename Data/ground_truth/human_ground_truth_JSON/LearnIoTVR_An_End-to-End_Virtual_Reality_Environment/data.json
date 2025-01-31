@@ -1,0 +1,156 @@
+{
+    "title": "LearnIoTVR: An End-to-End Virtual Reality Environment Providing Authentic Learning Experiences for Internet of Things",
+    "erstautor": "Zhengzhe Zhu",
+    "doi": "10.1145/3544548.3581396",
+    "link": "https://doi.org/10.1145/3544548.3581396",
+    "year": "2023",
+    "topics": [
+        ""
+    ],
+    "tests": [
+        {
+            "test_name": "dependent samples test",
+            "N": "24",
+            "p-value": "<0.005",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "5",
+            "problem_explanation": "not clear from text which test is used, but pre-test/post-test scores, probably t-test, Welch test or MWU test"
+        },
+        {
+            "test_name": "dependent samples test",
+            "N": "24",
+            "p-value": "<0.005",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "5",
+            "problem_explanation": "not clear from text which test is used, but pre-test/post-test scores, probably t-test, Welch test or MWU test"
+        },
+        {
+            "test_name": "dependent samples test",
+            "N": "24",
+            "p-value": "<0.005",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "5",
+            "problem_explanation": "not clear from text which test is used, but pre-test/post-test scores, probably t-test, Welch test or MWU test"
+        },
+        {
+            "test_name": "dependent samples test",
+            "N": "24",
+            "p-value": "<0.005",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "5",
+            "problem_explanation": "not clear from text which test is used, but pre-test/post-test scores, probably t-test, Welch test or MWU test"
+        },
+        {
+            "test_name": "dependent samples test",
+            "N": "24",
+            "p-value": "<0.005",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "5",
+            "problem_explanation": "not clear from text which test is used, but pre-test/post-test scores, probably t-test, Welch test or MWU test"
+        },
+        {
+            "test_name": "dependent samples test",
+            "N": "24",
+            "p-value": "<0.005",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "5",
+            "problem_explanation": "not clear from text which test is used, but pre-test/post-test scores, probably t-test, Welch test or MWU test"
+        },
+        {
+            "test_name": "dependent samples test",
+            "N": "24",
+            "p-value": "<0.005",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "5",
+            "problem_explanation": "not clear from text which test is used, but pre-test/post-test scores, probably t-test, Welch test or MWU test"
+        },
+        {
+            "test_name": "dependent samples test",
+            "N": "24",
+            "p-value": "<0.005",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "5",
+            "problem_explanation": "not clear from text which test is used, but pre-test/post-test scores, probably t-test, Welch test or MWU test"
+        }
+    ]
+}

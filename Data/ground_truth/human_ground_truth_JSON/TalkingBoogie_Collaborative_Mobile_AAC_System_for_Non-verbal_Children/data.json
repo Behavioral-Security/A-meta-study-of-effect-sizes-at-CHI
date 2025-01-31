@@ -1,0 +1,156 @@
+{
+    "title": "TalkingBoogie: Collaborative Mobile AAC System for Non-verbal Children with Developmental Disabilities and Their Caregivers",
+    "erstautor": "Donghoon Shin",
+    "doi": "10.1145/3313831.3376154",
+    "link": "http://dx.doi.org/10.1145/3313831.3376154",
+    "year": "2020",
+    "topics": [
+        ""
+    ],
+    "tests": [
+        {
+            "test_name": "paired t-test",
+            "N": "4",
+            "p_value": "<.05",
+            "certainty": "",
+            "problem_explanation": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "3",
+            "p_value": "<.05",
+            "certainty": "",
+            "problem_explanation": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "4",
+            "p_value": "<.05",
+            "certainty": "",
+            "problem_explanation": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "3",
+            "p_value": "<.05",
+            "certainty": "",
+            "problem_explanation": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "7",
+            "p_value": "<.05",
+            "certainty": "",
+            "problem_explanation": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "7",
+            "p_value": ">.05",
+            "certainty": "",
+            "problem_explanation": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "7",
+            "p_value": ">.05",
+            "certainty": "",
+            "problem_explanation": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "7",
+            "p_value": "<.05",
+            "certainty": "",
+            "problem_explanation": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "3",
+            "p_value": ">.05",
+            "certainty": "",
+            "problem_explanation": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        }
+    ]
+}

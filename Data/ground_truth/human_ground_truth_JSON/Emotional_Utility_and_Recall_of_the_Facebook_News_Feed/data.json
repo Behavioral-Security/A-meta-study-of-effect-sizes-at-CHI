@@ -1,0 +1,222 @@
+{
+    "title": "Emotional Utility and Recall of the Facebook News Feed",
+    "erstautor": "Pawarat Nontasil",
+    "doi": "10.1145/3290605.3300252",
+    "link": "https://dl.acm.org/doi/10.1145/3290605.3300252",
+    "year": "2019",
+    "topics": [
+        ""
+    ],
+    "tests": [
+        {
+            "test_name": "correlation",
+            "N": "53",
+            "p_value": "<.05",
+            "effect_size": {
+                "measure": "r",
+                "value": ".31",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "correlation",
+            "N": "53",
+            "p_value": "<.05",
+            "effect_size": {
+                "measure": "r",
+                "value": ".30",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "correlation",
+            "N": "53",
+            "p_value": "<.05",
+            "effect_size": {
+                "measure": "r",
+                "value": ".46",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "correlation",
+            "N": "53",
+            "p_value": "",
+            "effect_size": {
+                "measure": "r",
+                "value": "0.23",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "correlation",
+            "N": "53",
+            "p_value": "",
+            "effect_size": {
+                "measure": "r",
+                "value": "0.23",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "correlation",
+            "N": "53",
+            "p_value": "",
+            "effect_size": {
+                "measure": "r",
+                "value": "0.23",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "multiple regression",
+            "N": "53",
+            "p_value": "< 05",
+            "effect_size": {
+                "measure": "r^2",
+                "value": ".22",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "multiple regression",
+            "N": "53",
+            "p_value": "",
+            "effect_size": {
+                "measure": "r ^2 ",
+                "value": ".10",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "multiple regression",
+            "N": "53",
+            "p_value": "",
+            "effect_size": {
+                "measure": "r^2",
+                "value": ".05",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "single-factor repeated measures ANOVA",
+            "N": "53",
+            "p_value": "<.01",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "53",
+            "p_value": "<.01",
+            "effect_size": {
+                "measure": "d",
+                "value": "0.805",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "53",
+            "p_value": "<0.01",
+            "effect_size": {
+                "measure": "d",
+                "value": "1.23",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "15",
+            "p_value": ".06",
+            "effect_size": {
+                "measure": "d",
+                "value": "0.66",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "53",
+            "p_value": ">0.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "53",
+            "p_value": ">0.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        }
+    ]
+}

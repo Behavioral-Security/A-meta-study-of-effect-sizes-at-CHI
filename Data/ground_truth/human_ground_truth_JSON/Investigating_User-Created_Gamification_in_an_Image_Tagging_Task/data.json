@@ -1,0 +1,376 @@
+{
+    "title": "Investigating User-Created Gamification in an Image Tagging Task",
+    "erstautor": "Marc Schubhan",
+    "doi": "10.1145/3313831.3376360",
+    "link": "https://doi.org/10.1145/3313831.3376360",
+    "year": "2020",
+    "topics": [
+        ""
+    ],
+    "tests": [
+        {
+            "test_name": "Kruskal-Wallis ANOVA",
+            "N": "71",
+            "p_value": "p<.001",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "post-hoc test adjusted using the Benjamini & Hochberg method",
+            "N": "38",
+            "p_value": ".021",
+            "effect_size": {
+                "measure": "r",
+                "value": ".43",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "post-hoc test adjusted using the Benjamini & Hochberg method",
+            "N": "34",
+            "p_value": ".035",
+            "effect_size": {
+                "measure": "r",
+                "value": ".37",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "post-hoc test adjusted using the Benjamini & Hochberg method",
+            "N": "37",
+            "p_value": ".000",
+            "effect_size": {
+                "measure": "r",
+                "value": ".82",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "post-hoc test adjusted using the Benjamini & Hochberg method",
+            "N": "37",
+            "p_value": ".027",
+            "effect_size": {
+                "measure": "r",
+                "value": ".39",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "post-hoc test adjusted using the Benjamini & Hochberg method",
+            "N": "33",
+            "p_value": ".022",
+            "effect_size": {
+                "measure": "r",
+                "value": ".45",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Kruskal-Wallis ANOVA",
+            "N": "71",
+            "p_value": ".003",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "post-hoc tests adjusted using the Benjamini & Hochberg method",
+            "N": "38",
+            "p_value": ".598",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "post-hoc tests adjusted using the Benjamini & Hochberg method",
+            "N": "34",
+            "p_value": ".006",
+            "effect_size": {
+                "measure": "r",
+                "value": "-0.57",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "post-hoc tests adjusted using the Benjamini & Hochberg method",
+            "N": "37",
+            "p_value": ".042",
+            "effect_size": {
+                "measure": "r",
+                "value": "-0.38",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "post-hoc tests adjusted using the Benjamini & Hochberg method",
+            "N": "37",
+            "p_value": ".108",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "post-hoc tests adjusted using the Benjamini & Hochberg method",
+            "N": "33",
+            "p_value": ".338",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Kruskal-Wallis ANOVA",
+            "N": "71",
+            "p_value": "<.001",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Kruskal-Wallis ANOVA",
+            "N": "71",
+            "p_value": "<.001",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "post-hoc tests adjusted using the Benjamini & Hochberg method",
+            "N": "37",
+            "p_value": "<.001",
+            "effect_size": {
+                "measure": "r",
+                "value": "-0.82",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "post-hoc tests adjusted using the Benjamini & Hochberg method",
+            "N": "33",
+            "p_value": ".006",
+            "effect_size": {
+                "measure": "r",
+                "value": ".55",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "post-hoc tests adjusted using the Benjamini & Hochberg method",
+            "N": "37",
+            "p_value": "<.036",
+            "effect_size": {
+                "measure": "r",
+                "value": ".37",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "post-hoc tests adjusted using the Benjamini & Hochberg method",
+            "N": "37",
+            "p_value": "<.001",
+            "effect_size": {
+                "measure": "r",
+                "value": "-0.65",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "post-hoc tests adjusted using the Benjamini & Hochberg method",
+            "N": "33",
+            "p_value": "<.001",
+            "effect_size": {
+                "measure": "r",
+                "value": ".63",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "post-hoc tests adjusted using the Benjamini & Hochberg method",
+            "N": "37",
+            "p_value": ">0.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "one-sample t-test",
+            "N": "15",
+            "p_value": "<.001",
+            "effect_size": {
+                "measure": "d",
+                "value": "1.06",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "one-sample t-test",
+            "N": "15",
+            "p_value": "<.001",
+            "effect_size": {
+                "measure": "d",
+                "value": "1.84",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Kruskal-Wallis ANOVA",
+            "N": "71",
+            "p_value": ".433",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Kruskal-Wallis ANOVA",
+            "N": "71",
+            "p_value": ".998",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Kruskal-Wallis ANOVA",
+            "N": "71",
+            "p_value": ".901",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Kruskal-Wallis ANOVA",
+            "N": "71",
+            "p_value": ".524",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,1151 @@
+{
+    "title": "Manipulation, Learning, and Recall with Tangible Pen-Like Input",
+    "erstautor": "Lisa A. Elkin",
+    "doi": "10.1145/3313831.3376772",
+    "link": "https://doi.org/10.1145/3313831.3376772",
+    "year": "2020",
+    "topics": [
+        ""
+    ],
+    "tests": [
+        {
+            "test_name": "repeated measures ANOVA",
+            "N": "12",
+            "p_value": "<.001",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "η^2_G",
+                "value": ".007",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "repeated measures ANOVA",
+            "N": "12",
+            "p_value": "<.01",
+            "num_conditions": "3",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "\u03b7^2_G",
+                "value": ".1",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "post hoc paired t-test",
+            "N": "12",
+            "p_value": "<0.0001",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "post hoc paired t-test",
+            "N": "12",
+            "p_value": "<.0001",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "post hoc paired t-test",
+            "N": "12",
+            "p_value": "<.0001",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Aligned Rank Transform (ART) based ANOVA main effect",
+            "N": "12",
+            "p_value": "",
+            "num_conditions": "26x3",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors":  [
+                {
+                    "factor": "main effect",
+                    "p-value": "<.0001",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                },
+                {
+                    "factor": "interaction effect",
+                    "p-value": ">0.05",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                }
+            ]
+        },
+        {
+            "test_name": " Wilcoxon signed rank test corrected using Holm's sequential Bonferroni procedure",
+            "N": "12",
+            "p_value": "significant",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "repeat this to a total of 203 times, unsure about the significance level due to corrections"
+        },
+        {
+            "test_name": " Wilcoxon signed rank test corrected using Holm's sequential Bonferroni procedure",
+            "N": "12",
+            "p_value": "not significant",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "repeat this to a total of 122 times, unsure about the significance level due to corrections"
+
+        },
+        {
+            "test_name": "linear mixed effects (LMM) ANOVA",
+            "N": "12",
+            "p_value": "",
+            "num_conditions": "2",
+            "num_repeat": "3x3",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors":  [
+                {
+                    "factor": "main effect",
+                    "p-value": "<.0001",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                },
+                {
+                    "factor": "interaction effect",
+                    "p-value": ">0.05",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                }
+            ]
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "12",
+            "p_value": "<.0001",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "12",
+            "p_value": "<.0001",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "12",
+            "p_value": "<.0001",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Aligned Rank Transform (ART) based ANOVA",
+            "N": "12",
+            "p_value": "",
+            "num_conditions": "3x3",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors":  [
+                {
+                    "factor": "main effect",
+                    "p-value": "<.0001",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                },
+                {
+                    "factor": "interaction effect",
+                    "p-value": ">0.05",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                }
+            ]
+        },
+
+        {
+            "test_name": " Wilcoxon signed rank test corrected using Holm's sequential Bonferroni procedure",
+            "N": "12",
+            "p_value": "<.0001",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": " Wilcoxon signed rank test corrected using Holm's sequential Bonferroni procedure",
+            "N": "12",
+            "p_value": "<.0001",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": " Wilcoxon signed rank test corrected using Holm's sequential Bonferroni procedure",
+            "N": "12",
+            "p_value": "<.01",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Aligned Rank Transform (ART) based ANOVA main effect",
+            "N": "12",
+            "p_value": "",
+            "num_conditions": "4x5",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors":  [
+                {
+                    "factor": "main effect",
+                    "p-value": "<.0001",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                },
+                {
+                    "factor": "main effect",
+                    "p-value": "<.0001",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                },
+                {
+                    "factor": "interaction effect",
+                    "p-value": "<.0001",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                }
+            ]
+        },
+        {
+            "test_name": " Wilcoxon signed rank test corrected using Holm's sequential Bonferroni procedure",
+            "N": "12",
+            "p_value": "<.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": " Wilcoxon signed rank test corrected using Holm's sequential Bonferroni procedure",
+            "N": "12",
+            "p_value": "<.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": " Wilcoxon signed rank test corrected using Holm's sequential Bonferroni procedure",
+            "N": "12",
+            "p_value": "not significant",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": " Wilcoxon signed rank test corrected using Holm's sequential Bonferroni procedure",
+            "N": "12",
+            "p_value": "not significant",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": " Wilcoxon signed rank test corrected using Holm's sequential Bonferroni procedure",
+            "N": "12",
+            "p_value": "not significant",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": " Wilcoxon signed rank test corrected using Holm's sequential Bonferroni procedure",
+            "N": "12",
+            "p_value": "not significant",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": " Wilcoxon signed rank test corrected using Holm's sequential Bonferroni procedure",
+            "N": "12",
+            "p_value": "not significant",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": " Wilcoxon signed rank test corrected using Holm's sequential Bonferroni procedure",
+            "N": "12",
+            "p_value": "not significant",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": " Wilcoxon signed rank test corrected using Holm's sequential Bonferroni procedure",
+            "N": "12",
+            "p_value": "not significant",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": " Wilcoxon signed rank test corrected using Holm's sequential Bonferroni procedure",
+            "N": "12",
+            "p_value": "not significant",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": " Wilcoxon signed rank test corrected using Holm's sequential Bonferroni procedure",
+            "N": "12",
+            "p_value": "not significant",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": " Wilcoxon signed rank test corrected using Holm's sequential Bonferroni procedure",
+            "N": "12",
+            "p_value": "not significant",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": " Wilcoxon signed rank test corrected using Holm's sequential Bonferroni procedure",
+            "N": "12",
+            "p_value": "not significant",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": " Wilcoxon signed rank test corrected using Holm's sequential Bonferroni procedure",
+            "N": "12",
+            "p_value": "not significant",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": " Wilcoxon signed rank test corrected using Holm's sequential Bonferroni procedure",
+            "N": "12",
+            "p_value": "not significant",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": " Wilcoxon signed rank test corrected using Holm's sequential Bonferroni procedure",
+            "N": "12",
+            "p_value": "not significant",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": " Wilcoxon signed rank test corrected using Holm's sequential Bonferroni procedure",
+            "N": "12",
+            "p_value": "not significant",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": " Wilcoxon signed rank test corrected using Holm's sequential Bonferroni procedure",
+            "N": "12",
+            "p_value": "not significant",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": " Wilcoxon signed rank test corrected using Holm's sequential Bonferroni procedure",
+            "N": "12",
+            "p_value": "not significant",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": " Wilcoxon signed rank test corrected using Holm's sequential Bonferroni procedure",
+            "N": "12",
+            "p_value": "not significant",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Kruskal-Wallis test",
+            "N": "32",
+            "p_value": ">0.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Kruskal-Wallis test",
+            "N": "32",
+            "p_value": ">0.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Kruskal-Wallis test",
+            "N": "32",
+            "p_value": "<.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Mann-Whitney U test corrected with Holm's sequential Bonferroni procedure",
+            "N": "16",
+            "p_value": "<.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Mann-Whitney U test corrected with Holm's sequential Bonferroni procedure",
+            "N": "16",
+            "p_value": ">.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+          {
+            "test_name": "Mann-Whitney U test corrected with Holm's sequential Bonferroni procedure",
+            "N": "16",
+            "p_value": ">.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+          {
+            "test_name": "Mann-Whitney U test corrected with Holm's sequential Bonferroni procedure",
+            "N": "16",
+            "p_value": ">.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+          {
+            "test_name": "Mann-Whitney U test corrected with Holm's sequential Bonferroni procedure",
+            "N": "16",
+            "p_value": ">.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+          {
+            "test_name": "Mann-Whitney U test corrected with Holm's sequential Bonferroni procedure",
+            "N": "16",
+            "p_value": ">.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "repeated measures ANOVA on log transformed data",
+            "N": "32",
+            "p_value": "",
+            "num_conditions": "4x3",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors":  [
+                {
+                    "factor": "main effect",
+                    "p-value": ">.05",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                },
+                {
+                    "factor": "main effect",
+                    "p-value": ">.05",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                },
+                {
+                    "factor": "interaction effect",
+                    "p-value": ">.05",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                }
+            ]
+        },
+        {
+            "test_name": "Aligned Rank Transform (ART) based ANOVA main effect",
+            "N": "32",
+            "p_value": "",
+            "num_conditions": "4x3",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+             "factors":  [
+                {
+                    "factor": "main effect",
+                    "p-value": "<.0001",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                },
+                {
+                    "factor": "main effect",
+                    "p-value": "<.01",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                },
+                {
+                    "factor": "interaction effect",
+                    "p-value": "<.001",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                }
+            ]
+        },
+        {
+            "test_name": "Mann-Whitney U test corrected with Holm's sequential Bonferroni procedure",
+            "N": "16",
+            "p_value": "<.01",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Mann-Whitney U test corrected with Holm's sequential Bonferroni procedure",
+            "N": "16",
+            "p_value": "<.01",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Mann-Whitney U test corrected with Holm's sequential Bonferroni procedure",
+            "N": "16",
+            "p_value": "<.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Mann-Whitney U test corrected with Holm's sequential Bonferroni procedure",
+            "N": "16",
+            "p_value": "<.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Mann-Whitney U test corrected with Holm's sequential Bonferroni procedure",
+            "N": "16",
+            "p_value": "<.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Mann-Whitney U test corrected with Holm's sequential Bonferroni procedure",
+            "N": "16",
+            "p_value": ">.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Aligned Rank Transform (ART) based ANOVA main effect",
+            "N": "32",
+            "p_value": "<.0001",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Aligned Rank Transform (ART) based ANOVA main effect",
+            "N": "32",
+            "p_value": "",
+            "num_conditions": "4x3",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors":  [
+                {
+                    "factor": "main effect",
+                    "p-value": "<.0001",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                },
+                {
+                    "factor": "main effect",
+                    "p-value": ">.05",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                },
+                {
+                    "factor": "interaction effect",
+                    "p-value": ">.05",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                }
+            ]
+        },
+        {
+            "test_name": "Mann-Whitney U test corrected with Holm's sequential Bonferroni procedure",
+            "N": "16",
+            "p_value": "<.0001",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Mann-Whitney U test corrected with Holm's sequential Bonferroni procedure",
+            "N": "16",
+            "p_value": "<.0001",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Mann-Whitney U test corrected with Holm's sequential Bonferroni procedure",
+            "N": "16",
+            "p_value": "<.0001",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Mann-Whitney U test corrected with Holm's sequential Bonferroni procedure",
+            "N": "16",
+            "p_value": "<.01",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Mann-Whitney U test corrected with Holm's sequential Bonferroni procedure",
+            "N": "16",
+            "p_value": "<.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Mann-Whitney U test corrected with Holm's sequential Bonferroni procedure",
+            "N": "16",
+            "p_value": "<.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        }
+    ]
+}

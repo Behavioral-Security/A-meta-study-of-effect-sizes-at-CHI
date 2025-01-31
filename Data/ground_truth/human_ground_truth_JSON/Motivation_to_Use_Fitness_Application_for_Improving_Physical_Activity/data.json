@@ -1,0 +1,2262 @@
+{
+    "title": "Motivation to Use Fitness Application for Improving Physical Activity Among Hispanic Users: The Pivotal Role of Interactivity and Relatedness",
+    "erstautor": "Maria D. Molina",
+    "doi": "10.1145/3544548.3581200",
+    "link": "https://doi.org/10.1145/3544548.3581200",
+    "year": "2023",
+    "topics": [
+        ""
+    ],
+    "tests": [
+        {
+            "test_name": "hierarchical linear regression analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_sizes" : [
+                {
+                    "measure": "R^2",
+                    "value": ".15",
+                    "CI": {
+                        "lower": "",
+                        "upper": "",
+                        "type": ""
+                    }
+                },
+                {
+                    "measure": "Incremental R^2",
+                    "value": ".12",
+                    "CI": {
+                        "lower": "",
+                        "upper": "",
+                        "type": ""
+                    }
+                },
+                {
+                    "measure": "Total R^2",
+                    "value": ".27",
+                    "CI": {
+                        "lower": "",
+                        "upper": "",
+                        "type": ""
+                    }
+                }
+            ],
+            "factors": [
+                 {
+                    "factor": "Year of membership",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.03",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Gender",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".09",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Age",
+                    "p_value": "<.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".14",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Power Use",
+                    "p_value": "<.001",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".33",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Interactivity",
+                    "p_value": "<.001",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.40",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Customization",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.03",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Navigability",
+                    "p_value": "<.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".23",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "hierarchical linear regression analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_sizes": [
+            {
+                "measure": "R^2",
+                "value": ".10",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+                {
+                "measure": "Incremental R^2",
+                "value": ".13",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+                {
+                "measure": "Total R^2",
+                "value": ".22",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+            ],
+            "factors": [
+                 {
+                    "factor": "Year of membership",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": " standardized beta coefficient",
+                        "value": "-.03",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Gender",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": " standardized beta coefficient",
+                        "value": ".03",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Age",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": " standardized beta coefficient",
+                        "value": ".05",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Power Use",
+                    "p_value": "<.001",
+                    "effect_size": {
+                        "measure": " standardized beta coefficient",
+                        "value": ".30",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Interactivity",
+                    "p_value": "<.001",
+                    "effect_size": {
+                        "measure": " standardized beta coefficient",
+                        "value": "-.40",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Customization",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": " standardized beta coefficient",
+                        "value": "-.14",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Navigability",
+                    "p_value": "<.001",
+                    "effect_size": {
+                        "measure": " standardized beta coefficient",
+                        "value": ".33",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "hierarchical linear regression analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_sizes": [
+            {
+                "measure": "R^2",
+                "value": ".16",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+                {
+                "measure": "Incremental R^2",
+                "value": ".16",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+                {
+                "measure": "Total R^2",
+                "value": ".32",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+            ],
+            "factors": [
+                 {
+                    "factor": "Year of membership",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".04",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Gender",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".03",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Age",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.09",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Power Use",
+                    "p_value": "<.001",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".38",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Interactivity",
+                    "p_value": "<.001",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".32",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Customization",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".16",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Navigability",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.04",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+
+        {
+            "test_name": "hierarchical linear regression analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_sizes": [
+            {
+                "measure": "R^2",
+                "value": ".21",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+                {
+                "measure": "Incremental R^2",
+                "value": ".12",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+                {
+                "measure": "Total R^2",
+                "value": ".32",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+            ],
+            "factors": [
+                 {
+                    "factor": "Year of membership",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".02",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Gender",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".08",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Age",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".08",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Power Use",
+                    "p_value": "<.001",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".43",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Interactivity",
+                    "p_value": "<.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".19",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Customization",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.06",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Navigability",
+                    "p_value": "<.01",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".29",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+         {
+            "test_name": "hierarchical linear regression analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_sizes": [
+            {
+                "measure": "R^2",
+                "value": ".23",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+                {
+                "measure": "Incremental R^2",
+                "value": ".08",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+                {
+                "measure": "Total R^2",
+                "value": ".30",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+            ],
+            "factors": [
+                 {
+                    "factor": "Year of membership",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".06",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Gender",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".09",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Age",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".10",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Power Use",
+                    "p_value": "<.001",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".44",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Interactivity",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".08",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Customization",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".02",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Navigability",
+                    "p_value": "<.01",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".24",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+         {
+            "test_name": "hierarchical linear regression analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_sizes": [
+            {
+                "measure": "R^2",
+                "value": ".04",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+                {
+                "measure": "Incremental R^2",
+                "value": ".41",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+                {
+                "measure": "Total R^2",
+                "value": ".46",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+            ],
+            "factors": [
+                 {
+                    "factor": "Year of membership",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".04",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Gender",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.07",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Age",
+                    "p_value": "<.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.15",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Power Use",
+                    "p_value": "<.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".15",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Interactivity",
+                    "p_value": "<.001",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".61",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Customization",
+                    "p_value": "<.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".20",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Navigability",
+                    "p_value": "<.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.17",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+         {
+            "test_name": "hierarchical linear regression analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_sizes": [
+            {
+                "measure": "R^2",
+                "value": ".05",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+                {
+                "measure": "Incremental R^2",
+                "value": ".35",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+                {
+                "measure": "Total R^2",
+                "value": ".40",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+            ],
+            "factors": [
+                 {
+                    "factor": "Year of membership",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".06",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Gender",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.11",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Age",
+                    "p_value": "<.01",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.19",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Power Use",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.06",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Interactivity",
+                    "p_value": "<.001",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".63",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Customization",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".05",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Navigability",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.12",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+
+         {
+            "test_name": "hierarchical linear regression analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_sizes": [
+            {
+                "measure": "R^2",
+                "value": ".23",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+                {
+                "measure": "Incremental R^2",
+                "value": ".10",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+                {
+                "measure": "Total R^2",
+                "value": ".33",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+            ],
+            "factors": [
+                 {
+                    "factor": "Year of membership",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".03",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Gender",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.04",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Age",
+                    "p_value": "<.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".14",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Power Use",
+                    "p_value": "<.001",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".46",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Interactivity",
+                    "p_value": "<.01",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".20",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Customization",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".12",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Navigability",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".07",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+         {
+            "test_name": "hierarchical linear regression analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_sizes": [
+            {
+                "measure": "R^2",
+                "value": ".13",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+                {
+                "measure": "Incremental R^2",
+                "value": ".20",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+                {
+                "measure": "Total R^2",
+                "value": ".33",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+            ],
+            "factors": [
+                 {
+                    "factor": "Year of membership",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".10",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Gender",
+                    "p_value": "<.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.15",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Age",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.02",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Power Use",
+                    "p_value": "<.001",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".35",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Interactivity",
+                    "p_value": "<.001",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".45",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Customization",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".03",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "Navigability",
+                    "p_value": ">.05",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.03",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+
+        {
+            "test_name": "mediation analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "Autonomy",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".01",
+                        "CI": {
+                            "lower": "-.03",
+                            "upper": ".05",
+                            "type": " 95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Competence",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".03",
+                        "CI": {
+                            "lower": "-.02",
+                            "upper": ".10",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Relatedness",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.01",
+                        "CI": {
+                            "lower": "-.09",
+                            "upper": ".07",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+
+         {
+            "test_name": "mediation analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "Autonomy",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.02",
+                        "CI": {
+                            "lower": "-.08",
+                            "upper": ".04",
+                            "type": " 95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Competence",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.04",
+                        "CI": {
+                            "lower": "-.10",
+                            "upper": ".02",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Relatedness",
+                    "p_value": "significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".13",
+                        "CI": {
+                            "lower": ".04",
+                            "upper": ".23",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+         {
+            "test_name": "mediation analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "Autonomy",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.001",
+                        "CI": {
+                            "lower": "-.02",
+                            "upper": ".02",
+                            "type": " 95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Competence",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.01",
+                        "CI": {
+                            "lower": "-.05",
+                            "upper": ".01",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Relatedness",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".06",
+                        "CI": {
+                            "lower": "-.02",
+                            "upper": ".15",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+
+         {
+            "test_name": "mediation analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "Autonomy",
+                    "p_value": "significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".05",
+                        "CI": {
+                            "lower": ".01",
+                            "upper": ".12",
+                            "type": " 95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Competence",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".03",
+                        "CI": {
+                            "lower": "-.01",
+                            "upper": ".10",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Relatedness",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.01",
+                        "CI": {
+                            "lower": "-.06",
+                            "upper": ".04",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+         {
+            "test_name": "mediation analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "Autonomy",
+                    "p_value": "significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.09",
+                        "CI": {
+                            "lower": "-.17",
+                            "upper": "-.03",
+                            "type": " 95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Competence",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".04",
+                        "CI": {
+                            "lower": "-.11",
+                            "upper": ".02",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Relatedness",
+                    "p_value": "significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".08",
+                        "CI": {
+                            "lower": ".02",
+                            "upper": ".16",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+         {
+            "test_name": "mediation analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "Autonomy",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.01",
+                        "CI": {
+                            "lower": "-.05",
+                            "upper": ".04",
+                            "type": " 95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Competence",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.01",
+                        "CI": {
+                            "lower": "-.06",
+                            "upper": ".01",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Relatedness",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".04",
+                        "CI": {
+                            "lower": "-.01",
+                            "upper": ".10",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+
+         {
+            "test_name": "mediation analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "Autonomy",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.04",
+                        "CI": {
+                            "lower": "-.11",
+                            "upper": ".003",
+                            "type": " 95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Competence",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.04",
+                        "CI": {
+                            "lower": "-.11",
+                            "upper": ".01",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Relatedness",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.01",
+                        "CI": {
+                            "lower": "-.04",
+                            "upper": ".03",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+         {
+            "test_name": "mediation analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "Autonomy",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".07",
+                        "CI": {
+                            "lower": "-.004",
+                            "upper": ".15",
+                            "type": " 95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Competence",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".04",
+                        "CI": {
+                            "lower": "-.02",
+                            "upper": ".12",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Relatedness",
+                    "p_value": "significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".06",
+                        "CI": {
+                            "lower": ".01",
+                            "upper": ".12",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+         {
+            "test_name": "mediation analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "Autonomy",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".01",
+                        "CI": {
+                            "lower": "-.02",
+                            "upper": ".06",
+                            "type": " 95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Competence",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".02",
+                        "CI": {
+                            "lower": "-.02",
+                            "upper": ".06",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Relatedness",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".03",
+                        "CI": {
+                            "lower": "-.01",
+                            "upper": ".07",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+
+         {
+            "test_name": "mediation analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "Autonomy",
+                    "p_value": "significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.10",
+                        "CI": {
+                            "lower": "-.21",
+                            "upper": "-.02",
+                            "type": " 95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Competence",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.03",
+                        "CI": {
+                            "lower": "-.09",
+                            "upper": ".03",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Relatedness",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.001",
+                        "CI": {
+                            "lower": "-.02",
+                            "upper": ".01",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+         {
+            "test_name": "mediation analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "Autonomy",
+                    "p_value": "significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".17",
+                        "CI": {
+                            "lower": ".08",
+                            "upper": ".27",
+                            "type": " 95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Competence",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".04",
+                        "CI": {
+                            "lower": "-.03",
+                            "upper": ".11",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Relatedness",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".01",
+                        "CI": {
+                            "lower": "-.02",
+                            "upper": ".05",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+         {
+            "test_name": "mediation analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "Autonomy",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".01",
+                        "CI": {
+                            "lower": "-.06",
+                            "upper": ".11",
+                            "type": " 95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Competence",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".01",
+                        "CI": {
+                            "lower": "-.02",
+                            "upper": ".05",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Relatedness",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".01",
+                        "CI": {
+                            "lower": "-.01",
+                            "upper": ".03",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+
+         {
+            "test_name": "mediation analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "Autonomy",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.03",
+                        "CI": {
+                            "lower": "-.09",
+                            "upper": ".02",
+                            "type": " 95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Competence",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".01",
+                        "CI": {
+                            "lower": "-.05",
+                            "upper": ".06",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Relatedness",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.01",
+                        "CI": {
+                            "lower": "-.07",
+                            "upper": ".04",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+         {
+            "test_name": "mediation analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "Autonomy",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.01",
+                        "CI": {
+                            "lower": "-.11",
+                            "upper": ".07",
+                            "type": " 95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Competence",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.03",
+                        "CI": {
+                            "lower": "-.11",
+                            "upper": ".07",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Relatedness",
+                    "p_value": "significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".10",
+                        "CI": {
+                            "lower": ".04",
+                            "upper": ".18",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+         {
+            "test_name": "mediation analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "Autonomy",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.001",
+                        "CI": {
+                            "lower": "-.03",
+                            "upper": ".02",
+                            "type": " 95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Competence",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.01",
+                        "CI": {
+                            "lower": "-.05",
+                            "upper": ".02",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Relatedness",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".05",
+                        "CI": {
+                            "lower": "-.02",
+                            "upper": ".13",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+
+         {
+            "test_name": "mediation analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "Autonomy",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.002",
+                        "CI": {
+                            "lower": "-.06",
+                            "upper": ".04",
+                            "type": " 95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Competence",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".02",
+                        "CI": {
+                            "lower": "-.03",
+                            "upper": ".09",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Relatedness",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.01",
+                        "CI": {
+                            "lower": "-.05",
+                            "upper": ".03",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+         {
+            "test_name": "mediation analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "Autonomy",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.003",
+                        "CI": {
+                            "lower": "-.08",
+                            "upper": ".08",
+                            "type": " 95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Competence",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.03",
+                        "CI": {
+                            "lower": "-.10",
+                            "upper": ".04",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Relatedness",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.06",
+                        "CI": {
+                            "lower": "-.004",
+                            "upper": ".14",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+         {
+            "test_name": "mediation analysis",
+            "N": "211",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "Autonomy",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.0002",
+                        "CI": {
+                            "lower": "-.02",
+                            "upper": ".03",
+                            "type": " 95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Competence",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": "-.01",
+                        "CI": {
+                            "lower": "-.06",
+                            "upper": ".02",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                },
+                 {
+                    "factor": "Relatedness",
+                    "p_value": "not significant",
+                    "effect_size": {
+                        "measure": "standardized beta coefficient",
+                        "value": ".03",
+                        "CI": {
+                            "lower": "-.01",
+                            "upper": ".08",
+                            "type": "95% bias-corrected"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        }
+    ]
+}

@@ -1,0 +1,704 @@
+{
+    "title": "Design of Digital Workplace Stress-Reduction Intervention Systems: Effects of Intervention Type and Timing",
+    "erstautor": "Esther Howe",
+    "doi": "10.1145/3491102.3502027",
+    "link": "https://doi.org/10.1145/3491102.3502027",
+    "year": "2022",
+    "topics": [
+        ""
+    ],
+    "tests": [
+        {
+            "test_name": "Pearson correlation",
+            "N": "1318",
+            "p-value": "<0.01",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "r",
+                "value": "0.2",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "86",
+            "p-value": "<0.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Welch Two Sample t-test",
+            "N": "86",
+            "p-value": "p<0.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Pearson's correlation",
+            "N": "86",
+            "p-value": ">0.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "r",
+                "value": "-0.06",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Welch Two Sample t-test",
+            "N": "86",
+            "p-value": ">0.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "5",
+            "problem_explanation": "unsure of the scale type of outcome - e.g. unsure of test type: we found no statistically significant difference in both momentary and study-long stress reduction between the two conditions."
+        },
+        {
+            "test_name": "Welch Two Sample t-test",
+            "N": "86",
+            "p-value": ">0.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "5",
+            "problem_explanation": "unsure of scale type of outcome variable: we found no statistically significant difference in both momentary and study-long stress reduction between the two conditions."
+        },
+        {
+            "test_name": "linear mixed-effects model",
+            "N": "86",
+            "p-value": "",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                {
+                    "factor": "",
+                    "p_value": "<0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "linear mixed-effects model",
+            "N": "86",
+            "p-value": "",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "",
+                    "p_value": "<0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "6",
+            "problem_explanation": "Unsure, because could be Welch's test, but reported as ANOVA, but with only one type of df, so maybe it's also a linear model?"
+        },
+        {
+            "test_name": "Welch Two Sample t-test",
+            "N": "86",
+            "p-value": "<0.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "linear mixed-effects model",
+            "N": "86",
+            "p-value": "",
+            "num_conditions": "2x2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "",
+                    "p_value": "<0.01",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "5",
+            "problem_explanation": "unsure about sample size, seems like it was only for PS participants, but did not find numbers on participants per group"
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "86",
+            "p-value": "0.064",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "5",
+            "problem_explanation": "text only refers to PS participants, but unclear how many there are, sample size = unclear"
+        },
+        {
+            "test_name": "Welch Two Sample t-test",
+            "N": "86",
+            "p-value": "<0.01",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Welch Two Sample t-test",
+            "N": "86",
+            "p-value": "<0.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Welch Two Sample t-test",
+            "N": "86",
+            "p-value": ">0.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "linear mixed-effects model",
+            "N": "84",
+            "p-value": "",
+            "num_conditions": "1x1x4x1x2x3",
+            "num_repeat": "different per participant",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "two-way interaction",
+                    "p_value": "<0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "all other factors",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "2",
+            "problem_explanation": "don't know how many factors, because don't know which combinations of variables were considered."
+        },
+        {
+            "test_name": "one-way analysis of variance (ANOVA)",
+            "N": "84",
+            "p-value": "<0.05",
+            "num_conditions": "3",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "3",
+            "problem_explanation": "feels like this is a post-hoc to the linear mixed effects model, since df indicate only 84 participants, unsure about the conditions, should be 3, but df indicate 2?!"
+        },
+        {
+            "test_name": "linear mixed-effects model",
+            "N": "86",
+            "p-value": "",
+            "num_conditions": "3x2x1x1x4x2x1",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "intervention type",
+                    "p_value": "<0.01",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "all other factors",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "3",
+            "problem_explanation": "again unsure about conditions, and further factors"
+        },
+        {
+            "test_name": "Tukey's HSD procedure",
+            "N": "86",
+            "p-value": "<0.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Tukey's HSD procedure",
+            "N": "86",
+            "p-value": "<0.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Tukey's HSD procedure",
+            "N": "86",
+            "p-value": ">0.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "linear mixed-effects model",
+            "N": "86",
+            "p-value": "",
+            "num_conditions": "3",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "intervention",
+                    "p_value": "<0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Tukey's HSD procedure",
+            "N": "86",
+            "p-value": "<0.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Tukey's HSD procedure",
+            "N": "86",
+            "p-value": ">0.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Tukey's HSD procedure",
+            "N": "86",
+            "p-value": ">0.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Welch Two Sample t-test",
+            "N": "86",
+            "p-value": "p<0.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Welch Two Sample t-test",
+            "N": "86",
+            "p-value": ">0.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Welch Two Sample t-test",
+            "N": "86",
+            "p-value": ">0.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Welch Two Sample t-test",
+            "N": "86",
+            "p-value": ">0.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Welch Two Sample t-test",
+            "N": "86",
+            "p-value": ">0.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Welch Two Sample t-test",
+            "N": "86",
+            "p-value": ">0.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Welch Two Sample t-test",
+            "N": "86",
+            "p-value": ">0.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Welch Two Sample t-test",
+            "N": "86",
+            "p-value": ">0.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        }
+    ]
+}

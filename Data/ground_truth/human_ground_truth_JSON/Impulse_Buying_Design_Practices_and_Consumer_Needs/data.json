@@ -1,0 +1,40 @@
+{
+    "title": "Impulse Buying: Design Practices and Consumer Needs",
+    "erstautor": "Carol Moser",
+    "doi": "10.1145/3290605.3300472",
+    "link": "https://doi.org/10.1145/3290605.3300472",
+    "year": "2019",
+    "topics": [
+        ""
+    ],
+    "tests": [
+        {
+            "test_name": "Levene's test",
+            "N": "200",
+            "p_value": ".02",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Welch ANOVA",
+            "N": "200",
+            "p_value": ".11",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        }
+    ]
+}

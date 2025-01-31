@@ -1,0 +1,3052 @@
+effectsize_measure,of_interest
+Pillai's trace,not_relevant
+Partial Eta Squared (ηp²),yes
+,no_es_reported
+Cronbach's Alpha (SUS),not_relevant
+Cronbach's Alpha (ARI),not_relevant
+Cronbach's Alpha (AttrakDiff PQ),not_relevant
+Cronbach's Alpha (AttrakDiff HQI),not_relevant
+Cronbach's Alpha (AttrakDiff HQS),not_relevant
+Cronbach's Alpha (AttrakDiff ATT),not_relevant
+Mean discriminability rate (L* axis),not_relevant
+Mean discriminability rate (a* axis),not_relevant
+Mean discriminability rate (b* axis),not_relevant
+Accuracy difference between highest and lowest L* values,not_relevant
+Perceived size for shapes with greater visual density,not_relevant
+Perceived size for higher-order mQTons,not_relevant
+"Accuracy for larger fixed sizes (e.g., 50 pixels)",not_relevant
+"Accuracy for smaller fixed sizes (e.g., 6 pixels)",not_relevant
+Difference in shape discriminability between 50 pixel shapes and 6 pixel shapes,not_relevant
+Odds Ratio,yes
+DID estimate,not_relevant
+t,not_relevant
+improvement,not_relevant
+ϕ,no
+V,check test
+τb,yes
+UNKNOWN,not_relevant
+mean difference,not_relevant
+η²,yes
+r,yes
+Cohen's d,yes
+Pseudo R2,no
+R2,yes
+Coefficient,not_relevant
+Mediation effect on recommendation quality,not_relevant
+Mediation effect on social presence,not_relevant
+Total effect on recommendation quality,not_relevant
+Total effect on social presence,not_relevant
+Indirect effect on competence via social presence,not_relevant
+Indirect effect on competence via explanation quality and recommendation quality,not_relevant
+Total effect on competence,not_relevant
+Total effect on benevolence,not_relevant
+Total effect on integrity,not_relevant
+Total effect on willingness to depend,not_relevant
+Total effect on follow advice,not_relevant
+Effect on give information from social presence,not_relevant
+Mean (Imp.),not_relevant
+SD (Imp.),not_relevant
+Mean (Per.),not_relevant
+SD (Per.),not_relevant
+η²_G,yes
+percentage points,not_relevant
+F-value,not_relevant
+mean rate of correct answers (proposed method),not_relevant
+mean rate of correct answers (random fading method),not_relevant
+mean rate of correct answers (standard method),not_relevant
+reading speed (fading degree 0),not_relevant
+reading speed (fading degree 1),not_relevant
+"reading speed (first sentences of paragraphs, proposed method)",not_relevant
+"reading speed (first sentences of paragraphs, standard method)",not_relevant
+"recognition rate (first sentences of paragraphs, proposed method)",not_relevant
+"recognition rate (first sentences of paragraphs, standard method)",not_relevant
+μ,not_relevant
+β,not_relevant
+Incremental R2,yes
+Total R2,yes
+Indirect Effect,not_relevant
+Kaiser-Meyer-Olkin (KMO),not_relevant
+Cronbach's alpha,not_relevant
+Spearman's ρ,yes
+Factor Loading,not_relevant
+Mean Valence,not_relevant
+Mean Arousal,not_relevant
+95% CI,not_relevant
+Odds Ratio (OR),yes
+Correlation Coefficient,check test
+R^2,yes
+slope,not_relevant
+Correlation coefficient,check test
+Cohen's D,yes
+F,not_relevant
+Z,not_relevant
+r_s,maybe
+χ²,not_relevant
+Chi-squared,not_relevant
+b,not_relevant
+Chi-square statistic,not_relevant
+Chi-square,not_relevant
+Estimate,not_relevant
+AUC,not_relevant
+"Feature Importance (Thread, Culture Agnostic)",not_relevant
+"Feature Importance (Thread, Indian)",not_relevant
+"Feature Importance (Post, Culture Agnostic)",not_relevant
+"Feature Importance (Post, Indian)",not_relevant
+η2,yes
+χ2,not_relevant
+cor,check test
+Median Task Time (Baseline),not_relevant
+Median Task Time (BO),not_relevant
+Median Task Time (Batch 1),not_relevant
+Median Task Time (Batch 2),not_relevant
+Median Task Time (Batch 3),not_relevant
+ρ,yes
+Mean (SD),not_relevant
+Accuracy (Hand),not_relevant
+TTR (Hand),not_relevant
+Re-stim (Hand),not_relevant
+Accuracy (Forearms),not_relevant
+TTR (Forearms),not_relevant
+Re-stim (Forearms),not_relevant
+Accuracy (Post-Training),not_relevant
+TTR (Post-Training),not_relevant
+Re-stim (Post-Training),not_relevant
+Accuracy (Recall),not_relevant
+TTR (Recall),not_relevant
+Re-stim (Recall),not_relevant
+Accuracy,not_relevant
+Re-stim,not_relevant
+Mean,not_relevant
+Percentage,not_relevant
+W,not_relevant
+Cramer's V,yes
+Standardized Residual,not_relevant
+U,not_relevant
+Mean Difference,not_relevant
+Distinguishability,not_relevant
+Kappa,not_relevant
+d,yes
+regression coefficient,not_relevant
+R²,yes
+estimate,not_relevant
+Deviance,not_relevant
+Krippendorff's α,not_relevant
+Mean Time (s),not_relevant
+Correct Detection Rate,not_relevant
+Detection Rate,not_relevant
+Ease of Use,not_relevant
+Natural Look,not_relevant
+Comfort,not_relevant
+Unobtrusiveness,not_relevant
+VG,not_relevant
+Percentage of relevant responses,not_relevant
+Percentage of valid interactions,not_relevant
+WPM,not_relevant
+UER,not_relevant
+CER,not_relevant
+Speed (WPM),not_relevant
+ηp²,yes
+WPM (Novice),not_relevant
+WPM (Expert),not_relevant
+UER% (Novice),not_relevant
+UER% (Expert),not_relevant
+ηp2,yes
+M,not_relevant
+B,not_relevant
+η² (eta squared),yes
+Mean Accuracy,not_relevant
+mean fixation duration (real images),not_relevant
+mean fixation duration (mental images),not_relevant
+mean number of fixations (encoding),not_relevant
+mean number of fixations (recall),not_relevant
+AUC (distance measure),not_relevant
+AUC (CNN),not_relevant
+"AUC (distance measure, recall)",not_relevant
+"AUC (CNN, recall)",not_relevant
+"AUC (EMD, all observers)",not_relevant
+"AUC (EMD, same observer)",not_relevant
+"AUC (CNN, all observers)",not_relevant
+"AUC (CNN, same observer)",not_relevant
+η_p^2,yes
+Understanding,not_relevant
+Expression,not_relevant
+Usefulness,not_relevant
+Kru,not_relevant
+Mean difference (low),not_relevant
+Mean difference (high),not_relevant
+Pearson's r (overall),yes
+Pearson's r (significant asymmetric transfer),yes
+Pearson's r (no significant effect),yes
+Tukey HSD post hoc pairwise comparisons,not_relevant
+Q,not_relevant
+Post hoc tests,not_relevant
+Tukey HSD post hoc tests,not_relevant
+Time difference,not_relevant
+Success difference,not_relevant
+z,not_relevant
+H,not_relevant
+κ,not_relevant
+Chi-Square,not_relevant
+Regression Coefficient,not_relevant
+rs,check test
+δ,not_relevant
+mean standard deviation in y-direction,not_relevant
+mean standard deviation in x-direction,not_relevant
+mean input speed for i'sFree,not_relevant
+mean input speed for eyes-free baseline,not_relevant
+mean input speed for eyes-on baseline,not_relevant
+mean gesturing speed for i'sFree,not_relevant
+mean gesturing speed for eyes-free baseline,not_relevant
+mean gesturing speed for eyes-on baseline,not_relevant
+mean word error rate for i'sFree,not_relevant
+mean word error rate for eyes-free baseline,not_relevant
+mean word error rate for eyes-on baseline,not_relevant
+mean backspace to word ratio for i'sFree,not_relevant
+mean backspace to word ratio for eyes-free baseline,not_relevant
+mean backspace to word ratio for eyes-on baseline,not_relevant
+mean duration for i'sFree,not_relevant
+mean duration for eyes-free baseline,not_relevant
+mean mental demand for i'sFree,not_relevant
+mean mental demand for eyes-free baseline,not_relevant
+mean mental demand for eyes-on baseline,not_relevant
+Cramér's V,yes
+Pseudo R² (McFadden),no
+Pseudo R² (Nagelkerke),no
+Difference in means,not_relevant
+Regression Coefficient (β),not_relevant
+Cohen's kappa,not_relevant
+Growth rate r,not_relevant
+C0,not_relevant
+C∞,not_relevant
+Pearson's r,yes
+Mean difference,not_relevant
+Mean (KM),not_relevant
+Mean (SKM),not_relevant
+Standard Deviation (KM),not_relevant
+Standard Deviation (SKM),not_relevant
+SUS,not_relevant
+T value,not_relevant
+Spearman correlation coefficient,yes
+Pearson correlation coefficient,yes
+percentage,not_relevant
+Adjusted R²,maybe
+#s,not_relevant
+#p,not_relevant
+#c,not_relevant
+η²p,yes
+Count,not_relevant
+Mean (M) and Standard Deviation (SD),not_relevant
+duration,not_relevant
+retweet duration,not_relevant
+reply rate,not_relevant
+retweet rate,not_relevant
+reply duration,not_relevant
+Growth Rate,not_relevant
+Pearson's R,yes
+ω (omega),maybe
+Mean (M),not_relevant
+Standard Deviation (SD),not_relevant
+Median (Mdn),not_relevant
+Minimum (Min),not_relevant
+Maximum (Max),not_relevant
+Sum,not_relevant
+log KL divergence (KLD),not_relevant
+"
+η_p^2",yes
+η_G^2,yes
+Mean Rating,not_relevant
+B (Regression Coefficient),not_relevant
+r (Correlation Coefficient),yes
+Partial Eta Squared (η_p^2),yes
+Chi-Squared (χ²),not_relevant
+Delta (δ),not_relevant
+Security Score,not_relevant
+Secure,not_relevant
+Mean Amplitude (degrees),not_relevant
+Percentage Difference,not_relevant
+βx= 0,not_relevant
+βx= 1,not_relevant
+βx= 2,not_relevant
+βx= 3,not_relevant
+βx= 4,not_relevant
+βy= 0,not_relevant
+βy= 1,not_relevant
+βy= 2,not_relevant
+βy= 3,not_relevant
+βy= 4,not_relevant
+CSI Score,not_relevant
+mean gaze estimation error (Tobii EyeX),not_relevant
+mean gaze estimation error (MPIIFaceGaze),not_relevant
+mean gaze estimation error (GazeML),not_relevant
+t-value,not_relevant
+Precision,not_relevant
+Recall,not_relevant
+F-score,not_relevant
+f,maybe
+OR,yes
+Percentage Increase in Friends,not_relevant
+Hazard Ratio (HR),not_relevant
+Transition Probability,not_relevant
+F1 Score,not_relevant
+ROC AUC,not_relevant
+F1 Score Difference,not_relevant
+ROC AUC Difference,not_relevant
+Mean Difference (What.Hack vs Anti Phishing Phil),not_relevant
+Mean Difference (What.Hack vs PhishLine),not_relevant
+Mean Difference (Anti Phishing Phil vs PhishLine),not_relevant
+Proportion,not_relevant
+mean,not_relevant
+difference,not_relevant
+AR,not_relevant
+Total Proposals,not_relevant
+Distinct Proposals,not_relevant
+MM%,not_relevant
+Max-Consensus (Cm),not_relevant
+Consensus-Distinct (Cd),not_relevant
+Distance (SE),not_relevant
+Time (SE),not_relevant
+Success Rate (SE),not_relevant
+Accuracy (SE),not_relevant
+Proportion of successful blends,not_relevant
+Average number of brainstormed items,not_relevant
+Average number of images found,not_relevant
+Number of good blends per concept pair,not_relevant
+partial η²,yes
+Mean (Base),not_relevant
+Mean (RDF),not_relevant
+Mean (ACF),not_relevant
+median (focused),not_relevant
+median (open),not_relevant
+"Mean (Neuroscience, Animation-based)",not_relevant
+"SD (Neuroscience, Animation-based)",not_relevant
+"Mean (Neuroscience, Text-based)",not_relevant
+"SD (Neuroscience, Text-based)",not_relevant
+t(97) (Neuroscience),not_relevant
+"Mean (Binary, Animation-based)",not_relevant
+"SD (Binary, Animation-based)",not_relevant
+"Mean (Binary, Text-based)",not_relevant
+"SD (Binary, Text-based)",not_relevant
+t(97) (Binary),not_relevant
+Mean (High Mental-Effort),not_relevant
+SD (High Mental-Effort),not_relevant
+Mean (Low Mental-Effort),not_relevant
+SD (Low Mental-Effort),not_relevant
+t(45),not_relevant
+Slope,not_relevant
+t(93) (Binary Integers),not_relevant
+t(93) (D-To-B),not_relevant
+t(93) (Binary Addition),not_relevant
+"t(92) (Two's Complement, m1)",not_relevant
+"t(90) (Two's Complement, m2)",not_relevant
+ICC2k,not_relevant
+SD,not_relevant
+Std,not_relevant
+MSE,not_relevant
+Decrease in stride length per level of auditory realism,not_relevant
+Increase in TCT per level of auditory realism,not_relevant
+Quadratic effect on TCT,not_relevant
+Effect on head height,not_relevant
+Effect on proportion of cautious stepping,not_relevant
+N. opt.,not_relevant
+N. lim.,not_relevant
+RMSE,not_relevant
+eta squared,yes
+Difference of Means,not_relevant
+Error Rate Difference,not_relevant
+S (Saved),not_relevant
+D (Discarded),not_relevant
+SbS (Step-by-Step explanation used),not_relevant
+L (Loop),not_relevant
+I (Inconsistency),not_relevant
+R (Redundancy),not_relevant
+Total,not_relevant
+Mean (Ear Touch),not_relevant
+SD (Ear Touch),not_relevant
+Mean (Finger Touch),not_relevant
+SD (Finger Touch),not_relevant
+Partial Eta Squared,yes
+F1,not_relevant
+Example Queries,not_relevant
+R,check test
+Mean (Females),not_relevant
+Mean (Males),not_relevant
+Frequency of 'precise',not_relevant
+Frequency of 'imprecise',not_relevant
+Frequency of 'untrustworthy',not_relevant
+Frequency of 'inexpensive',not_relevant
+Frequency of 'weak',not_relevant
+Frequency of 'smooth',not_relevant
+Frequency of 'pleasant',not_relevant
+Frequency of 'strong',not_relevant
+Correlation with annoyance,check test
+Correlation with roughness,check test
+Correlation with pleasantness,check test
+Correlation with preference,check test
+Correlation with spectral spread,check test
+Correlation with strength,check test
+Correlation with irregularity,check test
+Correlation with spectral centroid,check test
+Coefficient a,not_relevant
+Coefficient b,not_relevant
+Coefficient c,not_relevant
+Coefficient d,not_relevant
+Coefficient e,not_relevant
+Coefficient f,not_relevant
+Median,not_relevant
+Difference in Accuracy,not_relevant
+p,not_relevant
+mean ± SEM,not_relevant
+Log time,not_relevant
+Log total time,not_relevant
+Log daily time,not_relevant
+Estimated Coefficient,not_relevant
+Correlation Coefficient (r),not_relevant
+AUC (ALL),not_relevant
+AUC (IC),not_relevant
+AUC (AC),not_relevant
+Beta,not_relevant
+Average Rating (SD),not_relevant
+Pre-Study,not_relevant
+Post-Interaction,not_relevant
+One-Week,not_relevant
+Neutral,not_relevant
+Curious,not_relevant
+Curious+Reveal,not_relevant
+Incidence Rate Ratio,not_relevant
+Z-Score,not_relevant
+odds ratio,yes
+Generalization Error (°),not_relevant
+Error (°),not_relevant
+5-pixel error (%),not_relevant
+Inference Time (ms),not_relevant
+Mean Error,not_relevant
+Median Time,not_relevant
+Median Error,not_relevant
+r²,check test
+Increase in RT per hour,not_relevant
+Increase in RT per blink/min,not_relevant
+X^2,not_relevant
+Reading Speed Increase,not_relevant
+Reading Speed Decrease,not_relevant
+Readability Rating,not_relevant
+Classical Aesthetics Rating,not_relevant
+Expressive Aesthetics Rating,not_relevant
+Intercept,not_relevant
+Reader View Effect,not_relevant
+Dyslexia (diagnosed) Effect,not_relevant
+Dyslexia (self-diagnosed) Effect,not_relevant
+RV × Dys (diagnosed) Interaction Effect,not_relevant
+RV × Dys (self-diagnosed) Interaction Effect,not_relevant
+Screenshot Width Effect,not_relevant
+Word Count Effect,not_relevant
+Age Effect,not_relevant
+Native English Speaker Effect,not_relevant
+Difference,not_relevant
+Difference in Aptness,not_relevant
+Difference in Specificity,not_relevant
+Difference in Imageability,not_relevant
+T,not_relevant
+Points,not_relevant
+GroupMean,not_relevant
+GroupSD,not_relevant
+GroupSize=20,not_relevant
+GroupSize=50,not_relevant
+R-squared,yes
+GroupMean*GroupSD,not_relevant
+GroupMean*GroupSize=20,not_relevant
+GroupMean*GroupSize=50,not_relevant
+GroupSD*GroupSize=20,not_relevant
+GroupSD*GroupSize=50,not_relevant
+GroupMean*GroupSD*GroupSize=20,not_relevant
+GroupMean*GroupSD*GroupSize=50,not_relevant
+Points2,not_relevant
+GrpMean*GrpSD*GrpSize=20,not_relevant
+GrpMean*GrpSD*GrpSize=50,not_relevant
+Standard Deviation,not_relevant
+Standardized Coefficient Beta,not_relevant
+Coeff (SE),not_relevant
+Mean (Pincher),not_relevant
+Mean (Dragger),not_relevant
+Mean (Presser),not_relevant
+Effect Size (Pincher),not_relevant
+Effect Size (Dragger),not_relevant
+Effect Size (Presser),not_relevant
+Partial η²,yes
+ω²,yes
+r^2,yes
+Spearman's rho,yes
+adjusted R^2,yes
+Beta (1),not_relevant
+Beta (2),not_relevant
+Beta (3),not_relevant
+Mean MS,not_relevant
+Mean ME,not_relevant
+Mean MEF,not_relevant
+Mean ToU,not_relevant
+Mean AdoptRate,not_relevant
+Mean MEF (Experiment 1),not_relevant
+Mean MEF (Experiment 3),not_relevant
+Mean (pre),not_relevant
+Mean (post),not_relevant
+F-statistic,not_relevant
+Wilks's lambda,not_relevant
+Median (IQR),not_relevant
+χ2 (5),not_relevant
+correlation coefficient (r),yes
+Negative effect,not_relevant
+median,not_relevant
+Mean Distance,not_relevant
+mean (C1),not_relevant
+mean (C2),not_relevant
+Effect Size,no
+Usage time (m),not_relevant
+Per question time (s),not_relevant
+Return rate,not_relevant
+Total repetitions,not_relevant
+Total questions,not_relevant
+Overall recall accuracy,not_relevant
+Practiced recall accuracy,not_relevant
+Overall recognition accuracy,not_relevant
+Practiced recognition accuracy,not_relevant
+One-week recognition accuracy,not_relevant
+Two-month recognition accuracy,not_relevant
+Min. Width (mm),not_relevant
+Throughput (bits/s),not_relevant
+SMAPE,
+Coefficient (Freq. of Conflict Situations),
+Coefficient (Service Orientation),
+Coefficient (Recognition),
+Coefficient (Independence),
+Coefficient (Responsibility for outcomes),
+Coefficient (Working Conditions),
+Coefficient (Freq. Decision Making),
+Coefficient (Enterprising),
+Coefficient (Monitoring Resources),
+Coefficient (Initiative),
+Coefficient (Adaptability/Flexibility),
+Coefficient (Work Schedules),
+Coefficient (Face to Face Discussions),
+Coefficient (Importance of Being Exact),
+Coefficient (Coaching Others),
+Coefficient (Instructing),
+Coefficient (Wk. w/ Work Group),
+Coefficient (Conventional),
+Coefficient (Support),
+Coefficient (Maintain Relationships),
+Mean ± SD,not_relevant
+Exp(b),
+Δ,not_relevant
+standard deviation,
+MAE,not_relevant
+MAE for position,
+MAE for velocity,
+MAE for acceleration,
+RMSE for position,
+RMSE for velocity,
+RMSE for acceleration,
+Success rate,
+BF01,
+BF10,not_relevant
+Correction Rate,
+Selection Accuracy,
+Mean ± SD (MG),
+Mean ± SD (NC),
+mean comfortability score,
+Partial Eta Squared (η²p),yes
+Partial Eta Squared (η²),yes
+Number of Optional Tasks Completed,
+Focused attention,
+Perceived usability,
+Aesthetic appeal,
+Reward factor,
+Overall,
+Unweighted NASA-TLX Score,
+Wilks’ λ (Arousal),
+Wilks’ λ (Valence),
+Z (Valence),
+Z (Arousal),
+χ² (Arousal),
+χ² (Valence),
+χ² (Lane Deviation),
+χ² (Steering Angle),
+χ² (Average Speed),
+χ² (Number of Collisions),
+χ² (Comfort Ratings),
+Mean (SD) Condition 1,
+Mean (SD) Condition 2,
+Mean (SD) Water/Clean Air,
+Mean (SD) Rose,
+Mean (SD) Peppermint,
+Mean (SD) Civet,
+Bonferroni adjusted p,
+w,
+Mean Rank Difference,
+Geometric Mean Time (Audio),
+Geometric Mean Time (Braille),
+Total Count of Labels Read (Braille),
+Total Count of Labels Read (Audio),
+Δ (Delta),
+Performance Increase,
+p-value,
+est. ω²,check test
+Association with social engagement,
+Association with interpersonal behavior,
+Association with prosocial activities,
+Association with recreation,
+Association with independence-competence,
+Association with independence-performance,
+Association with employment,
+Pearson r-value (5-fold cross validation),yes
+Test MAE/RMSE (5-fold cross validation),
+vs. baseline MAE/RMSE (5-fold cross validation),
+Pearson r-value (leave-one-subject-out),yes
+Per-user error mean(std) (leave-one-subject-out),
+Pearson r-value (customized leave-one-subject-out),yes
+Per-user error mean(std) (customized leave-one-subject-out),
+SE,not_relevant
+Underestimation rate,
+Overestimation rate,
+Perception Frequency Range (Finger Pad),
+Perception Frequency Range (Temple),
+Just-Noticeable-Difference (JND),
+Point of Subjective Equality (PSE),
+Completion Time,not_relevant
+Motion Sickness,
+Weber Fraction (WF),
+Frequency,not_relevant
+Overall Classification Accuracy,
+Within-user Classification Accuracy,
+Between-user Classification Accuracy,
+Overall Button Click Detection Accuracy,
+ANOVA F-value for Button Click Recognition Accuracies,
+ANOVA p-value for Button Click Recognition Accuracies,
+ANOVA F-value for Slide Time,
+ANOVA p-value for Slide Time,
+Overall Detection Accuracy,
+Within-user Sensing Accuracy,
+Between-user Sensing Accuracy,
+Kendall's W,not_relevant
+Chi-squared (χ²),
+ICC for Readability,
+ICC for Coherence,
+Accuracy Improvement,not_relevant
+Standard Deviation Increase,
+η^2_G,yes
+Accuracy for Tension Force Intensities,
+Accuracy for Resistance Force Intensities,
+Accuracy for Impact Force Intensities,
+Accuracy for Material Rigidities,
+Accuracy for Tension Force Directions,
+Realism Rating,
+Enjoyment Rating,
+Average Force (Heavy),
+Average Force (Medium),
+Average Force (Light),
+Mean (Callisto),
+Mean (Control),not_relevant
+partial eta-squared,yes
+Slope (dX),
+Intercept (dX),
+R-squared (dX),yes
+Slope (dY),
+Intercept (dY),
+R-squared (dY),yes
+Mean Difference (Small Multiples vs. Animation),
+Mean Difference (Small Multiples vs. Glyph Map),
+Mean Difference (Animation vs. Glyph Map),
+Mean Error Rate (Small Multiples),
+Mean Error Rate (Animation),
+Mean Error Rate (Glyph Map),
+Confidence (Animation),
+Confidence (Small Multiples),
+Confidence (Glyph Map),
+Error Rate,
+Confidence,not_relevant
+Completion Time (Animation),
+Completion Time (Small Multiples),
+Completion Time (Glyph Map),
+Error Rate (Animation),
+Error Rate (Glyph Map),
+Error Rate (Small Multiples),
+log absolute error difference,
+log absolute error mean difference,
+seconds,
+Mean (Tangible),
+Mean (Voice),
+Mean (Smartphone),
+mean similarity difference,
+mean similarity,
+B0+,
+Percentage Answered,
+Percentage Accurate,
+steps of improvement on 5-point Likert scale,
+within-user R2,yes
+cross-user R2,yes
+classification,
+ranking,
+Stress level diff,
+Coeff.,
+Estimates,
+accuracy,
+Mean (Standard Deviation),
+median difference,
+Source Type,
+Condition,
+Interaction (Source Type x Condition),
+3-way Interaction (Participant Partisanship x Source Type x Condition),
+2-way Interaction (Participant Partisanship x Source Type),
+Control,not_relevant
+Treatment,
+Democrats (Control),
+Democrats (Treatment),
+Republicans (Control),
+Republicans (Treatment),
+Familiarity,not_relevant
+Interaction (Familiarity x Source Type),
+t value,
+mean (music playing),
+std (music playing),
+mean (no music),
+std (no music),
+ω,maybe
+Average,
+Longest streak,
+Average streak,
+MA app,
+MA skill,
+Mean pos,
+Mean neg,
+Mean pos-neg,
+SD pos,
+SD neg,
+SD pos-neg,
+"Negative emotions (sadness, fear)",
+Joy,
+"Anger, Disgust",
+Other emotions,
+First person plural pronouns,
+Second person pronouns,
+Difference (We - You),
+Encouragement: Sentences Ratio,
+Average length of support message (sentences),
+Average length of support message (words),
+SocialBehavior,
+Abstraction,
+Action Verbs,
+InstrumentalBehavior,
+TemporalReferences,
+Mean words (more successful),
+Mean sentences (more successful),
+Mean words (less successful),
+Mean sentences (less successful),
+Estimate for Actual time,
+Estimate for Actual sessions,
+Estimate for Age,
+Estimate for Gender:Male,
+Estimate for Gender:Other,
+Estimate for Brazil,
+Estimate for France,
+Estimate for Indonesia,
+Estimate for Mexico,
+Estimate for Philippines,
+Estimate for Thailand,
+Estimate for Vietnam,
+Estimate for Spain,
+Authenticity Score Change,
+Average Duration (Treatment),
+Average Duration (Control),
+Mean (GroupfeedBot),
+Mean (basic chatbot),
+Mean (Basic),
+Mean (GFB),
+SD (Basic),
+SD (GFB),
+Gini (Basic),
+Gini (GFB),
+Mean Completion Time,
+Pseudo-R²,no
+β (Positive Affect),
+β (Negative Affect),
+Cohen's d (Noticing vs. Synchronizing),yes
+Cohen's d (Differentiating vs. Synchronizing),yes
+β (Reappraisal),
+β (Distraction),
+Mean (WRAPI),
+Mean (Coding),
+ED_avg,
+Error Rate (One Finger),
+Error Rate (Two Fingers),
+Boost (%),
+Screen-in Rate Pre-Deployment,
+Screen-in Rate Post-Deployment,
+Screen-in Rate for Underestimated Scores (Shown Score 11-15),
+Screen-in Rate for Other Scores (Shown Score 11-15),
+Screen-in Rate for Black Children Pre-Deployment,
+Screen-in Rate for Black Children Post-Deployment,
+Screen-in Rate for White Children Pre-Deployment,
+Screen-in Rate for White Children Post-Deployment,
+Percentage choosing balanced option,
+Percentage choosing selfish option,
+Percentage choosing balanced option (VIZ),
+Percentage choosing balanced option (NOVIZ),
+Percentage choosing Share (VIZ),
+Percentage choosing Share (NOVIZ),
+correlation coefficient,
+$\u03B7 _G^2$,yes
+Mean (SD) for BPH,
+Median for BPH,
+Mean (SD) for MCWS,
+Median for MCWS,
+Mean (SD) for CTEG,
+Median for CTEG,
+Mean (SD) for AAT,
+Median for AAT,
+Mean (SD) for APA,
+Median for APA,
+No Assistance for BPH,
+Physical Assistance for BPH,
+Technical Assistance for BPH,
+Educational Assistance for BPH,
+Medical Assistance for BPH,
+No Assistance for MCWS,
+Physical Assistance for MCWS,
+Technical Assistance for MCWS,
+Educational Assistance for MCWS,
+Medical Assistance for MCWS,
+No Assistance for CTEG,
+Physical Assistance for CTEG,
+Technical Assistance for CTEG,
+Educational Assistance for CTEG,
+Medical Assistance for CTEG,
+No Assistance for AAT,
+Physical Assistance for AAT,
+Technical Assistance for AAT,
+Educational Assistance for AAT,
+Medical Assistance for AAT,
+No Assistance for APA,
+Physical Assistance for APA,
+Technical Assistance for APA,
+Educational Assistance for APA,
+Medical Assistance for APA,
+Mean (Control Group),
+Mean (Experimental Group),
+Mean (First Tertile Control Group),
+Mean (First Tertile Experimental Group),
+Mean (Second Tertile Control Group),
+Mean (Second Tertile Experimental Group),
+Mean (Third Tertile Control Group),
+Mean (Third Tertile Experimental Group),
+Difference in acceptability,
+F1 macro score,
+Standardized Coefficient (Intercept),
+Standardized Coefficient (Number of replies),
+Standardized Coefficient (Account age),
+Standardized Coefficient (Number of followers),
+Standardized Coefficient (Verified on Twitter),
+Standardized Coefficient (Number of retweets),
+Standardized Coefficient (Candidates followed),
+Standardized Coefficient (Page rank),
+Standardized Coefficient (Partisan hashtag in profile),
+Standardized Coefficient (% replies to opponent candidates),
+Standardized Coefficient (Opponent candidates replied to),
+Standardized Coefficient (Adversarial tweets posted by friends),
+Standardized Coefficient (% friends posted ≥ 3 adversarial tweets),
+Percentage Increase,
+Min,
+Max,
+Kramer's v,yes
+Median Rank,
+Accuracy (NL),
+Accuracy (AM),
+Time (NL),
+Time (AM),
+Effect Size (Time),check test
+Effect Size (Accuracy),check test
+Overview Insights (AM),
+Ranked Attribute Insights (AM),
+Topology-only Insights (NL),
+Topology-Attribute Insights (NL),
+Within-Node Attribute Insights (NL),
+FAR (Tip Pinch),
+FRR (Tip Pinch),
+FAR (Side Pinch),
+FRR (Side Pinch),
+"Mean Time (Neutral, Aligned)",
+"Mean Time (Neutral, Misaligned)",
+"Mean Time (Snapping, Aligned)",
+"Mean Time (Snapping, Misaligned)",
+Cliff's delta,
+Percentage from VR,
+VR Active Minutes,
+Steps Active Minutes,
+Total Active Minutes,
+Mean Squared Error (MSE),
+proportion difference,
+Variance Explained,not_relevant
+Cronbach's Alpha,not_relevant
+R^2 Adjusted,yes
+ß,
+BF,
+	δ,
+Medium ES,
+Large ES,
+Cohen's f,yes
+Cronbach's α,not_relevant
+β1,
+F ratio,
+Mean agreement,
+Percentage agreement,
+Participants,
+utm_source,
+utm_medium,
+utm_content,
+No Of Videos Watched Per User,
+Sweet Anita,
+iFL TV,
+Tim Pool,
+FNG,
+The Alpha Male Strategies Show,
+Cereal Entrepreneur - Jordan Steen,
+LetsPlay,
+SAM THE COOKING GUY,
+Unbox Therapy,
+Movieclips,
+Linus Tech Tips,
+Simply Nailogical,
+jade darmawangsa,
+Coefficient (Facebook-related job),
+Coefficient (time spent on Facebook score),
+MCC,
+Mean time (old interface),
+Mean time (new interface),
+Percentage (old notification settings),
+Percentage (new notification settings),
+Percentage (ad preferences page),
+Percentage (removing ad interests),
+F1 score,
+Mean (Avatar),
+Mean (Camera),
+Mean (Skeleton),
+λ,not_relevant
+Spine,
+Pan (Control),
+partial ɳ²,yes
+Mean (Camera - Dancing),
+Mean (Camera - Jumping),
+Mean (Camera - Spine),
+Mean (Camera - Panning),
+Mean (Control - Touching),
+Mean (Control - Dancing),
+Mean (Control - Panning),
+Mean (Control - Spine),
+Mean (Control - Waving),
+Mean (Control - Swiping),
+Mean (Control - Other),
+Mean (Avatar - Adults),
+Mean (Avatar - Children),
+Mean (Skeleton - Adults),
+Mean (Camera - Adults),
+Exploration,
+Results Worth Effort,
+Enjoyment,
+Adjusted R² (μ),yes
+Adjusted R² (σ),yes
+MAE (μ),
+MAE (σ),
+MWD,
+Mean resumption lag (ScreenTrack),
+Mean resumption lag (Control),
+Coverage Improvement,
+Transition Coverage Improvement,
+Transition Coverage Difference,
+Time Reduction,
+Time Metrics Difference,
+Task Completion Time Difference,
+Average time (s),
+Time (s) per transition,
+Adjusted R^2,yes
+Mean (Gamers),
+Mean (Non-gamers),
+cμ,
+cσ,
+ν,
+Median (Embodied Axes),
+Median (Tracked Controllers),
+Tukey HSD,
+Pillai's Trace,
+Mean (CT Score),
+Mean (Block Count),
+Mean (Abstraction),
+Mean (Parallelism),
+Mean (Logic),
+Mean (Synchronization),
+Mean (Flow Control),
+Mean (User Interactivity),
+Mean (Data Representation),
+a_n,
+a_v,
+b_n,
+b_v,
+"Mean F1, P1",
+"Mean F1, P2",
+"Mean F1, P3",
+Preference for Ours,
+Preference for Keyword,
+Preference for Manual,
+Ours (Mean),
+Manual (Mean),
+Keyword (Mean),
+partial eta squared,yes
+chi-squared,
+Accuracy (M),
+AUC (M),
+Accuracy (F),
+AUC (F),
+Textio,
+Unitive,
+BERT fine-tune,
+Mean Time (Static),
+Mean Time (Interactive),
+Error Rate (Static),
+Error Rate (Interactive),
+Scroll Distance (Static),
+Scroll Distance (Interactive),
+Average Time Spent,
+Berry et al. approach,
+Kendall's Concordance Coefficient W,
+Chi-Square (χ²),not_relevant
+classification performance,
+correction time,
+number of necessary manual operations,
+F0.5,
+F2,
+Correctness Before,
+Correctness After,
+Manual,
+Automatic,
+Coefficient (Unfavorable Outcome),
+Coefficient (Biased Treatment),
+Coefficient (Unfavorable Outcome vs. Favorable Outcome),
+Coefficient (Biased Treatment vs. Unbiased Treatment),
+Cohen's h,
+% Correct,
+% Participants,
+Effect size,check test
+Mean difference (depth ray),
+Mean difference (bubble),
+Mean difference (shadow),
+Mean difference (heatmap),
+Mean difference (minVis),
+Percentage (bubble),
+Mean confidence (heatmap),
+Mean helpfulness (heatmap),
+Mean comprehensibility (heatmap),
+Confidence in Proportion Estimation,
+Confidence in Quantity Estimation,
+Verbal Expressions of Enjoyment,
+Verbal Expressions of Lack of Enjoyment,
+Immersion in VR,
+Immersion in 2D,
+References to Life Experiences in VR,
+References to Life Experiences in 2D,
+References to Real World Objects and Senses in VR,
+References to Real World Objects and Senses in 2D,
+References to Abstract Concepts in 2D,
+References to Abstract Concepts in VR,
+Log Estimate (LE),
+Coef,
+IS Scores,
+ES Scores,
+GraphScape Rank,
+Draco Rank,
+AIC,not_relevant
+Resistance decrease,
+Preference for CurveBoard,
+F1 score increase,
+median d,
+Absolute Offset,
+Relative Offset,
+Baseline Accuracy,
+SVM Accuracy,
+R_adj^2,yes
+Percentage of letters typed with left hand,
+R^2 (left hand same-side taps),yes
+R^2 (right hand same-side taps),yes
+R^2 (right to left alternate-side taps),yes
+R^2 (left to right alternate-side taps),yes
+η^2_p,yes
+TER (Total Error Rate),
+UER (Uncorrected Error Rate),
+Auto-Complete Rate,
+Top 1 Rank Percentage,
+Bayes Factor (BF),
+σ,
+Improvement Percentage,
+Slope Coefficient,
+bindirect,
+mean (AF),
+mean (Multi-View),
+mean SUS,
+mean SUS (spatial guidance interface),
+SD (spatial guidance interface),
+mean SUS (guided light field capture),
+SD (guided light field capture),
+Mean Interaction Time (Real World),
+Mean Interaction Time (VR),
+Correctness-rate,
+Win Rate (Word List A),
+Win Rate (Word List B),
+Mean response (Winners),
+Mean response (Losers),
+Average crossings,
+Average link length variance,
+Average incidence angle,
+Average Wrappings,
+Average Corner wrappings,
+Average Answers on wrappings,
+Average Answers on corner wrappings,
+effect size,check test
+partial eta-squared (ηp²),yes
+Phi (ϕ),no
+Cramer's Phi,check test
+Generalized Eta-Squared (η²),
+Average Task Time (Original),
+Average Task Time (Metrics),
+Average Task Time (Filter),
+Average # Videos Clicked (Original),
+Average # Videos Clicked (Metrics),
+Average # Videos Clicked (Filter),
+Cohen's Kappa (Overall Accessibility),
+Cohen's Kappa (Q3),
+Cohen's Kappa (Q4),
+Cohen's Kappa (Q5),
+Cohen's Kappa (Q6),
+Pearson Correlation (Q3),yes
+Pearson Correlation (Q4),yes
+Pearson Correlation (Q5),yes
+Pearson Correlation (Q6),yes
+Grand Mean Increase,
+Increase in SDNN,
+Grand Mean Breathing Rate,
+Perceived Effort,
+Questions Completed,
+Task Load,
+Mean Breathing Rate,
+Time on Target,
+SDNN,
+Breathing Rate,
+Cohen's Kappa,not_relevant
+"Average rating for ""easy to learn""",
+"Average rating for ""easy to understand""",
+"Average rating for ""easy to use""",
+"Average rating for ""efficient creation""",
+"Average rating for ""enjoyment""",
+U value,
+Pearson Correlation,yes
+ICC,not_relevant
+Norm. Brier,
+Avg. Absolute Error,
+sr,
+Percentage of time spent working together,
+Proportion of dangerous flashes,
+Proportion of repeated patterns,
+Proportion of red transitions,
+Miss-rate,
+Safe (PhotosensitivityPal),
+Dangerous (PhotosensitivityPal),
+No response (PhotosensitivityPal),
+Safe (PEAT),
+Dangerous (PEAT),
+No response (PEAT),
+F value,
+μ (average rate of increase),
+Z-value,
+Value,
+Mean Diff,
+Mean r,
+Task Completion Time (μ),
+Task Completion Time (σ),
+RMS Deviation (μ),
+RMS Deviation (σ),
+SUS Rating (μ),
+SUS Rating (σ),
+Task Completion Time (Mean),
+Task Completion Time (P-Value),
+RMS Error (Mean),
+RMS Error (P-Value),
+SUS Score (Mean),
+SUS Score (P-Value),
+Task Completion Time,
+RMS Deviation,
+Consistency,
+Paired Mean Difference,
+Divergence from Predispositions,
+Conformity to Pre-Existing Majority,
+Accuracy of Answering Manipulation Check,
+Mean Consistency,
+95% Confidence Interval,
+Balance,
+Range,
+Mean (μ),not_relevant
+Standard Deviation (σ),not_relevant
+Kendall's tau,yes
+F-Value,
+Interaction Effect F-Value,
+Wald χ2,
+Error,
+Time,
+Subjective User Rank,
+Factor Loadings,
+Embedding-based metrics,
+Aggregate-judge correlations,
+CFI,not_relevant
+TLI,not_relevant
+RMSEA,not_relevant
+Kaiser-Meyer-Olkin Measure of Sampling Adequacy (MSA),
+Cronbach's Alpha for F1,
+Cronbach's Alpha for F2,
+Cronbach's Alpha for F3,
+Cronbach's Alpha for F4,
+Cronbach's Alpha for F5,
+Cronbach's Alpha for F6,
+Factor Loading (F1),
+Communality (h2),
+Uniqueness (u2),
+Factor Loading (F2),
+Factor Loading (F3),
+Factor Loading (F4),
+Factor Loading (F5),
+Factor Loading (F6),
+rho,yes
+Mean Words Per Minute (WPM),
+Mean Command Input Time (seconds),
+Mean Command Input Error Rate (%),
+Mean Word Error Rate (%),
+Input Speed (WPM),
+Character Error Rate (%),
+Partial η² (η²_p),yes
+Normalized Coefficient,
+Cohen's κ,
+A,
+Cohen's drm,yes
+Percentage Agree + Strongly Agree,
+Percentage Agree + Strongly Agree (excluding No Opinion),
+Mean difference in unique issues found,
+Mean (Prediction),
+Mean (Standard),
+Mismatch Frequency (Prediction),
+Mismatch Frequency (Standard),
+Hypotheses Frequency (Prediction),
+Hypotheses Frequency (Standard),
+Post-Data Hypotheses Frequency (Prediction),
+Post-Data Hypotheses Frequency (Standard),
+Goal Frequency (Prediction),
+Goal Frequency (Standard),
+Observation Frequency (Prediction),
+Observation Frequency (Standard),
+Reasoning Frequency (Prediction),
+Reasoning Frequency (Standard),
+Belief Updates Frequency (Prediction),
+Belief Updates Frequency (Standard),
+Surprises Frequency (Prediction),
+Surprises Frequency (Standard),
+Average Number of Views (Prediction),
+Average Number of Views (Standard),
+Brushing-and-Linking Frequency (Prediction),
+Brushing-and-Linking Frequency (Standard),
+Average Time Spent (Prediction),
+Average Time Spent (Standard),
+Mean ranks S-type,
+Mean ranks E-type,
+rho coefficient,yes
+Minimum Nodes,
+Maximum Nodes,
+Average Nodes,
+Std Deviation Nodes,
+Minimum Saccades,
+Maximum Saccades,
+Average Saccades,
+Std Deviation Saccades,
+FAWU,
+Mean Activation Time,
+Lower Effort,
+Easier to Use,
+More Privacy Activation,
+Lower Mental Demand,
+Lower Temporal Demand,
+More Overall Performance,
+Broader Applications,
+More Want to Use Activation,
+Broader Applications Activation,
+Lower Frustration,
+Easier to Continuous Input,
+Preference,
+Prediction Accuracy (%),
+Correlation with Team Psychological Safety,check test
+Correlation with Team Composition,check test
+Correlation with Clear Direction,check test
+Correlation with Team Cohesion,check test
+Correlation with Team Efficacy,check test
+Eta-squared,yes
+Non-standardized regression weights (b),
+B (Clarity),
+B (Completeness),
+B (Consistency),
+B (Credibility),
+B (Empathy),
+Z (Agreeableness),
+Z (Conscientiousness),
+Z (Emotional Stability),
+Z (Conscientiousness with RP style),
+Z (Extraversion with RC style),
+B (Agreeableness),
+B (Emotional Stability),
+B (Openness),
+B (Extraversion),
+B (Conscientiousness),
+B (Confidence in Assessing Personality),
+M (Clarity),
+M (Completeness),
+M (Consistency),
+M (Credibility),
+M (Empathy),
+M (Completeness with RP style),
+M (Credibility with RP style),
+M (Empathy with RP style),
+M (Clarity with RP style),
+M (Consistency with RP style),
+ρ (Rank of Picture Realism and Perceptions),check test
+Mean Difference (μΔ),
+Train Accuracy,
+Test Accuracy,
+Mean Difference (ScholarPhi vs Declutter),
+Mean Difference (Declutter vs Basic),
+Mean Difference (ScholarPhi vs Basic),
+Complexity (Cop),
+Accuracy (Acc),
+Subjective Satisfaction Scores,
+Information Richness Effect on Relative Allocation,
+Information Richness Effect on Single-Story Allocation,
+Information Richness Effect on Comparative Allocation,
+Effect of Anonymization,
+Affective Response (Valence and Arousal),
+Correlation between Donation and Affect,check test
+Top-1 Accuracy,
+Top 0.01% Accuracy,
+Top 0.1% Accuracy,
+Top 1% Accuracy,
+Top 5% Accuracy,
+Top 10% Accuracy,
+Normalized RMSE,
+β_std,
+exp(β_std),
+\hat{\eta}^2_G,yes
+β (Elbow-plane),
+β (Elbow-sphere),
+β (SHOULDER-PLANE),
+β (ELBOW-SPHERE),
+kappa,
+coe,
+DCI,
+MIG,
+Completion Rate,
+Difficulty,
+Error AUC,
+Sum of Squares,
+Mean (Suggestion),
+Mean (Praise),
+Mean (Self-Monitoring),
+Mean (Reminder),
+Mean (Social Role),
+Z for Stress Level and Task Initiation,
+t for Energy Level and Time Spent,
+t for Energy Level and Number of Actions,
+t for Stress Level and Number of Actions,
+t for Stress Level and Time Spent,
+t for Proactiveness and Number of Actions,
+t for Proactiveness and Time Spent,
+Z for Attention Required by Ongoing Activity,
+Z for Perceived Mental Effort for Succeeding Activities,
+t for NONE vs. SUCCEED,
+t for NONE vs. PRECEDED,
+t for NONE vs. BETWEEN,
+t for NONE vs. WITHIN,
+Correlation Coefficients for Task Attributes and Activity Attributes,check test
+Correlation Coefficients for Stress Level and Task Choice,check test
+Correlation Coefficients for Energy Level and Task Choice,check test
+Standardized Beta,
+Precision (on-table tasks),
+Precision (in-hand tasks),
+Recall (on-table tasks),
+Recall (in-hand tasks),
+Precision (out of camera sight task),
+Precision (leaving away and back task),
+Recall (leaving away and back task),
+Mean Access Time (PanoTrack enabled),
+Mean Access Time (traditional face authentication),
+Median Temporal Demand (Auth+Track),
+Median Temporal Demand (traditional face authentication),
+Median Performance (Auth+Track),
+Median Performance (traditional face authentication),
+Median Willingness to Use (Auth+Track),
+Median Willingness to Use (traditional face authentication),
+Lambda (λ),
+Concordance Statistic (c),
+Mean Gain,
+Unstandardized Regression Coefficient (B),
+H-value,
+Mean usability rating (VoiceOver),
+Mean usability rating (Screen Recognition),
+Difference in affective wellbeing per 10-point increment in technology satisfaction,
+Difference in connectedness to others per 10-point increment in technology satisfaction,
+Difference in affective wellbeing per total time spent with technology,
+Difference in affective wellbeing per total time spent on social media,
+"
+        
+         \\omega
+        
+
+         2
+        
+        ",check test
+Exp(B),not_relevant
+Tucker Lewis Index (TLI),
+Mean (M) Modified,
+Standard Deviation (SD) Modified,
+Mean (M) Standard,
+Standard Deviation (SD) Standard,
+Intra Class Correlation Coefficient (κ),
+Hazard Ratio,
+Agreement Score (A),
+Ease Ratings,
+Match Ratings,
+Pleasure Ratings,
+Elicitation Time,
+Identification Time,
+Identifiability,
+Initial Learnability,
+Overall Learnability,
+Memorability,
+Gesture Performance Time,
+Gesture Recall Time,
+η²ₚ,yes
+Average SUS,
+StdDev SUS,
+Score,
+precision,
+recall,
+Nagelkerke's pseudo R^2,no
+Activation Time (ms),
+Completion Time (ms),
+Borg Scale,
+Selection Time (ms),
+Success Rate (%),
+Top-Level Selection Time (ms),
+Second-Level Selection Time (ms),
+Precision (Train),
+Recall (Train),
+F1 (Train),
+Precision (Test),
+Recall (Test),
+F1 (Test),
+Thumb Idle,
+Thumb Move,
+Index Idle,
+Index Move,
+Middle Idle,
+Middle Move,
+partial η2,yes
+r (non-spatial layout),yes
+r (spatial layout),yes
+Constant,
+Mean (SwapHQ),
+Mean (SwapLQ),
+Mean Difference (Eyes vs Mouth),
+Mean Difference (Eyes vs Nose),
+Mean (Real),
+Mean (Swap),
+Growth Ratio,
+Weighted F1 Score,
+Mean (Freehand),
+Mean (Armature),
+Mean (Patch),
+F-Statistic (F),
+ΔR²,maybe
+Median Change,
+Median Delete,
+Median Insert,
+Median Total,
+CI,not_relevant
+Count of ideas,
+β (Tenure),
+β (Posting Experience),
+β (Post Frequency),
+β (Seek IS),
+β (Seek ES),
+β (Receive IS),
+β (Receive ES),
+β (Seek IS x Receive IS),
+β (Seek IS x Receive ES),
+β (Seek ES x Receive IS),
+β (Seek ES x Receive ES),
+β (Tenure x Receive IS),
+β (Posting Experience x Receive IS),
+β (Tenure x Receive ES),
+β (Posting Experience x Receive ES),
+Rate of Pattern Exposure,
+Rate of Active Pattern Exposure,
+Rate of Pattern Acquisition,
+Rate of Code Writing Transfer,
+Rate of Actual Difficulty,
+Correlation coefficient (r),yes
+Partial eta-squared (ηp²),yes
+rτ,check test
+Bayes Factor (B01),
+Bayes Factor (BF10),
+D,check test
+Bayes Factor (BF+0),
+Bayes Factor,
+Pillai Trace,
+Wald-type statistic (WTS),
+ANOVA-type statistic (ATS),
+Relative Inertia,
+Chi-Square Distance,
+Sensitivity (Se),
+Specificity (Sp),
+Precision (Pr),
+Retention Rate,not_relevant
+Deviation,
+Out-of-area proportion,
+Velocity,
+Correlation coefficient (adjusted R²),yes
+Willingness,
+Convenience,
+Convenience in daily use,
+Willingness to use,
+Time (seconds),
+β (Beta),
+χ² (Chi-Square),
+Moderate effect sizes observed,
+Not specified,
+Time reduction,
+Average score for professional artists,
+Average score for novice users,
+Qualitative feedback,
+% positive,
+% preferred over Ours,
+% preferred over Toric,
+% preferred over Artist,
+Time for Trend Estimation,
+Accuracy for Extrema Estimation,
+Time for Trend Detection,
+SRMR,not_relevant
+KMO,not_relevant
+Bartlett's Test,
+Cognitive Demand (B),
+Exertional Demand (B),
+Social Demand (B),
+Cognitive Demand (Emotional Effort) (B),
+TFI,
+χ²(3),
+χ²(2),
+t(31),
+χ²(4),
+Median Readability Score (Top 15),
+Median Readability Score (Bottom 15),
+Frequency of Jargon Mention (English-speaking),
+Frequency of Jargon Mention (Chinese-speaking),
+Pearson's r (Length),yes
+Pearson's r (Jargon),yes
+Pearson's r (Sentence Structure),yes
+Pearson's r (Vocabulary),yes
+χ² (Length),
+χ² (Jargon),
+χ² (Sentence Structure),
+χ² (Vocabulary),
+Mean (Hard),
+Mean (Moderate),
+Mean (Easy),
+Unstandardized Indirect Effect Coefficient,
+Equal Error Rate (EER),
+False Acceptance Rate (FAR),
+Percentage of workspaces,
+Precision (Opportunity Identification),
+Recall (Opportunity Identification),
+F1-score (Opportunity Identification),
+Accuracy (Opportunity Identification),
+Precision (Signal Identification),
+Recall (Signal Identification),
+F1-score (Signal Identification),
+Accuracy (Signal Identification),
+F1-score,
+True C1 - Predicted C1,
+True C1 - Predicted C2,
+True C1 - Predicted C3,
+True C2 - Predicted C1,
+True C2 - Predicted C2,
+True C2 - Predicted C3,
+True C3 - Predicted C1,
+True C3 - Predicted C2,
+True C3 - Predicted C3,
+η² (Eta-squared),yes
+F1-Score,
+Mean (Teleport + vMirror),
+Standard Deviation (Teleport + vMirror),
+Mean (Teleport),
+Standard Deviation (Teleport),
+Mean SUS (Teleport + vMirror),
+Standard Deviation SUS (Teleport + vMirror),
+Mean SUS (Teleport),
+Standard Deviation SUS (Teleport),
+Mean SSQ (Teleport + vMirror),
+Standard Deviation SSQ (Teleport + vMirror),
+Mean SSQ (Teleport),
+Standard Deviation SSQ (Teleport),
+Mean Disorientation (Teleport + vMirror),
+Standard Deviation Disorientation (Teleport + vMirror),
+Mean Disorientation (Teleport),
+Standard Deviation Disorientation (Teleport),
+AW (45°),
+AD (45°),
+IDangular (45°),
+AW (90°),
+AD (90°),
+IDangular (90°),
+Elasticity,
+Vibration Magnitude,
+Magnetic Field Strength,
+Degree of Fatigue,
+SUS Score,
+Functionality,
+Flexibility,
+System Usability,
+User Input,
+Degree of Functionality,
+Ambiguity in Functioning,
+Adequacy for Tasks,
+Ideal Interaction with Virtual Environment,
+Control over Operations,
+Perception of Making Errors,
+Flexibility in Performing Tasks,
+Possibility to Take Shortcuts,
+System Working Against User,
+Comfort of Use for Long Periods,
+Difficulty to Learn,
+System Working as Expected,
+Benefits in Man-Machine Interaction Style,
+Difficulty to Work in 3D,
+Enjoyment of Use,
+RTE,
+t-statistic,
+Percentage Increase in Ad Value (Activity Strategy),
+Percentage Increase in Ad Value (Time Strategy),
+$\u03B7 _{p}^{2}$,yes
+Quality Score Increase,
+Effectiveness Score Increase,
+Trust Score Increase,
+Transparency Score Increase,
+Awareness Score Increase,
+Learning Score Increase,
+Satisfaction Score Increase,
+Control Score Increase,
+Correlation Coefficient (rs),
+Coefficient (Self-reported class performance is avg or below),
+Coefficient (# of algo awareness Qs correct),
+Decrease in average retweet quality,
+Effect on primary tweet quality,
+Interaction effect on tweet quality,
+Increase in partisan slant of retweets,
+Effect on partisan slant of primary tweets,
+Interaction effect on partisan slant,
+Increase in language toxicity of retweets,
+Effect on language toxicity of primary tweets,
+Interaction effect on language toxicity,
+Increase in number of retweets,
+Increase in number of primary tweets,
+Increase in number of retweets to rated sites,
+Effect on number of primary tweets to rated sites,
+mean (Static),
+mean (Frequency),
+mean (MCTS),
+Pearson r,yes
+Spearman ρ,yes
+Difference in proportions,
+Difference in proportions (grouped vs. randomized),
+Difference in proportions (hover vs. static),
+Difference in proportions (aligned vs. randomized),
+Fixed effect coefficient,
+Variance,
+Success Rate,not_relevant
+Mean Cognitive Load,
+Speed (m/s),
+Horizontal Acceleration (m/s^2),
+Surface Realism,
+Slider Realism,
+Overall Comfort,
+Experimenter Help,
+Parent Help,
+Invalid Input,
+Machine Comprehension,
+Younger,
+Older,
+Chi-square (χ²),not_relevant
+β coefficient,
+Support,
+Lift,
+"β (Length, week)",
+"β (Length, day)",
+β (Commitment upload),
+β (Commitment word count),
+β (Commitment character count),
+β (Commitment average word length),
+β (Referee),
+β (Supporter),
+β (Photo upload),
+β (Post upload),
+β (Post word count),
+β (Post character count),
+β (Post average word length),
+β (Total stake),
+β (Stake per period),
+β (Recipient: Charity),
+β (Recipient: Anti-charity),
+β (Recipient: Friend),
+"Accuracy (MLP, WN)",
+"Accuracy (MLP, AN)",
+"Accuracy (MLP, HN)",
+"Accuracy (MLP, BN)",
+"Accuracy (RNN, WN)",
+"Accuracy (RNN, AN)",
+"Accuracy (RNN, HN)",
+"Accuracy (RNN, BN)",
+Partial Eta Squared ($\eta_p^2$),yes
+Median Learning Time,
+Median Recall Time,
+Number of Participants,
+Selection Time,not_relevant
+Crossings,
+Votes,
+Average Score,
+log($),
+τ,yes
+β (Intercept),
+β (Age),
+β (Gender[Male]),
+β (Race[Black or African American]),
+β (Race[Hispanic or Latino/a/x]),
+β (Race[White]),
+β (Daily Browsing Length[less than 1 hr]),
+β (Daily Browsing Length[less than 2 hrs]),
+β (Daily Browsing Length[greater than 2 hrs]),
+β (Need for Self-Reflection),
+β (Insight),
+β (Day),
+β (# of Users Available on the Day),
+r',check test
+Cohen's r,check test
+"ICC(1, k)",
+Regression Coefficient for Empathy,
+Regression Coefficient for Credibility,
+Regression Coefficient for Justice,
+Regression Coefficient for Impact,
+Regression Coefficient for Attractiveness,
+Correlation Coefficient for Empathy,check test
+Correlation Coefficient for Credibility,check test
+Correlation Coefficient for Justice,check test
+Correlation Coefficient for Impact,check test
+Correlation Coefficient for Attractiveness,check test
+Precision (Mean ± SD),
+Recall (Mean ± SD),
+F1 (Mean ± SD),
+β (variables),
+β (lists),
+MRTR,
+NDCG,
+F1 Score (Not Call),
+F1 Score (Call),
+F1 Score (Weighted Avg),
+W (Kendall's W),
+Average Precision,
+R^2 (POM),yes
+R^2 (Acrylic),yes
+R^2 (PLA),yes
+R^2 (FEA),yes
+f-statistic,
+z-score,
+%ΔR (Single-Button Controller),
+%ΔR (Volume Controller),
+%ΔR (Media Control Buttons),
+"Regression Coefficients (a, b, c', c, ab)",
+lines of code,
+OR (Odds Ratio),yes
+Partial eta squared (η²),yes
+r2,check test
+Mean (Task Completion Time),
+Mean (Mental Demand),
+Mean (Physical Burden),
+Mean (Duration),
+Mean (Satisfaction),
+Mean (Satisfaction Q1),
+Mean (Satisfaction Q3),
+Mean (Satisfaction Q4),
+Mean (Satisfaction Q5),
+Mean (NASA-TLX Q5),
+Mean (NASA-TLX Q6),
+Target Prediction Rate,
+Max Prior Ratio,
+Number of User Commands,
+Iterations,
+IG > 0 Iterations,
+Proportion (Target in View),
+Mean (View Size),
+Mean (IG),
+Partial eta-squared ($\eta_p^2$),yes
+Partial eta squared,yes
+b (Extraverted vs Average),
+b (Introverted vs Average),
+Wilks' Λ,
+Median (Pre-video),
+Median (Post-video),
+\hat{\eta }^2_G,yes
+Mean Salience,
+Mean Trust Change,
+Partial Eta Squared ($\eta^2_p$),yes
+Z-score,
+Wilk's λ,
+Partial Eta Squared (η²ₚ),yes
+R² Change,check test
+Percentage Decrease,
+WEAT Score (GloVe),
+WEAT Score (GloVe Google News),
+WEAT Score (GloVe*),
+Average Power Draw (mW),
+Mean Score,
+Medium (Ref: AR),
+Role (Ref: perceiver),
+Disc (Ref: non-self-disclosure),
+Intimacy,
+Medium x Role,
+Medium x Intimacy,
+Role x Intimacy,
+Medium x Disc,
+Role x Disc,
+Disc x Intimacy,
+TCRave,
+TCRstd,
+DVEave,
+DVEstd,
+Average Similarity Score,
+η,check test
+N,
+KS Statistic (D),
+Failure % for Unique ImageButtons,
+Failure % for Unique ImageViews,
+Failure % for Combined Unique Image-Based Elements,
+RBC,
+eta_p^2,yes
+Difference in mean percentage,
+Difference in mean duration,
+Difference in mean time,
+Difference in mean scores,
+Not provided,
+Percentage Change,
+Higher in C2,
+Higher in C1,
+"Decrease in C1, Increase in C2",
+"Increase in both, more in C2",
+"Decrease in both, more in C1",
+"Increase in C1, Decrease in C2",
+"Increase in both, more in C1",
+Correlation coefficient (ρ),yes
+AUROC,not_relevant
+Mean (C1),
+Mean (C2),
+Overall Mean,
+H statistic,
+Median (Dr.XAI),
+Median (Dr.AI),
+R^2_m,yes
+R^2_c,yes
+deltaR2,
+Mean (Direct Author),
+Mean (Citation),
+Mean (All Authors' h-index),
+Mean (Clicked Authors' h-index),
+Mean (High h-index),
+Mean (Low h-index),
+Mean (Unknown h-index),
+Coefficient (Intercept),
+Standard Error (SE),not_relevant
+Coefficient (% Featured),
+Coefficient (% Featured^2),
+Coefficient (# of Total Papers),
+Coefficient (Claimed Profile),
+Coefficient (Receiver h-index),
+Coefficient (% Featured × Claimed Profile),
+Coefficient (% Featured^2 × Claimed Profile),
+Coefficient (% Featured × Receiver h-index),
+Coefficient (% Featured^2 × Receiver h-index),
+Coefficient (Early Exposure),
+Coefficient (Message (Citation)),
+Coefficient (Interaction),
+Coefficient (Message (Direct Author)),
+Diff.,
+AVG,
+Coefficient (Constant),
+Coefficient (Speaker’s Eyes),
+Coefficient (Speakers’ Name),
+Coefficient (Speakers’ Title),
+Coefficient (Discussion Topic/Current News),
+Coefficient (Logo of the channel),
+Coefficient (Over the shoulder text),
+Coefficient (Scrolling News),
+Coefficient (Current Time and Temperature),
+Coefficient (Speakers’ Social Network Handle),
+Coefficient (Speakers’ Mouth),
+Coefficient (Weather Map),
+Coefficient (Listeners’ Face),
+Coefficient (Speakers’ Location),
+Coefficient (Listeners’ Location),
+Coefficient (Program Title),
+Coefficient (Score),
+Coefficient (Player),
+Coefficient (Timer),
+Coefficient (Quarter),
+Coefficient (Players’ Stat),
+Coefficient (ASL signers’ face),
+Coefficient (ASL signers’ hand),
+R_{sp}^{2},check test
+Mean (M) before,
+Standard Deviation (SD) before,
+Mean (M) after,
+Standard Deviation (SD) after,
+TER (%),
+FT (ms),
+HT (ms),
+Sugg,
+AutoC,
+Privacy,
+Effort,not_relevant
+Acceptance Q1,
+Coin Collection Time (CCT),
+Coin Offset,
+Number of Teleportations,
+VRS Range,
+IPQ General Presence (GP),
+IPQ Spatial Presence (SP),
+IPQ Involvement (INV),
+IPQ Experienced Realism (ER),
+Intuitivity,
+Orientation,
+Frequency of Use,
+Speed of Finding,
+Fatigue,
+Chi-squared test statistic,
+Inter-rater reliability,
+Average rating (abstract),
+Average rating (figurative),
+Average rating (Western),
+Average rating (Non-Western),
+Average rating (premodern),
+Average rating (modern),
+Average rating (digital),
+Average rating (abstract-abstract),
+Average rating (abstract-concrete),
+Average rating (figurative-abstract),
+Average rating (figurative-concrete),
+Position Error MPJPE (m),
+Rotation Error MPJRE (rad),
+Difference of medians,
+MedAE,
+IQR,
+Least Squares Mean Difference,
+Preference Count,
+Reposting percentage for super-topic,
+Reposting percentage for regular posting,
+Type,
+FF,
+"FF, FSz, FSt, FW",
+P,
+"BW, M, P, W",
+C,
+"BgC, C, FSt, O, TD",
+BR,
+"BC, BR, C, FSz, W",
+FSz,
+"BR, BW, H, P, W",
+BW,
+"BC, BR, BW, C, W",
+TA,
+"H, M, P, W",
+"BR, H, M, P",
+"BW, C, H, P, W",
+"BW, H, M, P, W",
+AUCmicro,
+AUCmacro,
+IT_est (bits),
+Error rate,
+Weighted score,
+Mean Acceptability,
+Not at all Accepting,
+Somewhat Accepting,
+Moderately Accepting,
+Very Accepting,
+Extremely Accepting,
+F-Statistic,
+β (Is Female),
+β (Friend count),
+β (Account tenure),
+β (Perceived time spent),
+β (Beliefs about FB),
+β (Beliefs about FB X time spent),
+β (Actual time spent),
+β (Time spent),
+β (Time spent source: Perceived time),
+β (Beliefs about FB X Time spent),
+β (Beliefs about FB X Source (Perceived time)),
+β (Time spent X Source (Perceived time)),
+β (Beliefs about FB X Time spent X Source (Perceived time)),
+β (Overestimation of time spent),
+β (Subjective well-being),
+β (Beliefs about FB X Actual time spent),
+β (Priming effect on well-being),
+eta-squared (η²[H]),yes
+eta-squared (η²),yes
+Character accuracy,
+Word accuracy,
+Character accuracy (seated),
+Word accuracy (seated),
+Character accuracy (walking),
+Word accuracy (walking),
+Speed (WPM) Session 1,
+Speed (WPM) Session 2,
+Speed (WPM) Session 3,
+Accuracy (%) Session 1,
+Accuracy (%) Session 2,
+Accuracy (%) Session 3,
+Median search-time,
+BF_excl,
+BF_10,
+Cohen's δ,check test
+ε² (epsilon squared),yes
+ω² (omega squared),yes
+Transition Probabilities,
+Emission Probabilities,
+Pearson Residuals,
+Proportion difference,
+Median difference,
+Words Per Minute (WPM),
+Character Error Rate (CER),
+Count of Errors,
+Percentage of Agreement,
+Coverage Percentage,
+Time in seconds,
+Kendall's τ,yes
+Outcome,
+F-statistic (F),
+G2,
+x2,
+Path Coefficient,
+Chi-Square Statistic,
+H Statistic,
+t Statistic,
+Recognition Rate,
+Accuracy (Window-level),
+F1 Score (Window-level),
+False Positive Rate (Window-level),
+Accuracy (Gesture-level),
+F1 Score (Gesture-level),
+False Positive Count per Hour (Gesture-level),
+False Positive Rate (Non-gestures),
+False Positive Count per Hour (Non-gestures),
+McFadden's pseudo R^2,no
+Δ Adj. R^2,yes
+Δ Adjusted R^2,yes
+Explained Variance,
+α,not_relevant
+UEQ Pragmatic,
+UEQ Hedonic,
+UEQ Reliability Pragmatic,
+UEQ Reliability Hedonic,
+UEQ Reliability Overall,
+% Variance explained,
+Pragmatic,
+Hedonic,
+CLES,
+$\u03b6_m^1$,no
+$\u03b6_m^2$,no
+$\u03b6_m^3$,no
+$\u03b6_m^4$,no
+$\u03b6_m^5$,no
+$\u03b6_m^6$,no
+Totally disagreed,
+Disagreed,
+Agreed,
+Totally agreed,
+Excessmass,
+No visualisation,
+Relational,
+Absolute,
+Condition (Relational),
+Condition (Absolute),
+Task (Repositioning),
+Task (Including),
+Task (Providing),
+Number of interactions,
+Time spent,
+Zone size,
+Gender (male),
+Age,
+Condition (Relational) : Task (Repositioning),
+Condition (Absolute) : Task (Repositioning),
+Condition (Relational) : Task (Including),
+Condition (Absolute) : Task (Including),
+Condition (Relational) : Task (Providing),
+Condition (Absolute) : Task (Providing),
+Suggestion Count (95% CI),
+Attempt Count (95% CI),
+JND,not_relevant
+Lower Bound (t1),
+Upper Bound (t2),
+Mean Time,not_relevant
+η²g,yes
+γ,not_relevant
+Tjur's R2,no
+Mean AI Score,
+Mean Interpersonal Emphasis Rating,
+Beta (Age),
+Beta (Gender),
+Beta (Ethnicity),
+Beta (Interpersonal Emphasis),
+Beta (Condition),
+Beta (Interpersonal Emphasis * Condition),
+Beta (Subject Expertise),
+Beta (Propensity to Trust),
+Beta (Computer Attitude),
+Beta (AI Attitude),
+Cliff's delta (d),
+"Mean Normalized Task Completion Time (PathFinder, Route 1)",not_relevant
+"Mean Normalized Task Completion Time (Topline, Route 1)",not_relevant
+"Mean Normalized Task Completion Time (PathFinder, Route 2)",not_relevant
+"Mean Normalized Task Completion Time (Topline, Route 2)",not_relevant
+Median Usability Score (Q4),not_relevant
+Median Usability Score (Q5),not_relevant
+Median Usability Score (Q6),not_relevant
+Median Usability Score (Q7),not_relevant
+Median Usability Score (Q8),not_relevant
+Controllability Preference,not_relevant
+False Positive Intersection Detections,not_relevant
+Correct Intersection Detections,not_relevant
+Partially Correct Intersection Detections,not_relevant
+Failed Intersection Detections,not_relevant
+Battery Life,not_relevant
+ATS,not_relevant
+PSE,not_relevant
+Exploration Time,not_relevant
+Difficulty Estimation,not_relevant
+Relative effect,not_relevant
+WER,not_relevant
+BLEU,not_relevant
+Correct Rate,not_relevant
+Incorrect Rate,not_relevant
+Relative Error (Vector Charts),not_relevant
+Relative Error (Rasterized Charts),not_relevant
+Missing Rate,not_relevant
+Unwanted Rate,not_relevant
+Relative Error (Raster Charts),not_relevant
+Spearman r,yes
+Posterior Mean,not_relevant
+Mean Difference D,not_relevant
+R² (Strange Brigade),yes
+R² (Valorant),yes
+R² (Rocket League),yes
+Acceptable Fraction (QoE 4-5),not_relevant
+Acceptable Fraction (QoE 3),not_relevant
+Median number of courses,not_relevant
+Mean number of courses,not_relevant
+Standard deviation of number of courses,not_relevant
+Median total hours,not_relevant
+Mean total hours,not_relevant
+Standard deviation of total hours,not_relevant
+Median GPA gain (Γs),not_relevant
+Mean GPA gain (Γs),not_relevant
+Standard deviation of GPA gain (Γs),not_relevant
+Perceived Accessibility,not_relevant
+Legibility and Cognitive Load,not_relevant
+Speech Accessibility Metrics,not_relevant
+Identification Duration,not_relevant
+Information Transfer (IT),not_relevant
+Number of Patterns Identified,not_relevant
+Coefficient for Total words,not_relevant
+Coefficient for (M) words ratio,not_relevant
+Coefficient for (L) self disclosure,not_relevant
+Coefficient for (M) self disclosure,not_relevant
+Coefficient for Median response time,not_relevant
+Coefficient for Linguistic style matching,not_relevant
+Coefficient for Topic matching,not_relevant
+Coefficient for (M) age,not_relevant
+Coefficient for (M) avg. hearts given,not_relevant
+Coefficient for (M) avg. hearts received,not_relevant
+Coefficient for (M) # of past conversations,not_relevant
+Coefficient for (M) # of forum upvotes given,not_relevant
+Coefficient for (M) Prior mood,not_relevant
+Coefficient for (L) age,not_relevant
+Coefficient for (L) avg. hearts received,not_relevant
+Coefficient for (L) # of past conversations,not_relevant
+Coefficient for (L) badge count,not_relevant
+Coefficient for (L) # of forum upvotes given,not_relevant
+Coefficient for Romantic Relationship,not_relevant
+Coefficient for Dating,not_relevant
+Coefficient for Pandemic,not_relevant
+Coefficient for Self-improvement,not_relevant
+Coefficient for Suicide,not_relevant
+Coefficient for Depression,not_relevant
+Coefficient for Parents,not_relevant
+Coefficient for Anxiety,not_relevant
+Coefficient for Family,not_relevant
+Coefficient for Stress,not_relevant
+Coefficient for Lonely,not_relevant
+Coefficient for Overwhelming,not_relevant
+Coefficient for Sexuality,not_relevant
+Coefficient for LGBTQ,not_relevant
+Coefficient for Intimacy,not_relevant
+Coefficient for Home,not_relevant
+Coefficient for Dissociate Identity,not_relevant
+Coefficient for Health,not_relevant
+Compression Force,not_relevant
+Beta Coefficient,not_relevant
+Matched rank biserial correlation,maybe
+diff (s),not_relevant
+diff,not_relevant
+Cognitive Involvement,not_relevant
+Emotional Involvement,not_relevant
+Real-World Dissociation,not_relevant
+Challenge,not_relevant
+"F(58, 341)",not_relevant
+H(7),not_relevant
+Difference (ms),not_relevant
+Difference (%),not_relevant
+Meaningful differences,not_relevant
+Difference (mm),not_relevant
+CoV (spatial),not_relevant
+CoV (temporal),not_relevant
+"Endpoint Error (spatial, tangent axis)",not_relevant
+"Endpoint Error (spatial, normal axis)",not_relevant
+Endpoint Error (temporal),not_relevant
+Success Rate Error (spatial),not_relevant
+Success Rate Error (temporal),not_relevant
+R² (spatial),yes
+R² (temporal),yes
+Standardized Coefficient (β),not_relevant
+Median SRHI charging scores,not_relevant
+β_home,not_relevant
+β_work,not_relevant
+β_public,not_relevant
+Median percentage of miles driven on electricity,not_relevant
+β (Reactiveness),not_relevant
+β (Proactiveness),not_relevant
+β (Utilization of HMI),not_relevant
+β (Responsiveness),not_relevant
+β (Amount of parameter modifications),not_relevant
+β (Avg num of modified parameters),not_relevant
+β (Number of spec changes),not_relevant
+β (Number of alarm types),not_relevant
+β (Job rotations - afternoon),not_relevant
+β (Job rotations - morning),not_relevant
+β (Working seasons - spring),not_relevant
+Pearson correlation coefficient (Cycle Time and Trouble Recurrence Time),yes
+Pearson correlation coefficient (Throughput and Trouble Alarm Recurrence Time),yes
+Pearson correlation coefficient (Throughput and Cycle Time),yes
+Truncation Rate,not_relevant
+Word Error Rate (WER),not_relevant
+Improved,not_relevant
+Macro F1 Score,not_relevant
+Ratio (Care/Harm),not_relevant
+Ratio (Fairness/Cheating),not_relevant
+Ratio (Loyalty/Betrayal),not_relevant
+Ratio (Authority/Subversion),not_relevant
+Ratio (Sanctity/Degradation),not_relevant
+Score range (C_1),not_relevant
+Moderately high,not_relevant
+Balanced,not_relevant
+Score range (C_2),not_relevant
+Score range (C_3),not_relevant
+Low,not_relevant
+Score range (C_4),not_relevant
+Score range (C_5),not_relevant
+High,not_relevant
+Score range (C_6),not_relevant
+Varying,not_relevant
+Mean (wrist-on),not_relevant
+Mean (wrist-off),not_relevant
+Mean (restricted),not_relevant
+Mean (unrestricted),not_relevant
+Mean (transcription),not_relevant
+Mean (memorization),not_relevant
+Mean (index),not_relevant
+Mean (middle),not_relevant
+Mean (ring),not_relevant
+Mean (pinky),not_relevant
+Mean (thumb),not_relevant
+Mean (Participant 1),not_relevant
+Mean (Participant 2),not_relevant
+Mean (Participant 3),not_relevant
+Mean (Participant 4),not_relevant
+Mean (Participant 5),not_relevant
+Mean (Participant 6),not_relevant
+Mean (Participant 7),not_relevant
+Mean (Participant 8),not_relevant
+Mean (Participant 9),not_relevant
+Mean (Participant 10),not_relevant
+Mean (Participant 11),not_relevant
+Mean (Participant 12),not_relevant
+Mean (numeric row),not_relevant
+Mean (top row),not_relevant
+Mean (middle row),not_relevant
+Mean (bottom row),not_relevant
+Mean (space-bar row),not_relevant
+Mean (column 1),not_relevant
+Mean (column 2),not_relevant
+Mean (column 3),not_relevant
+Mean (column 4),not_relevant
+Mean (column 5),not_relevant
+Mean (column 6),not_relevant
+Mean (column 7),not_relevant
+Mean (column 8),not_relevant
+Mean (column 9),not_relevant
+Mean (non-uniform threshold),not_relevant
+Mean (uniform-high threshold),not_relevant
+Mean (dynamic threshold),not_relevant
+Mean (uniform-low threshold),not_relevant
+Mean (personalized threshold),not_relevant
+Tukey pairwise comparison,not_relevant
+Chi-Square statistic,not_relevant
+χ²_F,not_relevant
+Number of off-screen Glances,not_relevant
+Physical Demand,not_relevant
+SUS Count,not_relevant
+SUS Mean,not_relevant
+SSQ Total Score,not_relevant
+NASA TLX (Mental Demand),not_relevant
+NASA TLX (Temporal Demand),not_relevant
+NASA TLX (Effort),not_relevant
+NASA TLX (Overall Performance),not_relevant
+NASA TLX (Other Subscores),not_relevant
+Spearman's r,yes
+Readability,not_relevant
+Adequacy,not_relevant
+Readability Improvement,not_relevant
+Adequacy Improvement,not_relevant
+Readability IAA,not_relevant
+Accuracy IAA,not_relevant
+Adequacy IAA,not_relevant
+Control Score,not_relevant
+Exp. Score,not_relevant
+Score Diff.,not_relevant
+Control Duration,not_relevant
+Exp. Duration,not_relevant
+Duration Diff.,not_relevant
+Assortativity Coefficient,not_relevant
+Standardized Mean Differences (SMD),not_relevant
+ATE and RTE,not_relevant
+Relative Treatment Effect (RTE),not_relevant
+median (male),not_relevant
+median (female),not_relevant
+mean (10s),not_relevant
+mean (20s),not_relevant
+mean (30s),not_relevant
+mean (40s),not_relevant
+median (different genders),not_relevant
+median (same gender),not_relevant
+Mean (FB),not_relevant
+Mean (FF),not_relevant
+Mean (August 2022),not_relevant
+Mean (August 2021),not_relevant
+Mean (August 2020),not_relevant
+Mean (August 2019),not_relevant
+Mean (Passive phase),not_relevant
+Mean (Active phase),not_relevant
+Mean (Discovery phase),not_relevant
+Mean SUS,not_relevant
+SUS score (FF),not_relevant
+SUS score (FB),not_relevant
+Residential Zoning Percentage,not_relevant
+Commercial Zoning Percentage,not_relevant
+Manufacturing Zoning Percentage,not_relevant
+Open Space Zoning Percentage,not_relevant
+Other Zoning Percentage,not_relevant
+Interstate Highway Miles,not_relevant
+Rail Miles,not_relevant
+Distance to TRI Sites,not_relevant
+Mouse,not_relevant
+Touchpad,not_relevant
+D×W,not_relevant
+D×Mouse,not_relevant
+D×Touchpad,not_relevant
+Nominal b,not_relevant
+Effective b,not_relevant
+\hat{b},not_relevant
+Effective a,not_relevant
+\hat{a} Effective,not_relevant
+Nominal a,not_relevant
+\hat{a} Nominal,not_relevant
+Device (Mouse),not_relevant
+Device (Touchpad),not_relevant
+D×Device (Mouse),not_relevant
+D×Device (Touchpad),not_relevant
+IDe/ID,not_relevant
+Device (Mouse/Controller),not_relevant
+Device (Touchpad/Controller),not_relevant
+IDe/ID × Device (Mouse/Controller),not_relevant
+IDe/ID × Device (Touchpad/Controller),not_relevant
+Correlation,check test
+Intercept for Model 1,not_relevant
+Intercept for Model 2,not_relevant
+Intercept for Model 3,not_relevant
+Age for Model 1,not_relevant
+Age for Model 2,not_relevant
+Age for Model 3,not_relevant
+Gender (Female) for Model 1,not_relevant
+Gender (Female) for Model 2,not_relevant
+Gender (Female) for Model 3,not_relevant
+"Role (Operator, Executive) for Model 1",not_relevant
+Role (Others) for Model 1,not_relevant
+"Role (Operator, Executive) for Model 2",not_relevant
+"Role (Operator, Executive) for Model 3",not_relevant
+Expected Frequency of Remote Work for Model 1,not_relevant
+Expected Frequency of Remote Work for Model 2,not_relevant
+Expected Frequency of Remote Work for Model 3,not_relevant
+Strength of INs for Model 1,not_relevant
+Strength of INs for Model 2,not_relevant
+Strength of INs for Model 3,not_relevant
+Willingness to Conform to INs for Model 1,not_relevant
+Willingness to Conform to INs for Model 2,not_relevant
+Willingness to Conform to INs for Model 3,not_relevant
+Strength of DNs for Model 1,not_relevant
+Strength of DNs for Model 2,not_relevant
+Strength of DNs for Model 3,not_relevant
+Willingness to Conform to DNs for Model 1,not_relevant
+Willingness to Conform to DNs for Model 2,not_relevant
+Willingness to Conform to DNs for Model 3,not_relevant
+Rate Difference,not_relevant
+Accuracy Rate,not_relevant
+rank-biserial correlation,yes
+Mean (Slide Gestalt),not_relevant
+Mean (Build Slides),not_relevant
+Mean (Topic Split Slides),not_relevant
+Mean (Divider),not_relevant
+RMSE (cogC),not_relevant
+RMSE (emoC),not_relevant
+RMSE (phyC),not_relevant
+RMSE (DM),not_relevant
+RMSE (Avg),not_relevant
+MAE (cogC),not_relevant
+MAE (emoC),not_relevant
+MAE (phyC),not_relevant
+MAE (DM),not_relevant
+MAE (Avg),not_relevant
+Acc2 −c (cogC),not_relevant
+Acc2 −c (emoC),not_relevant
+Acc2 −c (phyC),not_relevant
+Acc2 −c (DM),not_relevant
+Acc2 −c (noC),not_relevant
+Acc2 −c (Avg),not_relevant
+F12 −c (Avg),not_relevant
+RMSE (A),not_relevant
+MAE (A),not_relevant
+Acc2 −c (A),not_relevant
+F12 −c (A),not_relevant
+RMSE (B),not_relevant
+MAE (B),not_relevant
+Acc2 −c (B),not_relevant
+F12 −c (B),not_relevant
+RMSE (C),not_relevant
+MAE (C),not_relevant
+Acc2 −c (C),not_relevant
+F12 −c (C),not_relevant
+η_g^2,yes
+Md,not_relevant
+Mean Opinion Difference,not_relevant
+Effect Size (d),yes
+Percentage of Intended Opinion,not_relevant
+MT,not_relevant
+v_peak,not_relevant
+PTPV,not_relevant
+PTPSE,not_relevant
+d_PSE,check test
+SPARC,not_relevant
+Rank-biserial correlation,yes
+Unstandardized Path Coefficient (B),not_relevant
+Median ($\bar{\mu }$),not_relevant
+Cumulative Odds Difference,not_relevant
+Total Effect of Consent Method on Study Response Quality,not_relevant
+Indirect Path via Participant-Researcher Power Relation,not_relevant
+Path via Consent Form Reading,not_relevant
+Mean diff.,not_relevant
+KLD,not_relevant
+MMD,not_relevant
+Mean percentage (SD),not_relevant
+Median seconds (SD),not_relevant
+Odds Ratios,yes
+Unstandardized Coefficient,not_relevant
+R² of Intensity resp. Fear,yes
+R² of Agency,yes
+R² of Presence,yes
+BIC,not_relevant
+Growth Success,not_relevant
+Dimensional Accuracy,not_relevant
+Mean Selection Time,not_relevant
+Rank-Biserial Correlation,yes
+LDT,not_relevant
+UDT,not_relevant
+DT area,not_relevant
+AUPRC,not_relevant
+Balanced Accuracy,not_relevant
+Notification Provision (β),not_relevant
+Explanation Provision (β),not_relevant
+Explanation Provision on Outcome Fairness (β),not_relevant
+Explanation Provision on Retributive Justice (β),not_relevant
+Explanation Provision on Procedural Justice (β),not_relevant
+Explanation Provision on Restorative Justice (β),not_relevant
+Explanation Provision on Problem Coping (β),not_relevant
+Perceived Transparency on Problem Coping (β),not_relevant
+Perceived Retributive Justice on Problem Coping (β),not_relevant
+Perceived Retributive Justice on Positivity (β),not_relevant
+Perceived Procedural Justice on Detachment (β),not_relevant
+Perceived Procedural Justice on Positivity (β),not_relevant
+Perceived Procedural Justice on Social Support (β),not_relevant
+Perceived Restorative Justice on Problem Coping (β),not_relevant
+Perceived Restorative Justice on Social Support (β),not_relevant
+Perceived Restorative Justice on Detachment (β),not_relevant
+Perceived Restorative Justice on Positivity (β),not_relevant
+Cosine Similarity,not_relevant
+Mean (with comparison),not_relevant
+SD (with comparison),not_relevant
+Mean (no comparison),not_relevant
+SD (no comparison),not_relevant
+Mean (declarative),not_relevant
+SD (declarative),not_relevant
+Mean (procedural),not_relevant
+SD (procedural),not_relevant
+t-value (locus of control),not_relevant
+t-value (spatial ability),not_relevant
+Mean (functional vision),not_relevant
+SD (functional vision),not_relevant
+Mean (without functional vision),not_relevant
+SD (without functional vision),not_relevant
+r^2 (age),yes
+t-value (gender),not_relevant
+Correlation between Decision-making and Emotional Factors,yes
+Correlation between Decision-making and Cognitive Factors,yes
+Degrees of Freedom (df),not_relevant
+Success Rate Increase (Ambiguity),not_relevant
+Success Rate Increase (Transparency),not_relevant
+Success Rate Increase (Controllability),not_relevant
+Perceived Error Rate Decrease (Ambiguity),not_relevant
+Perceived Error Rate,not_relevant
+Perceived Error Rate Increase (Transparency),not_relevant
+Perceived Error Rate Decrease (Controllability),not_relevant
+Breakpoints,not_relevant
+Break Point,not_relevant
+Comprehension,not_relevant
+Extraneous Load,not_relevant
+CR,not_relevant
+AVE,not_relevant
+"Mean (SD), Median",not_relevant
+Proportion Identified (ESCAPE),not_relevant
+Proportion Identified (Baseline),not_relevant
+U-value,not_relevant
+W-value,not_relevant
+beta,not_relevant
+Mean (DAPIE),not_relevant
+Mean (Baseline),not_relevant
+Mean Gaze Distraction (DAPIE),not_relevant
+Mean Gaze Distraction (Baseline),not_relevant
+Mean Verbal Comments (DAPIE),not_relevant
+Mean Verbal Comments (Baseline),not_relevant
+Mean Non-Verbal Comments (DAPIE),not_relevant
+Mean Non-Verbal Comments (Baseline),not_relevant
+Mean Interaction Time (DAPIE),not_relevant
+Mean Interaction Time (Baseline),not_relevant
+Mean Enjoyment (DAPIE),not_relevant
+Mean Enjoyment (Baseline),not_relevant
+Mean Trustworthiness (DAPIE),not_relevant
+Mean Trustworthiness (Baseline),not_relevant
+Mean (AO),not_relevant
+Mean (MR),not_relevant
+Mean (PT),not_relevant
+Mean (PFJ),not_relevant
+Pearson's r (MR),yes
+Pearson's r (AO),yes
+Stress (SS),not_relevant
+Perceptual Distance (D),not_relevant
+Mean Number of Features Changed,not_relevant
+Number of Failures,not_relevant
+Confusion Rate,not_relevant
+Timeout Rate,not_relevant
+Median Recognition Time,not_relevant
+Reach Duration,not_relevant
+Reach Accuracy,not_relevant
+RMSD,not_relevant
+Endpoint Error,not_relevant
+Focal Offset Effects,not_relevant
+Rate Ratio,not_relevant
+"Probability of Superiority (descriptiveness, excluding instructional video)",yes
+"Probability of Superiority (descriptiveness, including instructional video)",yes
+"Probability of Superiority (objectiveness, automatic-feedback)",yes
+Probability of Superiority (descriptiveness),yes
+Probability of Superiority (sufficiency),yes
+Probability of Superiority (Descriptive),yes
+Probability of Superiority (Objective),yes
+Probability of Superiority (Learning),yes
+Probability of Superiority (Sufficient),yes
+Probability of Superiority (Clarity),yes
+Probability of Superiority (Succinct),yes
+Probability of Superiority (Referable),yes
+Probability of Superiority (Interest),yes
+βA,not_relevant
+partial eta^2,yes
+ΔPOS,not_relevant
+ΔTwin,not_relevant
+ΔACC,not_relevant
+ΔFPR,not_relevant
+ΔFNR,not_relevant
+ΔREL-POS,not_relevant
+ΔREL-NEG,not_relevant
+Mean Difference (MD),not_relevant
+KMO value,not_relevant
+β (beta),not_relevant
+χ² (Chi-squared),not_relevant
+N/A,not_relevant
+z-value,not_relevant
+Unknown,not_relevant
+β (Deliberative: Fact-related arguments),not_relevant
+β (Deliberative: Structured arguments),not_relevant
+β (Deliberative: Unsupported statements),not_relevant
+β (Civic: Collective rhetoric),not_relevant
+β (Civic: Situational action),not_relevant
+β (Civic: We vs. Them),not_relevant
+β (Demagogic: We vs. Them),not_relevant
+β (Demagogic: Emotional comments),not_relevant
+β (Demagogic: Unsupported arguments),not_relevant
+β (Demagogic: Who instead of what rhetoric),not_relevant
+β (Demagogic & Civic),not_relevant
+β (Civic & Deliberative),not_relevant
+β (Demagogic & Deliberative),not_relevant
+Change in Civic Discourse (Upvotes only),not_relevant
+Change in Deliberative Discourse (Upvotes only),not_relevant
+Change in Demagogic Discourse (Upvotes only),not_relevant
+Change in Civic Discourse (No voting),not_relevant
+Change in Deliberative Discourse (No voting),not_relevant
+Change in Demagogic Discourse (No voting),not_relevant
+Change in Civic Discourse (Immediate no voting),not_relevant
+Change in Deliberative Discourse (Immediate no voting),not_relevant
+Change in Demagogic Discourse (Immediate no voting),not_relevant
+Grammar Correctness (LLM),not_relevant
+Grammar Correctness (Template),not_relevant
+Relevance (LLM),not_relevant
+Relevance (Template),not_relevant
+Coverage F1 (LLM),not_relevant
+Coverage F1 (Template),not_relevant
+BLEU-1 (0-shot LLM),not_relevant
+BLEU-2 (0-shot LLM),not_relevant
+BLEU-3 (0-shot LLM),not_relevant
+BLEU-4 (0-shot LLM),not_relevant
+CIDEr (0-shot LLM),not_relevant
+ROUGE-L (0-shot LLM),not_relevant
+METEOR (0-shot LLM),not_relevant
+BLEU-1 (1-shot LLM),not_relevant
+BLEU-2 (1-shot LLM),not_relevant
+BLEU-3 (1-shot LLM),not_relevant
+BLEU-4 (1-shot LLM),not_relevant
+CIDEr (1-shot LLM),not_relevant
+ROUGE-L (1-shot LLM),not_relevant
+METEOR (1-shot LLM),not_relevant
+BLEU-1 (2-shot LLM),not_relevant
+BLEU-2 (2-shot LLM),not_relevant
+BLEU-3 (2-shot LLM),not_relevant
+BLEU-4 (2-shot LLM),not_relevant
+CIDEr (2-shot LLM),not_relevant
+ROUGE-L (2-shot LLM),not_relevant
+METEOR (2-shot LLM),not_relevant
+BLEU-1 (Screen2Words),not_relevant
+BLEU-2 (Screen2Words),not_relevant
+BLEU-3 (Screen2Words),not_relevant
+BLEU-4 (Screen2Words),not_relevant
+CIDEr (Screen2Words),not_relevant
+ROUGE-L (Screen2Words),not_relevant
+METEOR (Screen2Words),not_relevant
+Exact Matches (0-shot LLM),not_relevant
+Contains GT (0-shot LLM),not_relevant
+Sub-String of GT (0-shot LLM),not_relevant
+Micro-F1 (0-shot LLM),not_relevant
+Exact Matches (1-shot LLM),not_relevant
+Contains GT (1-shot LLM),not_relevant
+Sub-String of GT (1-shot LLM),not_relevant
+Micro-F1 (1-shot LLM),not_relevant
+Exact Matches (2-shot LLM),not_relevant
+Contains GT (2-shot LLM),not_relevant
+Sub-String of GT (2-shot LLM),not_relevant
+Micro-F1 (2-shot LLM),not_relevant
+Exact Matches (DistilBERT),not_relevant
+Contains GT (DistilBERT),not_relevant
+Sub-String of GT (DistilBERT),not_relevant
+Micro-F1 (DistilBERT),not_relevant
+Partial (0-shot LLM),not_relevant
+Complete (0-shot LLM),not_relevant
+"Partial (1-shot LLM, cross-app)",not_relevant
+"Complete (1-shot LLM, cross-app)",not_relevant
+"Partial (2-shot LLM, cross-app)",not_relevant
+"Complete (2-shot LLM, cross-app)",not_relevant
+"Partial (1-shot LLM, in-app)",not_relevant
+"Complete (1-shot LLM, in-app)",not_relevant
+"Partial (2-shot LLM, in-app)",not_relevant
+"Complete (2-shot LLM, in-app)",not_relevant
+Partial (Seq2Act),not_relevant
+Complete (Seq2Act),not_relevant
+Mean (full autonomy),not_relevant
+Mean (partial autonomy),not_relevant
+Mean (partially automated car),not_relevant
+Mean (partially automated cane),not_relevant
+Mean (fully automated guiding cane),not_relevant
+Mean (car),not_relevant
+Mean (cane),not_relevant
+Mean (car-form robot),not_relevant
+Mean (cane-form robot),not_relevant
+Mean (full autonomy car form robot),not_relevant
+Mean (full autonomy cane robot),not_relevant
+Mean (fully automated robotic car),not_relevant
+Mean (partially automated robotic cane),not_relevant
+Mean (partial autonomy guiding car),not_relevant
+Mean (partial autonomy cane),not_relevant
+Mean (fully automated cane),not_relevant
+Mean (full autonomy guiding robots),not_relevant
+Mean (partial autonomy guiding robots),not_relevant
+Mean (car form),not_relevant
+Mean (cane form),not_relevant
+Mean (full autonomy car),not_relevant
+Mean (partial autonomy car),not_relevant
+Mean (full autonomy cane),not_relevant
+Mean (Partial Autonomy Cane),not_relevant
+Mean (Partial Autonomy Car),not_relevant
+Mean (Full Autonomy Cane),not_relevant
+Mean (Full Autonomy Car),not_relevant
+f^2 (Condition),check test
+f^2 (Time),check test
+f^2 (Interaction),check test
+r (Reading Performance),yes
+r (Reading Speed),yes
+"r (Reading Speed, Max Motion Sickness)",yes
+"r (Reading Performance, SSQ)",yes
+"r (Reading Speed, SSQ)",yes
+"r (Spatial Presence, Average Motion Sickness)",yes
+"r (Spatial Presence, Max Motion Sickness)",yes
+"r (Spatial Presence, SSQ)",yes
+"r (Spatial Presence, Oculomotor)",yes
+"r (Spatial Presence, Disorientation)",yes
+"r (IPQ Total, Average Motion Sickness)",yes
+"r (IPQ Total, Max Motion Sickness)",yes
+"r (Involvement, Average Motion Sickness)",yes
+r (Realism),yes
+Comparative Fit Index (CFI),not_relevant
+Tucker-Lewis Index (TLI),not_relevant
+β for Emotional Resonance,not_relevant
+β for Expression Length,not_relevant
+β for Perceived Autonomy,not_relevant
+β for Perceived Competence,not_relevant
+β for Perceived Usefulness,not_relevant
+β for Total Negative Effect on Perceived Usefulness,not_relevant
+β for Total Effect on Perceived Ease of Use,not_relevant
+β for Total Effect of Music Rating on Perceived Ease of Use,not_relevant
+β for Indirect Effect through Perceived Autonomy,not_relevant
+Mean (SD) for High PG * None,not_relevant
+Mean (SD) for High PG * MC,not_relevant
+Mean (SD) for Low PG * None,not_relevant
+Mean (SD) for Low PG * MC,not_relevant
+τk,yes
+Cumulative Reward,not_relevant
+Hindsight Satisfaction,not_relevant
+Preference Towards Autonomy,not_relevant
+Reading Memory,not_relevant
+Rating Memory,not_relevant
+β_Algo,not_relevant
+ω_Algo,no
+β (Navigation),not_relevant
+β (Ads and Pop-ups),not_relevant
+β (Amount),not_relevant
+β (Search),not_relevant
+β (Perceived seriousness score),not_relevant
+Kaiser-Meyer-Olkin (KMO) Measure of Sampling Adequacy,not_relevant
+Bartlett's Test of Sphericity,not_relevant
+Standardised Root Mean Square Residual (SRMR),not_relevant
+Chi-squared test,not_relevant
+Root Mean Squared Error of Approximation (RMSEA),not_relevant
+Intra-Class Correlation (ICC) for RiCE's factors,not_relevant
+Total RiCE ICCs,not_relevant
+RiCE-Ex Scores,not_relevant
+RiCE-Se Scores,not_relevant
+Weak positive correlation between RiCE's total score and SRIS's total score (Story-Sentiment-Visualiser),check test
+Moderate positive correlation between RiCE's total score and CSI's total score (Story-Sentiment-Visualiser),check test
+Weak positive correlation between RiCE's total score and SRIS's total score (Sound-Sketcher),check test
+Moderate positive correlation between RiCE's total score and CSI's total score (Sound-Sketcher),check test
+η²(H),maybe
+X²,not_relevant
+Not significant,not_relevant
+Regression coefficient,not_relevant
+Median Difference,not_relevant
+Consistency Percentage,not_relevant
+T-Stat,not_relevant
+Bayes factor,not_relevant
+f^2,check test
+CMIN/DF,not_relevant
+completing impact,not_relevant
+total effect,check test
+effect,check test
+Standardized coefficient,not_relevant
+M±SD,not_relevant
+Coefficient C0,not_relevant
+Coefficient C∞,not_relevant
+Kendall's Tau-b,yes
+Average Absolute Deviation,not_relevant
+Average Absolute Error (AAE),not_relevant
+Average Deviation,not_relevant
+Prediction Performance,not_relevant
+Jaccard Index,not_relevant
+Standardized β,not_relevant
+mean (AVscript),not_relevant
+mean (own tools),not_relevant
+standard deviation (AVscript),not_relevant
+standard deviation (own tools),not_relevant
+SSIM,not_relevant
+PSNR,not_relevant
+Detection Accuracy,not_relevant
+Rotation MAE,not_relevant
+Time to Detection (ms),not_relevant
+Detection Attempts (frames),not_relevant
+U1,not_relevant
+U2,not_relevant
+U3,not_relevant
+Mean Usefulness (Text-only),not_relevant
+Mean Transparency (Text-only),not_relevant
+Mean Usefulness (Text + Visual),not_relevant
+Mean Transparency (Text + Visual),not_relevant
+U (Usefulness),not_relevant
+U (Transparency),not_relevant
+U2 (Usefulness),not_relevant
+U6 (Usefulness),not_relevant
+U2 (Transparency),not_relevant
+U6 (Transparency),not_relevant
+U5 (Usefulness),not_relevant
+U5 (Transparency),not_relevant
+U7 (Usefulness),not_relevant
+U8 (Usefulness),not_relevant
+U11 (Usefulness),not_relevant
+U12 (Usefulness),not_relevant
+U7 (Transparency),not_relevant
+U8 (Transparency),not_relevant
+U11 (Transparency),not_relevant
+U12 (Transparency),not_relevant
+Time/Second (Gephi),not_relevant
+Mouse Click (Gephi),not_relevant
+Time/Second (GVQA),not_relevant
+Mouse Click (GVQA),not_relevant
+Intercept (α),not_relevant
+Slope (β),not_relevant
+Integrated Absolute Error (IAE),not_relevant
+Total Expected Rewards,not_relevant
+Probability & reward (Using expected values),not_relevant
+Probability & reward (A tradeoff between probability and reward),not_relevant
+Probability & reward (Unspecified strategy using probability and reward),not_relevant
+Probability (Using win probability),not_relevant
+Reward (Choosing the highest reward),not_relevant
+Neither (Choosing the coin flip),not_relevant
+Neither (Choosing at random),not_relevant
+b (Quantity of ADLs),not_relevant
+b (Perceived Quality of Caregiving Help),not_relevant
+b (Internet Skills),not_relevant
+b (Privacy Concerns),not_relevant
+b (Frequency of Using Caregiving Help),not_relevant
+β (contour),not_relevant
+β (heatmap),not_relevant
+β (binary mask),not_relevant
+"β (binary mask, IoU)",not_relevant
+"β (contour, IoU)",not_relevant
+"β (binary mask, entropy)",not_relevant
+"β (contour, entropy)",not_relevant
+Partial Eta Squared ($\eta_{p}^{2}$),yes
+Percentage Points Increase,not_relevant
+χ^2,not_relevant
+CC score,not_relevant
+Hit rate,not_relevant
+False alarm rate,not_relevant
+Average Pointing Error,not_relevant
+NASA-TLX,not_relevant
+Mean NASA-TLX,not_relevant
+d',check test
+c,not_relevant
+Score Difference,not_relevant
+Time Difference,not_relevant
+Correlation (r),yes
+Correlation (r) with OE,yes
+Correlation (r) with RSE,yes
+Correlation (r) with LOT-R,yes
+Standardized Regression Coefficient (β) for Age,not_relevant
+Standardized Regression Coefficient (β) for Male Gender,not_relevant
+"Discriminant Limit (ρlimit, OE)",not_relevant
+Discriminant Difference (rdiff),not_relevant
+"Discriminant Limit (ρlimit, RSE)",not_relevant
+"Discriminant Limit (ρlimit, LOT-R)",not_relevant
+β (TikTok),not_relevant
+β (YouTube),not_relevant
+RSE (TikTok),not_relevant
+RSE (YouTube),not_relevant
+RSE,not_relevant
+β (Instagram),not_relevant
+β (Snapchat),not_relevant
+RSE (Instagram),not_relevant
+RSE (Snapchat),not_relevant
+β (Critical Reflection),not_relevant
+RSE (Critical Reflection),not_relevant
+β (Critical Motivation),not_relevant
+RSE (Critical Motivation),not_relevant
+β (Critical Action),not_relevant
+RSE (Critical Action),not_relevant
+External Attribution,not_relevant
+Mean Before (M),not_relevant
+Mean After (M),not_relevant
+χ²ₛ,not_relevant
+Zₖ,not_relevant
+Loading Score,not_relevant
+mean number of zone mismatches,not_relevant
+mean average walking distance (km),not_relevant
+mean SD of walking distance (km),not_relevant
+mean completion time (min),not_relevant
+mean number of distance analysis triggered,not_relevant
+mean task difficulty rating,not_relevant
+mean task effort rating,not_relevant
+Correctness Rate,not_relevant
+Median Accuracy,not_relevant
+B (Coefficient of age group being 55+),not_relevant
+B (Coefficient of age group being 55+ after standardizing dependent variable),not_relevant
+df,not_relevant
+BF_{01},not_relevant
+Generalized eta squared (η_G^2),yes
+Partial eta squared (η^2_p),yes
+Generalized eta squared (η^2_G),yes
+Mean Absolute Error (MAE),not_relevant
+τ (tau),yes
+Yes,not_relevant
+No,not_relevant
+Interquartile Range (IQR),not_relevant
+Precision (PPV),not_relevant
+Recall (TPR),not_relevant
+Response Time (RT) Median,not_relevant
+Response Time (RT) IQR,not_relevant
+Equivalence Rate,not_relevant
+ηP²,yes
+Face Focus,not_relevant
+Politeness,not_relevant
+Naturalness,not_relevant
+RTLX,not_relevant
+Task Duration,not_relevant
+Task Accuracy,not_relevant
+Relaxation,not_relevant
+MATS,not_relevant
+generalized η² (ges),yes
+Mean (Charagraph),not_relevant
+SD (Charagraph),not_relevant
+SD (Baseline),not_relevant
+Median (Charagraph),not_relevant
+Median (Baseline),not_relevant
+Weber Fraction (W),not_relevant
+Threshold,not_relevant
+standardized effect size,not_relevant
+AUC-Judd,not_relevant
+NSS,not_relevant
+IG,not_relevant
+SIM,not_relevant
+CC,not_relevant
+KL,not_relevant
+DTW,not_relevant
+TDE,not_relevant
+Eyenalysis,not_relevant
+REC,not_relevant
+DET,not_relevant
+CORM,not_relevant
+FID,not_relevant
+Mean (Human),not_relevant
+Mean (StyleMe),not_relevant
+top-1 accuracy,not_relevant
+top-3 accuracy,not_relevant
+F offset (cm),not_relevant
+J offset (cm),not_relevant
+β (creation stage is WIP),not_relevant
+β (actionability),not_relevant
+β (justification),not_relevant
+β (specificity),not_relevant
+β (valence),not_relevant
+β (delay),not_relevant
+β (creation stage is WIP * specificity),not_relevant
+β (creation stage is WIP * valence),not_relevant
+β (creation stage is WIP * delay),not_relevant
+β (creation stage is WIP * actionability),not_relevant
+Mental Demand,not_relevant
+Temporal Demand,not_relevant
+Performance,not_relevant
+Frustration,not_relevant
+Stress,not_relevant
+Helpfulness,not_relevant
+No Indicator,not_relevant
+Is Typing,not_relevant
+Masked Typing,not_relevant
+Live Typing,not_relevant
+Spearman Rho (ρ),not_relevant
+β (Reencountered),not_relevant
+β (Specter),not_relevant
+β (Global),not_relevant
+β (Linear),not_relevant
+Mean (Papers Opened),not_relevant
+Mean (Papers Saved),not_relevant
+Mean (Reencountered Citations),not_relevant
+Mean (Papers Saved from Reencountered Citations),not_relevant
+Mean (Paper Opens),not_relevant
+SD (Paper Opens),not_relevant
+Mean (Card Opens),not_relevant
+SD (Card Opens),not_relevant
+Mean (FamiliarCite),not_relevant
+SD (FamiliarCite),not_relevant
+Mean (RencontrdCite),not_relevant
+SD (RencontrdCite),not_relevant
+Mean (NoAgmntation),not_relevant
+SD (NoAgmntation),not_relevant
+Mean (Paper Saves),not_relevant
+SD (Paper Saves),not_relevant
+Mean (FamiliarCite - Paper Saves),not_relevant
+SD (FamiliarCite - Paper Saves),not_relevant
+Mean (RencontrdCite - Paper Saves),not_relevant
+SD (RencontrdCite - Paper Saves),not_relevant
+Mean (NoAgmntation - Paper Saves),not_relevant
+SD (NoAgmntation - Paper Saves),not_relevant
+Mean (Search/External - Paper Saves),not_relevant
+SD (Search/External - Paper Saves),not_relevant
+ρ (rho),yes
+Adjusted R-squared,yes
+Mean (Sighted),not_relevant
+Mean (BVI),not_relevant
+Std.Dev,not_relevant
+Mean Performance (F1 Score),not_relevant
+Diff%,not_relevant
+Pr.,not_relevant
+Rc.,not_relevant
+Cite sources,not_relevant
+Establish credibility of sources,not_relevant
+Triangulate multiple sources,not_relevant
+Statistical evidence,not_relevant
+Testimonial evidence,not_relevant
+Documented evidence,not_relevant
+Anecdotal evidence,not_relevant
+Analogical evidence,not_relevant
+Evidence vetting,not_relevant
+Assertive confidence,not_relevant
+Acknowledge alternatives or uncertainties,not_relevant
+Present different standpoints,not_relevant

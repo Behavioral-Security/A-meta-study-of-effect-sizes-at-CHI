@@ -1,0 +1,66 @@
+{
+    "title": "Linguistic Dead-Ends and Alphabet Soup: Finding Dark Patterns in Japanese Apps",
+    "erstautor": "Shun Hidaka",
+    "doi": "10.1145/3544548.3580942",
+    "link": "https://doi.org/10.1145/3544548.3580942",
+    "year": "2023",
+    "topics": [
+        ""
+    ],
+    "tests": [
+        {
+            "test_name": "paired t-test",
+            "N": "8",
+            "p-value": ".006",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Shapiro-Wilk test",
+            "N": "",
+            "p-value": ".63",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "ANOVA",
+            "N": "200",
+            "p-value": ".53",
+            "num_conditions": "8",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        }
+    ]
+}

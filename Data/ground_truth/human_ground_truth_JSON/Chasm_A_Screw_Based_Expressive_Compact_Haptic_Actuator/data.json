@@ -1,0 +1,126 @@
+{
+    "title": "Chasm: A Screw Based Expressive Compact Haptic Actuator",
+    "erstautor": "Pornthep Preechayasomboon",
+    "doi": "10.1145/3313831.3376512",
+    "link": "https://doi.org/10.1145/3313831.3376512",
+    "year": "2020",
+    "topics": [
+        ""
+    ],
+    "tests": [
+        {
+            "test_name": "paired Student's t-test",
+            "N": "10",
+            "p_value": "<0.01",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "paired Student's t-test",
+            "N": "10",
+            "p_value": "<0.01",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "paired Student's t-test",
+            "N": "10",
+            "p_value": ">0.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "two way repeated measure ANOVA main effect",
+            "N": "13",
+            "p_value": "",
+            "num_conditions": "12x3",
+            "num_repeat": "4",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors":  [
+                {
+                    "factor": "main effect",
+                    "p-value": "<.0001",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                },
+                {
+                    "factor": "main effect",
+                    "p-value": "<.01",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                },
+                {
+                    "factor": "interaction effect",
+                    "p-value": "0.55",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        }
+
+    ]
+}

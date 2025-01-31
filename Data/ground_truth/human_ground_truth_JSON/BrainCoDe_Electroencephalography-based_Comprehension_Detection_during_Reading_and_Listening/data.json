@@ -1,0 +1,96 @@
+{
+    "title": "BrainCoDe: Electroencephalography-based Comprehension Detection during Reading and Listening",
+    "erstautor": "Christina Schneegass",
+    "doi": "10.1145/3313831.3376707",
+    "link": "http://dx.doi.org/10.1145/3313831.3376707",
+    "year": "2020",
+    "topics": [
+        ""
+    ],
+    "tests": [
+        {
+            "test_name": "Shapiro-Wilk test",
+            "N": "",
+            "p_value": "<.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Wilcoxon-Signed rank test",
+            "N": "16",
+            "p_value": "<.001",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Wilcoxon-Signed rank test",
+            "N": "16",
+            "p_value": "<.001",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Shapiro-Wilk test",
+            "N": "12",
+            "p_value": ">.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "t-test",
+            "N": "12",
+            "p_value": "<.001",
+            "effect_size": {
+                "measure": "d",
+                "value": "1.531",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "t-test",
+            "N": "12",
+            "p_value": "<.001",
+            "effect_size": {
+                "measure": "d",
+                "value": "0.758",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        }
+    ]
+}

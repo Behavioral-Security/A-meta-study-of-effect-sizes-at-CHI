@@ -1,0 +1,725 @@
+{
+    "title": "GoldenTime: Exploring System-Driven Timeboxing and Micro-Financial Incentives for Self-Regulated Phone Use",
+    "erstautor": "Joonyoung Park",
+    "doi": "10.1145/3411764.3445489",
+    "link": "https://doi.org/10.1145/3411764.3445489",
+    "year": "2021",
+    "topics": [
+        ""
+    ],
+    "tests": [
+        {
+            "test_name": "ANOVA",
+            "N": "223",
+            "p_value": ".715",
+            "num_conditions": "3",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": " Chi-squared test",
+            "N": "223",
+            "p_value": ".18",
+            "num_conditions": "3",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "mixed ANOVA with a Greenhouse-Geisser correction",
+            "N": "205",
+            "p_value": "<.001",
+            "num_conditions": "3x4",
+            "num_repeat": "",
+            "factors":  [
+				{
+						"factor": "main effect",
+						"p-value": "<.001",
+						"effectsizes": [{
+							"effectsize_measure": "\u03b7^2",
+							"value": ".28",
+							"CI" : 	{
+								"lower": "",
+								"upper": "",
+								"CI_type": ""
+							}
+						}]
+					},
+                    {
+                            "factor": "main effect",
+                            "p-value": ".001",
+                            "effectsizes": [{
+                                "effectsize_measure": "\u03b7^2",
+                                "value": ".08",
+                                "CI" : 	{
+                                    "lower": "",
+                                    "upper": "",
+                                    "CI_type": ""
+                                }
+                            }]
+                        },
+                    {
+                        "factor": "interaction effect",
+                        "p-value": "<.001",
+                        "effectsizes": [{
+                            "effectsize_measure": "\u03b7^2",
+                            "value": ".10",
+                            "CI" : 	{
+                                "lower": "",
+                                "upper": "",
+                                "CI_type": ""
+                            }
+                        }]
+                    }
+				],
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "68",
+            "p_value": "0.008",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "7",
+            "problem_explanation": "test type not explicit, reported with mean difference and SE (this is true for the rest of the post hoc tests in this paper)"
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "68",
+            "p_value": ".041",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "68",
+            "p_value": ">.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "68",
+            "p_value": "<.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "68",
+            "p_value": "<.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "68",
+            "p_value": "<.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "69",
+            "p_value": "<.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "t-test",
+            "N": "137",
+            "p_value": "<0.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "t-test",
+            "N": "137",
+            "p_value": ".001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "t-test",
+            "N": "137",
+            "p_value": ".002",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "t-test",
+            "N": "137",
+            "p_value": "<.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "t-test",
+            "N": "137",
+            "p_value": "<.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "t-test",
+            "N": "137",
+            "p_value": "<.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "t-test",
+            "N": "136",
+            "p_value": ".646",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "t-test",
+            "N": "136",
+            "p_value": ".931",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "t-test",
+            "N": "137",
+            "p_value": ".400",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "mixed ANOVA with a Greenhouse-Geisser correction",
+            "N": "205",
+            "p_value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors":  [
+                {
+                    "factor": "main effect",
+                    "p-value": "<.001",
+                    "effectsizes": [{
+                        "effectsize_measure": "η^2",
+                        "value": ".269",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+				},
+                {
+                    "factor": "main effect",
+                    "p-value": "<.001",
+                    "effectsizes": [{
+                        "effectsize_measure": "η^2",
+                        "value": ".069",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+				},
+                {
+                    "factor": "interaction effect",
+                    "p-value": "<.001",
+                    "effectsizes": [{
+                        "effectsize_measure": "η^2",
+                        "value": ".069",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+				}
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+
+        {
+            "test_name": "paired t-test",
+            "N": "68",
+            "p_value": "<.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "68",
+            "p_value": "<.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "68",
+            "p_value": "<.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "69",
+            "p_value": "<.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "69",
+            "p_value": "<.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "69",
+            "p_value": "<.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "t-test",
+            "N": "137",
+            "p_value": ".04",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "t-test",
+            "N": "137",
+            "p_value": ".047",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "t-test",
+            "N": "137",
+            "p_value": ".003",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "t-test",
+            "N": "137",
+            "p_value": "<.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "t-test",
+            "N": "137",
+            "p_value": "<.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "t-test",
+            "N": "137",
+            "p_value": "<.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "t-test",
+            "N": "136",
+            "p_value": ".272",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "t-test",
+            "N": "136",
+            "p_value": ".656",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "t-test",
+            "N": "136",
+            "p_value": "1.00",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        }
+    ]
+}

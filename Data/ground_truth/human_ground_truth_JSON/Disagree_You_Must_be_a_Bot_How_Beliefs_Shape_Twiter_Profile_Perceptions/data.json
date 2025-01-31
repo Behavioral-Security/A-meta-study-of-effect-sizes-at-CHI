@@ -1,0 +1,489 @@
+{
+    "title": "Disagree? You Must be a Bot! How Beliefs Shape Twiter Profile Perceptions",
+    "erstautor": "Magdalena Wischnewski",
+    "doi": "10.1145/3411764.3445109",
+    "link": "https://doi.org/10.1145/3411764.3445109",
+    "year": "2021",
+    "topics": [
+        ""
+    ],
+    "tests": [
+        {
+            "test_name": "repeated measure ANOVA",
+            "N": "151",
+            "p-value": "",
+            "num_conditions": "2x3",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                {
+                    "factor": "main effect (with Greenhouse-Geisser sphericity correction)",
+                    "p_value": "<.001",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": ".05",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                {
+                    "factor": "main effect",
+                    "p_value": ".39",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": ".005",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                {
+                    "factor": "interaction effect with control variable",
+                    "p_value": ".001",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": ".05",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                {
+                    "factor": "interaction effect with control variable",
+                    "p_value": ".02",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": ".04",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                {
+                    "factor": "interaction effect with control variable",
+                    "p_value": "<.001",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": ".09",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                {
+                    "factor": "Interaction effect with control variable",
+                    "p_value": ".03",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": ".03",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                {
+                    "factor": "interaction effect (with Greenhouse-Geisser correction)",
+                    "p_value": ".23",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": ".01",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "8",
+            "problem_explanation": "ANOVA doesn't support continuous control variables, should probably be ANCOVA"
+        },
+        {
+            "test_name": "Correlation",
+            "N": "151",
+            "p-value": ">.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "correlation coefficient",
+                "value": "-.004",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+  
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "correlation",
+            "N": "151",
+            "p-value": "<.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "correlation coefficient",
+                "value": "-.17",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },           
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "correlation",
+            "N": "151",
+            "p-value": "> .05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "correlation coefficient",
+                "value": ".14",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },           
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "correlation",
+            "N": "151",
+            "p-value": "<.01",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "correlation coefficient",
+                "value": "-.22",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },            
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "correlation",
+            "N": "151",
+            "p-value": ">.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "correlation coefficient",
+                "value": ".11",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },            
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "correlation",
+            "N": "151",
+            "p-value": "<.01",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "correlation coefficient",
+                "value": ".21",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },            
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "correlation",
+            "N": "151",
+            "p-value": ">.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "correlation coefficient",
+                "value": ".01",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },            
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "correlation",
+            "N": "151",
+            "p-value": ">.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "correlation coefficient",
+                "value": "-.15",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },            
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "correlation",
+            "N": "151",
+            "p-value": ">.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "correlation coefficient",
+                "value": ".07",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },            
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "correlation",
+            "N": "151",
+            "p-value": "<.01",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "correlation coefficient",
+                "value": ".23",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },            
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "correlation",
+            "N": "151",
+            "p-value": "<.01",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "correlation coefficient",
+                "value": ".44",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },            
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "correlation",
+            "N": "151",
+            "p-value": ">.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "correlation coefficient",
+                "value": "-.03",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },            
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "correlation",
+            "N": "151",
+            "p-value": "<.01",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "correlation coefficient",
+                "value": ".24",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },            
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "correlation",
+            "N": "151",
+            "p-value": "<.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "correlation coefficient",
+                "value": "-.16",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "paired sample t-test",
+            "N": "151",
+            "p-value": ".001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "d",
+                "value": "0.28",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },           
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "paired sample t-test, adjusted through Bonferroni correction",
+            "N": "151",
+            "p-value": "<.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "d",
+                "value": ".38",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+           
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "paired sample t-test, adjusted through Bonferroni correction",
+            "N": "151",
+            "p-value": "<.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "d",
+                "value": ".3",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },            
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "mediation analysis",
+            "N": "151",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "unstandardized indirect effect coefficient",
+                "value": "-7.59",
+                "CI": {
+                    "lower": "-10.94",
+                    "upper": "-4.48",
+                    "type": "95%"
+                }
+            },
+            
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "mediation analysis",
+            "N": "151",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "unstandardized indirect effect coefficient",
+                "value": "-8.27",
+                "CI": {
+                    "lower": "-11.12",
+                    "upper": "-5.76",
+                    "type": "95%"
+                }
+            },
+           
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "mediation analysis",
+            "N": "151",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "unstandardized indirect effect coefficient",
+                "value": "-9.77",
+                "CI": {
+                    "lower": "-12.64",
+                    "upper": "-7.11",
+                    "type": "95%"
+                }
+            },
+            
+            "certainty": "",
+            "problem_explanation": ""
+        }
+    ]
+}

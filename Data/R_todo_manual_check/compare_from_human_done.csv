@@ -1,0 +1,348 @@
+doi,test_id,test_name,N,test_p_value,factor,effectsize_id,effectsize_measure,effectsize_value,CI_upper,CI_lower,CI_type,test_name_correct,ES_correct,ES_name_correct,p_vals_correct,Ns_correct,Cis correct,fully_correct,added_info,added_undectably_wrong_info,missing,double reported,format_error,problem_reason
+10.1145/3290605.3300252,1,correlation,53,<.05,,1,r,.31,NA,NA,,1,,,,,,1,,,,1,,double report in paper
+10.1145/3290605.3300252,2,correlation,53,<.05,,1,r,.30,NA,NA,,1,,,,,,1,,,,1,,double report in paper
+10.1145/3290605.3300252,3,correlation,53,<.05,,1,r,.46,NA,NA,,1,,,,,,1,,,,1,,double report in paper
+10.1145/3290605.3300252,4,correlation,53,,,1,r,0.23,NA,NA,,1,,,,,,1,,,,,,
+10.1145/3290605.3300252,5,correlation,53,,,1,r,0.23,NA,NA,,1,,,,,,1,,,,,,
+10.1145/3290605.3300252,6,correlation,53,,,1,r,0.23,NA,NA,,1,,,,,,1,,,,,,
+10.1145/3290605.3300252,7,multiple regression,53,< 05,,1,r^2,.22,NA,NA,,1,1,,,,,1,,,,,,
+10.1145/3290605.3300252,8,multiple regression,53,,,1,r ^2 ,.10,NA,NA,,1,,,,,,,,,1,,,no p-value close
+10.1145/3290605.3300252,9,multiple regression,53,,,1,r^2,.05,NA,NA,,1,,,,,,,,,1,,,no p-value close
+10.1145/3290605.3300252,10,single-factor repeated measures ANOVA,53,<.01,,1,,,NA,NA,,1,1,,,,,1,,,,,,
+10.1145/3290605.3300252,11,paired t-test,53,<.01,,1,d,805,NA,NA,,1,1,,,,,1,,,,,,
+10.1145/3290605.3300252,12,paired t-test,53,<0.01,,1,d,1.23,NA,NA,,1,1,,,,,1,,,,,,
+10.1145/3290605.3300252,13,paired t-test,15,.06,,1,d,0.66,NA,NA,,1,1,,,,,1,,,,,,
+10.1145/3290605.3300252,14,paired t-test,53,>0.05,,1,,,NA,NA,,1,1,,,,,1,,,,,,
+10.1145/3290605.3300252,15,paired t-test,53,>0.05,,1,,,NA,NA,,1,1,,,,,1,,,,,,
+10.1145/3290605.3300316,1,independent samples t-test,106,<0.001,,1,,,NA,NA,,1,,,,,,,1,,,,,mean_difference is not standardized
+10.1145/3290605.3300316,2,2 x 2 ANOVA,106,,,1,,,NA,NA,,1,,,,,,,,,,,1,all factors p-values in one string
+10.1145/3290605.3300316,2,2 x 2 ANOVA,106,< 0.01,main effect,1,,,NA,NA,,1,,,,,,,,,,,1,all factors p-values in one string
+10.1145/3290605.3300316,2,2 x 2 ANOVA,106,53,main effect,1,,,NA,NA,,1,,,,,,,,,,,1,all factors p-values in one string
+10.1145/3290605.3300316,2,2 x 2 ANOVA,106,< 0.001,interaction effect,1,,,NA,NA,,1,,,,,,,,,,,1,all factors p-values in one string
+10.1145/3290605.3300316,3,independent samples t-test,54,< 0.001,,1,,,NA,NA,,1,,,,,,,1,,,,,mean_difference is not standardized
+10.1145/3290605.3300316,4,independent samples t-test,52,0.63,,1,,,NA,NA,,1,,,,,,,1,,,,,mean_difference is not standardized
+10.1145/3290605.3300316,5,2 x 2 ANOVA,106,,,1,,,NA,NA,,1,,,,,,,1,,,,1,
+10.1145/3290605.3300316,5,2 x 2 ANOVA,106,174,main effect,1,,,NA,NA,,1,,,,,,,1,,,,1,
+10.1145/3290605.3300316,5,2 x 2 ANOVA,106,256,main effect,1,,,NA,NA,,1,,,,,,,1,,,,1,
+10.1145/3290605.3300316,5,2 x 2 ANOVA,106,0.32,interaction effect,1,,,NA,NA,,1,,,,,,,1,,,,1,
+10.1145/3290605.3300316,6,factorial ANOVA,106,< 0.01,,1,,,NA,NA,,1,,,,,,,1,,,,1,
+10.1145/3290605.3300316,6,factorial ANOVA,106,<0.01,main effect,1,,,NA,NA,,1,,,,,,,1,,,,1,
+10.1145/3290605.3300316,6,factorial ANOVA,106,0.17,main effect,1,,,NA,NA,,1,,,,,,,1,,,,1,
+10.1145/3290605.3300316,6,factorial ANOVA,106,136,interaction effect,1,,,NA,NA,,1,,,,,,,1,,,,1,
+10.1145/3290605.3300316,,,,,,,,,,,,,,,,,,,3 tests added (descriptive stats),,,,,
+10.1145/3290605.3300405,1,paired t-test,11,0.13,,1,,,NA,NA,,1,,,,,,1,,,,,,
+10.1145/3290605.3300405,2,paired t-test,11,0.08,,1,,,NA,NA,,1,,,,,,1,,,,,,
+10.1145/3290605.3300405,3,paired t-test,11,< 0.001,,1,,,NA,NA,,1,,,,,,1,,,,,,
+10.1145/3290605.3300405,4,paired t-test,11,0.65,,1,,,NA,NA,,1,,,,,,1,,,,,,
+10.1145/3290605.3300405,5,paired t-test,11,0.02,,1,,,NA,NA,,1,,,,,,1,,,,,,
+10.1145/3290605.3300405,6,paired t-test,11,0.01,,1,,,NA,NA,,1,,,,,,1,,,,,,
+10.1145/3290605.3300405,7,paired t-test,11,0.02,,1,,,NA,NA,,1,,,,,,1,,,,,,
+10.1145/3290605.3300405,8,Pearson's product-moment correlation,11,0.04,,1,cor,2.47,NA,NA,,1,1,,,,,1,,,,,,
+10.1145/3290605.3300405,9,paired t-test,11,0.03,,1,Cohen's d,0.57,NA,NA,,1,1,,,,,1,,,,,,
+10.1145/3290605.3300405,10,paired t-test,11,1,,1,Cohen's d,1.19,NA,NA,,1,1,,,,,1,,,,1,,
+10.1145/3290605.3300405,11,paired t-test,11,7,,1,Cohen's d,0.48,NA,NA,,1,1,,,,,1,,,,1,,
+10.1145/3290605.3300405,12,paired t-test,11,0.08,,1,,,NA,NA,,1,,,,,,1,,,,,,
+10.1145/3290605.3300405,13,paired t-test,11,0.62,,1,,,NA,NA,,1,,,,,,1,,,,,,
+10.1145/3290605.3300405,14,paired t-test,11,0.20,,1,,,NA,NA,,1,,,,,,1,,,,,,
+10.1145/3290605.3300405,15,paired t-test,11,0.75,,1,,,NA,NA,,1,,,,,,1,,,,,,
+10.1145/3290605.3300405,16,paired t-test,11,< 0.001,,1,Cohen's d,0.99,NA,NA,,1,1,,,,,1,,,,,,
+10.1145/3290605.3300405,17,paired t-test,11,2,,1,Cohen's d,1.10,NA,NA,,1,1,,,,,1,,,,,,
+10.1145/3290605.3300405,18,paired t-test,11,0.03,,1,Cohen's d,0.69,NA,NA,,1,1,,,,,1,,,,,,
+10.1145/3290605.3300405,19,paired t-test,11,0.38,,1,,,NA,NA,,1,,,,,,1,,,,,,
+10.1145/3290605.3300405,20,paired t-test,11,0.26,,1,,,NA,NA,,1,,,,,,1,,,,,,
+10.1145/3290605.3300405,21,paired t-test,11,0.79,,1,,,NA,NA,,1,,,,,,1,,,,,,
+10.1145/3290605.3300405,22,paired t-test,11,0.13,,1,,,NA,NA,,1,,,,,,1,,,,,,
+10.1145/3290605.3300405,23,paired t-test,11,0.12,,1,,,NA,NA,,1,,,,,,1,,,,,,
+10.1145/3290605.3300472,1,Levene's test,200,.02,,1,,,NA,NA,,,,,,,,,,,1,,,
+10.1145/3290605.3300472,2,Welch ANOVA,200,.11,,1,,,NA,NA,,1,,,,,,,1,,,,,
+10.1145/3290605.3300678,,,,,,,,,,,,,,,,,,,test added (Wizard-of-Oz experiment),,,,,
+10.1145/3290605.3300678,1,ANOVA,54,<.001,,1,NA,NA,NA,NA,NA,,,,,,,,,,,,,
+10.1145/3290605.3300678,1,ANOVA,18,<.001,,1,,,NA,NA,,,,,,,,,,,,,,
+10.1145/3290605.3300678,2,Pairwise t-test (with Bonferroni Adjustment),18,<.001,,1,,,NA,NA,,,,,,,,,,,1,,,only summary + some p-values in text
+10.1145/3290605.3300678,3,Pairwise t-test (with Bonferroni Adjustment),18,<.001,,1,,,NA,NA,,,,,,,,,,,1,,,only summary + some p-values in text
+10.1145/3290605.3300678,4,Pairwise t-test (with Bonferroni Adjustment),18,1,,1,,,NA,NA,,,,,,,,,,,1,,,only summary + some p-values in text
+10.1145/3290605.3300678,5,ANOVA main effect,18,<.001,,1,,,NA,NA,,,,,,,,,test statistics + descriptives added (in extra factors),,,,,
+10.1145/3290605.3300678,6,ANOVA interaction effect,18,.037,,1,,,NA,NA,,,,,,,,,test statistics + descriptives added (in extra factors),,,,,
+10.1145/3290605.3300678,7,Pairwise t-test (with Bonferroni Adjustment),18,.005,,1,,,NA,NA,,,,,,,,,,,1,,,only summary + some p-values in text
+10.1145/3290605.3300678,8,Pairwise t-test (with Bonferroni Adjustment),18,.017,,1,,,NA,NA,,,,,,,,,,,1,,,only summary + some p-values in text
+10.1145/3290605.3300678,9,Pairwise t-test (with Bonferroni Adjustment),18,>0.05,,1,,,NA,NA,,,,,,,,,,,1,,,only summary + some p-values in text
+10.1145/3290605.3300678,10,Pairwise t-test (with Bonferroni Adjustment),18,>0.05,,1,,,NA,NA,,,,,,,,,,,1,,,only summary + some p-values in text
+10.1145/3290605.3300678,11,Pairwise t-test (with Bonferroni Adjustment),18,>0.05,,1,,,NA,NA,,,,,,,,,,,1,,,only summary + some p-values in text
+10.1145/3290605.3300678,12,Pairwise t-test (with Bonferroni Adjustment),18,>0.05,,1,,,NA,NA,,,,,,,,,,,1,,,only summary + some p-values in text
+10.1145/3290605.3300678,13,ANOVA,18,<.001,,1,,,NA,NA,,1,,,1,,,,test statistics + descriptives added (in extra factors),,,,,
+10.1145/3290605.3300678,14,Pairwise t-test (with Bonferroni Adjustment),18,<.005,,1,,,NA,NA,,,,,,,,,,,1,,,only summary + some p-values in text
+10.1145/3290605.3300678,15,Pairwise t-test (with Bonferroni Adjustment),18,0.13,,1,,,NA,NA,,,,,,,,,,,1,,,only summary + some p-values in text
+10.1145/3290605.3300678,16,Pairwise t-test (with Bonferroni Adjustment),18,<.005,,1,,,NA,NA,,,,,,,,,,,1,,,only summary + some p-values in text
+10.1145/3290605.3300678,17,ANOVA,18,.003,,1,,,NA,NA,,1,,,1,,,,test statistics + descriptives added (in extra factors),,,,,
+10.1145/3290605.3300678,18,Pairwise t-test (with Bonferroni Adjustment),18,0.39,,1,,,NA,NA,,,,,,,,,,,1,,,only summary + some p-values in text
+10.1145/3290605.3300678,19,Pairwise t-test (with Bonferroni Adjustment),18,>0.05,,1,,,NA,NA,,,,,,,,,,,1,,,only summary + some p-values in text
+10.1145/3290605.3300678,20,Pairwise t-test (with Bonferroni Adjustment),18,>0.05,,1,,,NA,NA,,,,,,,,,,,1,,,only summary + some p-values in text
+10.1145/3290605.3300678,21,ANOVA,18,<.001,,1,,,NA,NA,,1,,,1,,,,test statistics + descriptives added (in extra factors),,,,,
+10.1145/3290605.3300678,22,Pairwise t-test (with Bonferroni Adjustment),18,<.05,,1,,,NA,NA,,,,,,,,,,,1,,,only summary + some p-values in text
+10.1145/3290605.3300678,23,Pairwise t-test (with Bonferroni Adjustment),18,<.05,,1,,,NA,NA,,,,,,,,,,,1,,,only summary + some p-values in text
+10.1145/3290605.3300678,24,Pairwise t-test (with Bonferroni Adjustment),18,<.05,,1,,,NA,NA,,,,,,,,,,,1,,,only summary + some p-values in text
+10.1145/3290605.3300678,25,ANOVA,18,.924,,1,,,NA,NA,,1,,,1,,,,"descriptive stats (added in extrac factors, too)",,,,,
+10.1145/3290605.3300678,26,ANOVA,18,.004,,1,,,NA,NA,,1,,,1,,,,,,,,,"26, 27, 28, 29 recognized as one test"
+10.1145/3290605.3300678,27,ANOVA,18,<.001,,1,,,NA,NA,,1,,,1,,,,,,,,,"26, 27, 28, 29 recognized as one test"
+10.1145/3290605.3300678,28,ANOVA,18,<.001,,1,,,NA,NA,,1,,,1,,,,,,,,,"26, 27, 28, 29 recognized as one test"
+10.1145/3290605.3300678,29,ANOVA,18,<.001,,1,,,NA,NA,,1,,,1,,,,,,,,,"26, 27, 28, 29 recognized as one test"
+10.1145/3313831.3376154,1,paired t-test,4,<.05,,1,,,NA,NA,,0.5,,,1,,,,1,,,,,Full test name not reported explicitly
+10.1145/3313831.3376154,2,paired t-test,3,<.05,,1,,,NA,NA,,0.5,,,1,,,,1,,,,,Full test name not reported explicitly
+10.1145/3313831.3376154,3,paired t-test,4,<.05,,1,,,NA,NA,,0.5,,,1,,,,1,,,,,Full test name not reported explicitly
+10.1145/3313831.3376154,4,paired t-test,3,<.05,,1,,,NA,NA,,0.5,,,1,,,,1,,,,,Full test name not reported explicitly
+10.1145/3313831.3376154,5,paired t-test,7,<.05,,1,,,NA,NA,,0.5,,,1,,,,1,,,,,Full test name not reported explicitly
+10.1145/3313831.3376154,6,paired t-test,7,>.05,,1,,,NA,NA,,0.5,,,1,,,,1,,,,,Full test name not reported explicitly
+10.1145/3313831.3376154,7,paired t-test,7,>.05,,1,,,NA,NA,,0.5,,,1,,,,1,,,,,Full test name not reported explicitly
+10.1145/3313831.3376154,8,paired t-test,7,<.05,,1,,,NA,NA,,0.5,,,1,,,,1,,,,,Full test name not reported explicitly
+10.1145/3313831.3376154,9,paired t-test,3,>.05,,1,,,NA,NA,,0.5,,,1,,,,1,,,,,Full test name not reported explicitly
+10.1145/3313831.3376707,1,Shapiro-Wilk test,NA,<.05,,1,,,NA,NA,,1,,,1,,,1,,,,,,
+10.1145/3313831.3376707,2,Wilcoxon-Signed rank test,16,<.001,,1,,,NA,NA,,1,,,,,,1,,,,,,
+10.1145/3313831.3376707,3,Wilcoxon-Signed rank test,16,<.001,,1,,,NA,NA,,,,,,,,,,,1,,,
+10.1145/3313831.3376707,4,Shapiro-Wilk test,12,>.05,,1,,,NA,NA,,,,,,,,,,,1,,,
+10.1145/3313831.3376707,5,t-test,12,<.001,,1,d,1531,NA,NA,,1,1,,1,,,1,,,,,,
+10.1145/3313831.3376707,6,t-test,12,<.001,,1,d,758,NA,NA,,1,1,,1,,,1,,,,,,
+10.1145/3544548.3580942,,,,,,,,,,,,,,,,,,,"Added 1 test, identifiable (Comparison of DP occurrence rates)",,,,,
+10.1145/3544548.3580942,1,paired t-test,8,.006,,1,,,NA,NA,,1,,,1,0,,,,,,,,
+10.1145/3544548.3580942,2,Shapiro-Wilk test,NA,.63,,1,,,NA,NA,,1,,,1,1,,1,,,,,,
+10.1145/3544548.3580942,3,ANOVA,200,.53,,1,,,NA,NA,,1,,,1,1,,,1,,,,,
+10.1145/3544548.3581027,1,Friedman test,12,<0.05,,1,,,NA,NA,,1,,,1,1,,,1,,,1,,
+10.1145/3544548.3581027,2,Friedman test,12,<.001,,1,,,NA,NA,,1,,,1,1,,,1,,,,,
+10.1145/3544548.3581027,3,Friedman test,12,<0.05,,1,,,NA,NA,,1,,,1,1,,,1,,,,,
+10.1145/3544548.3581027,4,Wilcoxon signed-rank test,12,<0.05,,1,,,NA,NA,,,,,,,,,,,1,,,reported as sentence with few numbers
+10.1145/3544548.3581027,5,Wilcoxon signed-rank test,12,<0.05,,1,,,NA,NA,,,,,,,,,,,1,,,reported as sentence with few numbers
+10.1145/3544548.3581027,6,Wilcoxon signed-rank test,12,<0.05,,1,,,NA,NA,,,,,,,,,,,1,,,reported as sentence with few numbers
+10.1145/3544548.3581027,7,Wilcoxon signed-rank test,12,<0.05,,1,,,NA,NA,,,,,,,,,,,1,,,reported as sentence with few numbers
+10.1145/3544548.3581027,8,Wilcoxon signed-rank test,12,<0.05,,1,,,NA,NA,,,,,,,,,,,1,,,reported as sentence with few numbers
+10.1145/3544548.3581027,9,Wilcoxon signed-rank test,12,>0.05,,1,,,NA,NA,,,,,,,,,,,1,,,reported as sentence with few numbers
+10.1145/3544548.3581027,10,Wilcoxon signed-rank test,12,>0.05,,1,,,NA,NA,,,,,,,,,,,1,,,reported as sentence with few numbers
+10.1145/3544548.3581027,11,Wilcoxon signed-rank test,12,<.05,,1,,,NA,NA,,,,,,,,,,,1,,,reported as sentence with few numbers
+10.1145/3544548.3581027,12,Wilcoxon signed-rank test,12,<.05,,1,,,NA,NA,,,,,,,,,,,1,,,reported as sentence with few numbers
+10.1145/3544548.3581027,13,Wilcoxon signed-rank test,12,<.05,,1,,,NA,NA,,,,,,,,,,,1,,,reported as sentence with few numbers
+10.1145/3544548.3581027,14,Wilcoxon signed-rank test,12,<.05,,1,,,NA,NA,,,,,,,,,,,1,,,reported as sentence with few numbers
+10.1145/3544548.3581027,15,Wilcoxon signed-rank test,12,>.05,,1,,,NA,NA,,,,,,,,,,,1,,,reported as sentence with few numbers
+10.1145/3544548.3581027,16,Wilcoxon signed-rank test,12,>.05,,1,,,NA,NA,,,,,,,,,,,1,,,reported as sentence with few numbers
+10.1145/3544548.3581027,17,Wilcoxon signed-rank test,12,>.05,,1,,,NA,NA,,,,,,,,,,,1,,,reported as sentence with few numbers
+10.1145/3544548.3581027,18,Wilcoxon signed-rank test,12,<0.05,,1,,,NA,NA,,,,,,,,,,,1,,,reported as sentence with few numbers
+10.1145/3544548.3581027,19,Wilcoxon signed-rank test,12,<0.05,,1,,,NA,NA,,,,,,,,,,,1,,,reported as sentence with few numbers
+10.1145/3544548.3581027,20,Wilcoxon signed-rank test,12,>0.05,,1,,,NA,NA,,,,,,,,,,,1,,,reported as sentence with few numbers
+10.1145/3544548.3581027,21,Wilcoxon signed-rank test,12,>0.05,,1,,,NA,NA,,,,,,,,,,,1,,,reported as sentence with few numbers
+10.1145/3544548.3581027,22,Wilcoxon signed-rank test,12,>0.05,,1,,,NA,NA,,,,,,,,,,,1,,,reported as sentence with few numbers
+10.1145/3544548.3581027,23,Wilcoxon signed-rank test,12,>0.05,,1,,,NA,NA,,,,,,,,,,,1,,,reported as sentence with few numbers
+10.1145/3544548.3581027,24,Wilcoxon signed-rank test,12,>0.05,,1,,,NA,NA,,,,,,,,,,,1,,,reported as sentence with few numbers
+10.1145/3544548.3581027,25,Mauchly's test of sphericity,16,0.66,,1,,,NA,NA,,,,,,,,,,,1,,,reported as sentence with few numbers
+10.1145/3544548.3581027,26,Mauchly's test of sphericity,16,0.55,,1,,,NA,NA,,,,,,,,,,,1,,,reported as sentence with few numbers
+10.1145/3544548.3581027,27, repeated-measures ANOVA,16,,,1,,,NA,NA,,1,,,,1,,,1,,,,,
+10.1145/3544548.3581027,27, repeated-measures ANOVA,16,<0.05,main effect of avatar,1,,,NA,NA,,1,,,1,1,,,1,,,,,
+10.1145/3544548.3581027,27, repeated-measures ANOVA,16,<0.001,main effect of control method,1,,,NA,NA,,1,,,1,1,,,1,,,,,
+10.1145/3544548.3581027,27, repeated-measures ANOVA,16,<0.001,interaction effect beween avatars and control methods,1,,,NA,NA,,1,,,1,1,,,1,,,,,
+10.1145/3544548.3581027,28,post-hoc t-test for pairwise comparisons,16,<0.05,,1,,,NA,NA,,,,,,,,,,,1,,,
+10.1145/3544548.3581027,29,post-hoc t-test for pairwise comparisons,16,<0.05,,1,,,NA,NA,,,,,,,,,,,1,,,
+10.1145/3544548.3581027,30,post-hoc t-test for pairwise comparisons,16,<0.05,,1,,,NA,NA,,,,,,,,,,,1,,,
+10.1145/3544548.3581027,31,post-hoc t-test for pairwise comparisons,16,<0.05,,1,,,NA,NA,,,,,,,,,,,1,,,
+10.1145/3544548.3581027,32,post-hoc t-test for pairwise comparisons,16,<0.05,,1,,,NA,NA,,,,,,,,,,,1,,,
+10.1145/3544548.3581027,33,post-hoc t-test for pairwise comparisons,16,<0.05,,1,,,NA,NA,,,,,,,,,,,1,,,
+10.1145/3544548.3581027,34,post-hoc t-test for pairwise comparisons,16,<0.05,,1,,,NA,NA,,,,,,,,,,,1,,,
+10.1145/3544548.3581027,35,post-hoc t-test for pairwise comparisons,16,0.25,,1,,,NA,NA,,,,,,,,,,,1,,,
+10.1145/3544548.3581027,36,Mauchly's test of sphericity,16,1,,1,,,NA,NA,,,,,,,,,,,1,,,
+10.1145/3544548.3581027,37,Mauchly's test of sphericity,16,161,,1,,,NA,NA,,,,,,,,,,,1,,,
+10.1145/3544548.3581027,38,repeated-measures ANOVA,16,,,1,,,NA,NA,,,,,,,,,,,1,,,
+10.1145/3544548.3581027,38,repeated-measures ANOVA,16,<0.001,main effect of avatar,1,,,NA,NA,,,,,,,,,,,1,,,
+10.1145/3544548.3581027,38,repeated-measures ANOVA,16,<0.001,main effect of control methods,1,,,NA,NA,,,,,,,,,,,1,,,
+10.1145/3544548.3581027,38,repeated-measures ANOVA,16,<0.001,interaction effect between avatars and control methods,1,,,NA,NA,,,,,,,,,,,1,,,
+10.1145/3544548.3581027,39,post-hoc t-test for pairwise comparisons,16,0.19,,1,,,NA,NA,,,,,,,,,,,1,,,
+10.1145/3544548.3581027,40,post-hoc t-test for pairwise comparisons,16,>0.05,,1,,,NA,NA,,,,,,,,,,,1,,,
+10.1145/3544548.3581027,41,post-hoc t-test for pairwise comparisons,16,>0.05,,1,,,NA,NA,,,,,,,,,,,1,,,
+10.1145/3544548.3581027,42,post-hoc t-test for pairwise comparisons,16,>0.05,,1,,,NA,NA,,,,,,,,,,,1,,,
+10.1145/3544548.3581027,43,post-hoc t-test for pairwise comparisons,16,>0.05,,1,,,NA,NA,,,,,,,,,,,1,,,
+10.1145/3544548.3581027,44,post-hoc t-test for pairwise comparisons,16,>0.05,,1,,,NA,NA,,,,,,,,,,,1,,,
+10.1145/3544548.3581027,45,post-hoc t-test for pairwise comparisons,16,>0.05,,1,,,NA,NA,,,,,,,,,,,1,,,
+10.1145/3544548.3581027,46,post-hoc t-test for pairwise comparisons,16,>0.05,,1,,,NA,NA,,,,,,,,,,,1,,,
+10.1145/3544548.3581027,47,Wilcoxon signed-rank test,16,0.28,,1,,,NA,NA,,1,,,,,,,,,,1,,
+10.1145/3544548.3581027,48,Wilcoxon signed-rank test,16,<0.01,,1,,,NA,NA,,1,,,,,,,,,,,,
+10.1145/3544548.3581027,49,Wilcoxon signed-rank test,16,<0.01,,1,,,NA,NA,,1,,,,,,,,,,,,
+10.1145/3544548.3581027,50,Wilcoxon signed-rank test,16,<0.05,,1,,,NA,NA,,1,,,,,,,,,,,,
+10.1145/3544548.3581027,51,Wilcoxon signed-rank test,16,<0.01,,1,,,NA,NA,,1,,,,,,,,,,,,
+10.1145/3544548.3581027,52,Wilcoxon signed-rank test,12,0.06,,1,,,NA,NA,,1,,,,,,,,,,,,
+10.1145/3544548.3581027,53,Wilcoxon signed-rank test,12,16,,1,,,NA,NA,,1,,,,,,,,,,,,
+10.1145/3544548.3581027,54,Wilcoxon signed-rank test,12,12,,1,,,NA,NA,,1,,,,,,,,,,,,
+10.1145/3544548.3581027,55,Wilcoxon signed-rank test,12,11,,1,,,NA,NA,,1,,,,,,,,,,,,
+10.1145/3544548.3581027,56,Wilcoxon signed-rank test,12,31,,1,,,NA,NA,,1,,,,,,,,,,,,
+10.1145/3544548.3581087,1,repeated-measures,12,,,1,Cohen's d,0.45,NA,NA,,1,1,,,1,,1,,,,,,
+10.1145/3544548.3581087,2,repeated-measures,12,,,1,Cohen's d,0.20,NA,NA,,1,1,,,1,,1,,,,,,
+10.1145/3544548.3581087,3,repeated-measures,6,,,1,Cohen's d,0.86,NA,NA,,1,1,,,0,,,,,,,,
+10.1145/3544548.3581087,4,repeated-measures,6,,,1,Cohen's d,0.01,NA,NA,,,,,,,,,,,1,,,
+10.1145/3544548.3581087,5,repeated-measures,6,,,1,Cohen's d,0.78,NA,NA,,1,1,,,0,,,,,,,,
+10.1145/3544548.3581087,6,repeated-measures,6,,,1,Cohen's d,0.41,NA,NA,,,,,,,,,,,1,,,
+10.1145/3544548.3581087,7,repeated-measures,12,,,1,Cohen's d,0.1,NA,NA,,1,1,,,1,,1,,,,,,
+10.1145/3544548.3581087,8,repeated-measures,12,,,1,Cohen's d,0.08,NA,NA,,1,1,,,1,,1,,,,,,
+10.1145/3544548.3581200,1,hierarchical linear regression analysis,211,,,1,R^2,.15,NA,NA,,0.5,1,1,,1,,1,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,1,hierarchical linear regression analysis,211,,,2,Incremental R^2,.12,NA,NA,,0.5,1,1,,1,,1,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,1,hierarchical linear regression analysis,211,,,3,Total R^2,.27,NA,NA,,0.5,1,1,,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,1,hierarchical linear regression analysis,211,>.05,Year of membership,1,standardized beta coefficient,-.03,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,1,hierarchical linear regression analysis,211,>.05,Gender,1,standardized beta coefficient,.09,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,1,hierarchical linear regression analysis,211,<.05,Age,1,standardized beta coefficient,.14,NA,NA,,0.5,1,1,< missing,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,1,hierarchical linear regression analysis,211,<.001,Power Use,1,standardized beta coefficient,.33,NA,NA,,0.5,1,1,< missing,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,1,hierarchical linear regression analysis,211,<.001,Interactivity,1,standardized beta coefficient,-.40,NA,NA,,0.5,1,1,< missing,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,1,hierarchical linear regression analysis,211,>.05,Customization,1,standardized beta coefficient,-.03,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,1,hierarchical linear regression analysis,211,<.05,Navigability,1,standardized beta coefficient,.23,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,2,hierarchical linear regression analysis,211,,,1,R^2,.10,NA,NA,,0.5,1,1,,1,,1,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,2,hierarchical linear regression analysis,211,,,2,Incremental R^2,.13,NA,NA,,0.5,1,1,,1,,1,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,2,hierarchical linear regression analysis,211,,,3,Total R^2,.22,NA,NA,,0.5,1,1,,1,,1,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,2,hierarchical linear regression analysis,211,>.05,Year of membership,1, standardized beta coefficient,-.03,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,2,hierarchical linear regression analysis,211,>.05,Gender,1, standardized beta coefficient,.03,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,2,hierarchical linear regression analysis,211,>.05,Age,1, standardized beta coefficient,.05,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,2,hierarchical linear regression analysis,211,<.001,Power Use,1, standardized beta coefficient,.30,NA,NA,,0.5,1,1,< missing,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,2,hierarchical linear regression analysis,211,<.001,Interactivity,1, standardized beta coefficient,-.40,NA,NA,,0.5,1,1,< missing,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,2,hierarchical linear regression analysis,211,>.05,Customization,1, standardized beta coefficient,-.14,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,2,hierarchical linear regression analysis,211,<.001,Navigability,1, standardized beta coefficient,.33,NA,NA,,0.5,1,1,< missing,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,3,hierarchical linear regression analysis,211,,,1,R^2,.16,NA,NA,,0.5,1,1,,1,,1,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,3,hierarchical linear regression analysis,211,,,2,Incremental R^2,.16,NA,NA,,0.5,1,1,,1,,1,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,3,hierarchical linear regression analysis,211,,,3,Total R^2,.32,NA,NA,,0.5,1,1,,1,,1,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,3,hierarchical linear regression analysis,211,>.05,Year of membership,1,standardized beta coefficient,.04,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,3,hierarchical linear regression analysis,211,>.05,Gender,1,standardized beta coefficient,.03,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,3,hierarchical linear regression analysis,211,>.05,Age,1,standardized beta coefficient,-.09,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,3,hierarchical linear regression analysis,211,<.001,Power Use,1,standardized beta coefficient,.38,NA,NA,,0.5,1,1,< missing,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,3,hierarchical linear regression analysis,211,<.001,Interactivity,1,standardized beta coefficient,.32,NA,NA,,0.5,1,1,< missing,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,3,hierarchical linear regression analysis,211,>.05,Customization,1,standardized beta coefficient,.16,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,3,hierarchical linear regression analysis,211,>.05,Navigability,1,standardized beta coefficient,-.04,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,4,hierarchical linear regression analysis,211,,,1,R^2,.21,NA,NA,,0.5,1,1,,1,,1,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,4,hierarchical linear regression analysis,211,,,2,Incremental R^2,.12,NA,NA,,0.5,1,1,,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,4,hierarchical linear regression analysis,211,,,3,Total R^2,.33,NA,NA,,0.5,1,1,,1,,1,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,4,hierarchical linear regression analysis,211,>.05,Year of membership,1,standardized beta coefficient,.02,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,4,hierarchical linear regression analysis,211,>.05,Gender,1,standardized beta coefficient,.08,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,4,hierarchical linear regression analysis,211,>.05,Age,1,standardized beta coefficient,.08,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,4,hierarchical linear regression analysis,211,<.001,Power Use,1,standardized beta coefficient,.43,NA,NA,,0.5,1,1,< missing,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,4,hierarchical linear regression analysis,211,<.05,Interactivity,1,standardized beta coefficient,.19,NA,NA,,0.5,1,1,< missing,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,4,hierarchical linear regression analysis,211,>.05,Customization,1,standardized beta coefficient,-.06,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,4,hierarchical linear regression analysis,211,<.01,Navigability,1,standardized beta coefficient,.29,NA,NA,,0.5,1,1,< missing,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,5,hierarchical linear regression analysis,211,,,1,R^2,.23,NA,NA,,0.5,1,1,,1,,1,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,5,hierarchical linear regression analysis,211,,,2,Incremental R^2,.08,NA,NA,,0.5,1,1,,1,,1,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,5,hierarchical linear regression analysis,211,,,3,Total R^2,.30,NA,NA,,0.5,1,1,,1,,1,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,5,hierarchical linear regression analysis,211,>.05,Year of membership,1,standardized beta coefficient,.06,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,5,hierarchical linear regression analysis,211,>.05,Gender,1,standardized beta coefficient,.09,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,5,hierarchical linear regression analysis,211,>.05,Age,1,standardized beta coefficient,.10,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,5,hierarchical linear regression analysis,211,<.001,Power Use,1,standardized beta coefficient,.44,NA,NA,,0.5,1,1,< missing,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,5,hierarchical linear regression analysis,211,>.05,Interactivity,1,standardized beta coefficient,.08,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,5,hierarchical linear regression analysis,211,>.05,Customization,1,standardized beta coefficient,.02,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,5,hierarchical linear regression analysis,211,<.01,Navigability,1,standardized beta coefficient,.24,NA,NA,,0.5,1,1,< missing,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,6,hierarchical linear regression analysis,211,,,1,R^2,.04,NA,NA,,0.5,1,1,,1,,1,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,6,hierarchical linear regression analysis,211,,,2,Incremental R^2,.41,NA,NA,,0.5,1,1,,1,,1,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,6,hierarchical linear regression analysis,211,,,3,Total R^2,.46,NA,NA,,0.5,1,1,,1,,1,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,6,hierarchical linear regression analysis,211,>.05,Year of membership,1,standardized beta coefficient,.04,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,6,hierarchical linear regression analysis,211,>.05,Gender,1,standardized beta coefficient,-.07,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,6,hierarchical linear regression analysis,211,<.05,Age,1,standardized beta coefficient,-.15,NA,NA,,0.5,1,1,< missing,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,6,hierarchical linear regression analysis,211,<.05,Power Use,1,standardized beta coefficient,.15,NA,NA,,0.5,1,1,< missing,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,6,hierarchical linear regression analysis,211,<.001,Interactivity,1,standardized beta coefficient,.61,NA,NA,,0.5,1,1,< missing,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,6,hierarchical linear regression analysis,211,<.05,Customization,1,standardized beta coefficient,.20,NA,NA,,0.5,1,1,< missing,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,6,hierarchical linear regression analysis,211,<.05,Navigability,1,standardized beta coefficient,-.17,NA,NA,,0.5,1,1,< missing,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,7,hierarchical linear regression analysis,211,,,1,R^2,.05,NA,NA,,0.5,1,1,,1,,1,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,7,hierarchical linear regression analysis,211,,,2,Incremental R^2,.35,NA,NA,,0.5,1,1,,1,,1,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,7,hierarchical linear regression analysis,211,,,3,Total R^2,.40,NA,NA,,0.5,1,1,,1,,1,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,7,hierarchical linear regression analysis,211,>.05,Year of membership,1,standardized beta coefficient,.06,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,7,hierarchical linear regression analysis,211,>.05,Gender,1,standardized beta coefficient,-.11,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,7,hierarchical linear regression analysis,211,<.01,Age,1,standardized beta coefficient,-.19,NA,NA,,0.5,1,1,< missing,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,7,hierarchical linear regression analysis,211,>.05,Power Use,1,standardized beta coefficient,-.06,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,7,hierarchical linear regression analysis,211,<.001,Interactivity,1,standardized beta coefficient,.63,NA,NA,,0.5,1,1,< missing,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,7,hierarchical linear regression analysis,211,>.05,Customization,1,standardized beta coefficient,.05,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,7,hierarchical linear regression analysis,211,>.05,Navigability,1,standardized beta coefficient,-.12,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,8,hierarchical linear regression analysis,211,,,1,R^2,.23,NA,NA,,0.5,1,1,,1,,1,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,8,hierarchical linear regression analysis,211,,,2,Incremental R^2,.10,NA,NA,,0.5,1,1,,1,,1,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,8,hierarchical linear regression analysis,211,,,3,Total R^2,.33,NA,NA,,0.5,1,1,,1,,1,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,8,hierarchical linear regression analysis,211,>.05,Year of membership,1,standardized beta coefficient,.03,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,8,hierarchical linear regression analysis,211,>.05,Gender,1,standardized beta coefficient,-.04,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,8,hierarchical linear regression analysis,211,<.05,Age,1,standardized beta coefficient,.14,NA,NA,,0.5,1,1,< missing,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,8,hierarchical linear regression analysis,211,<.001,Power Use,1,standardized beta coefficient,.46,NA,NA,,0.5,1,1,< missing,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,8,hierarchical linear regression analysis,211,<.01,Interactivity,1,standardized beta coefficient,.20,NA,NA,,0.5,1,1,< missing,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,8,hierarchical linear regression analysis,211,>.05,Customization,1,standardized beta coefficient,.12,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,8,hierarchical linear regression analysis,211,>.05,Navigability,1,standardized beta coefficient,.07,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,9,hierarchical linear regression analysis,211,,,1,R^2,.13,NA,NA,,0.5,1,1,,1,,1,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,9,hierarchical linear regression analysis,211,,,2,Incremental R^2,.20,NA,NA,,0.5,1,1,,1,,1,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,9,hierarchical linear regression analysis,211,,,3,Total R^2,.33,NA,NA,,0.5,1,1,,1,,1,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,9,hierarchical linear regression analysis,211,>.05,Year of membership,1,standardized beta coefficient,.10,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,9,hierarchical linear regression analysis,211,<.05,Gender,1,standardized beta coefficient,-.15,NA,NA,,0.5,1,1,< missing,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,9,hierarchical linear regression analysis,211,>.05,Age,1,standardized beta coefficient,-.02,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,9,hierarchical linear regression analysis,211,<.001,Power Use,1,standardized beta coefficient,.35,NA,NA,,0.5,1,1,< missing,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,9,hierarchical linear regression analysis,211,<.001,Interactivity,1,standardized beta coefficient,.45,NA,NA,,0.5,1,1,< missing,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,9,hierarchical linear regression analysis,211,>.05,Customization,1,standardized beta coefficient,.03,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,9,hierarchical linear regression analysis,211,>.05,Navigability,1,standardized beta coefficient,-.03,NA,NA,,0.5,1,1,unknown,1,,,,,,,,different division of regressions (can also be interpreted differently)
+10.1145/3544548.3581200,10,mediation analysis,211,,,1,,,NA,NA,,1,0,0,,1,,,copied factor autonomy,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,10,mediation analysis,211,not significant,Autonomy,1,standardized beta coefficient,.01,0.05,-0.03, 95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,10,mediation analysis,211,not significant,Competence,1,standardized beta coefficient,.03,0.1,-0.02,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,10,mediation analysis,211,not significant,Relatedness,1,standardized beta coefficient,-.01,0.07,-0.09,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,11,mediation analysis,211,,,1,,,NA,NA,,1,0,0,,1,,,copied factor autonomy,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,11,mediation analysis,211,not significant,Autonomy,1,standardized beta coefficient,-.02,0.04,-0.08, 95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,11,mediation analysis,211,not significant,Competence,1,standardized beta coefficient,-.04,0.02,-0.1,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,11,mediation analysis,211,significant,Relatedness,1,standardized beta coefficient,.13,0.23,0.04,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,12,mediation analysis,211,,,1,,,NA,NA,,1,0,0,,1,,,copied factor autonomy,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,12,mediation analysis,211,not significant,Autonomy,1,standardized beta coefficient,-.001,0.02,-0.02, 95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,12,mediation analysis,211,not significant,Competence,1,standardized beta coefficient,-.01,0.01,-0.05,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,12,mediation analysis,211,not significant,Relatedness,1,standardized beta coefficient,.06,0.15,-0.02,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,13,mediation analysis,211,,,1,,,NA,NA,,1,0,0,,1,,,copied factor autonomy,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,13,mediation analysis,211,significant,Autonomy,1,standardized beta coefficient,.05,0.12,0.01, 95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,13,mediation analysis,211,not significant,Competence,1,standardized beta coefficient,.03,0.1,-0.01,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,13,mediation analysis,211,not significant,Relatedness,1,standardized beta coefficient,-.01,0.04,-0.06,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,14,mediation analysis,211,,,1,,,NA,NA,,1,0,0,,1,,,copied factor autonomy,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,14,mediation analysis,211,significant,Autonomy,1,standardized beta coefficient,-.09,-0.03,-0.17, 95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,14,mediation analysis,211,not significant,Competence,1,standardized beta coefficient,.04 (negative),0.02,-0.11,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,14,mediation analysis,211,significant,Relatedness,1,standardized beta coefficient,.08,0.16,0.02,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,15,mediation analysis,211,,,1,,,NA,NA,,1,0,0,,1,,,copied factor autonomy,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,15,mediation analysis,211,not significant,Autonomy,1,standardized beta coefficient,-.01,0.04,-0.05, 95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,15,mediation analysis,211,not significant,Competence,1,standardized beta coefficient,-.01,0.01,-0.06,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,15,mediation analysis,211,not significant,Relatedness,1,standardized beta coefficient,.04,0.1,-0.01,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,16,mediation analysis,211,,,1,,,NA,NA,,1,0,0,,1,,,copied factor autonomy,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,16,mediation analysis,211,not significant,Autonomy,1,standardized beta coefficient,-.04,3,-0.11, 95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,16,mediation analysis,211,not significant,Competence,1,standardized beta coefficient,-.04,0.01,-0.11,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,16,mediation analysis,211,not significant,Relatedness,1,standardized beta coefficient,-.01,0.03,-0.04,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,17,mediation analysis,211,,,1,,,NA,NA,,1,0,0,,1,,,copied factor autonomy,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,17,mediation analysis,211,not significant,Autonomy,1,standardized beta coefficient,.07,0.15,-4, 95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,17,mediation analysis,211,not significant,Competence,1,standardized beta coefficient,.04,0.12,-0.02,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,17,mediation analysis,211,significant,Relatedness,1,standardized beta coefficient,.06,0.12,0.01,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,18,mediation analysis,211,,,1,,,NA,NA,,1,0,0,,1,,,copied factor autonomy,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,18,mediation analysis,211,not significant,Autonomy,1,standardized beta coefficient,.01,0.06,-0.02, 95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,18,mediation analysis,211,not significant,Competence,1,standardized beta coefficient,.02,0.06,-0.02,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,18,mediation analysis,211,not significant,Relatedness,1,standardized beta coefficient,.03,0.07,-0.01,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,19,mediation analysis,211,,,1,,,NA,NA,,1,0,0,,1,,,copied factor autonomy,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,19,mediation analysis,211,significant,Autonomy,1,standardized beta coefficient,-.10,-0.02,-0.21, 95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,19,mediation analysis,211,not significant,Competence,1,standardized beta coefficient,-.03,0.03,-0.09,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,19,mediation analysis,211,not significant,Relatedness,1,standardized beta coefficient,-.001,0.01,-0.02,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,20,mediation analysis,211,,,1,,,NA,NA,,1,0,0,,1,,,copied factor autonomy,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,20,mediation analysis,211,significant,Autonomy,1,standardized beta coefficient,.17,0.27,0.08, 95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,20,mediation analysis,211,not significant,Competence,1,standardized beta coefficient,.04,0.11,-0.03,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,20,mediation analysis,211,not significant,Relatedness,1,standardized beta coefficient,.01,0.05,-0.02,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,21,mediation analysis,211,,,1,,,NA,NA,,1,1,0,,1,,,copied factor autonomy,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,21,mediation analysis,211,not significant,Autonomy,1,standardized beta coefficient,.01,0.11,-0.06, 95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,21,mediation analysis,211,not significant,Competence,1,standardized beta coefficient,.01,0.05,-0.02,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,21,mediation analysis,211,not significant,Relatedness,1,standardized beta coefficient,.01,0.03,-0.01,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,22,mediation analysis,211,,,1,,,NA,NA,,1,0,0,,1,,,copied factor autonomy,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,22,mediation analysis,211,not significant,Autonomy,1,standardized beta coefficient,-.03,0.02,-0.09, 95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,22,mediation analysis,211,not significant,Competence,1,standardized beta coefficient,.01,0.06,-0.05,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,22,mediation analysis,211,not significant,Relatedness,1,standardized beta coefficient,-.01,0.04,-0.07,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,23,mediation analysis,211,,,1,,,NA,NA,,1,0,0,,1,,,copied factor autonomy,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,23,mediation analysis,211,not significant,Autonomy,1,standardized beta coefficient,-.01,0.07,-0.11, 95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,23,mediation analysis,211,not significant,Competence,1,standardized beta coefficient,-.03,0.07,-0.11,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,23,mediation analysis,211,significant,Relatedness,1,standardized beta coefficient,.10,0.18,0.04,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,24,mediation analysis,211,,,1,,,NA,NA,,1,0,0,,1,,,copied factor autonomy,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,24,mediation analysis,211,not significant,Autonomy,1,standardized beta coefficient,-.001,0.02,-0.03, 95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,24,mediation analysis,211,not significant,Competence,1,standardized beta coefficient,-.01,0.02,-0.05,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,24,mediation analysis,211,not significant,Relatedness,1,standardized beta coefficient,.05,0.13,-0.02,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,25,mediation analysis,211,,,1,,,NA,NA,,1,,0,,1,,,copied factor autonomy,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,25,mediation analysis,211,not significant,Autonomy,1,standardized beta coefficient,-.002,0.04,-0.06, 95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,25,mediation analysis,211,not significant,Competence,1,standardized beta coefficient,.02,0.09,-0.03,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,25,mediation analysis,211,not significant,Relatedness,1,standardized beta coefficient,-.01,0.03,-0.05,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,26,mediation analysis,211,,,1,,,NA,NA,,1,0,0,,1,,,copied factor autonomy,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,26,mediation analysis,211,not significant,Autonomy,1,standardized beta coefficient,-.003,0.08,-0.08, 95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,26,mediation analysis,211,not significant,Competence,1,standardized beta coefficient,-.03,0.04,-0.1,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,26,mediation analysis,211,not significant,Relatedness,1,standardized beta coefficient,-.06,0.14,-4,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,27,mediation analysis,211,,,1,,,NA,NA,,1,0,0,,1,,,copied factor autonomy,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,27,mediation analysis,211,not significant,Autonomy,1,standardized beta coefficient,-.0002,0.03,-0.02, 95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,27,mediation analysis,211,not significant,Competence,1,standardized beta coefficient,-.01,0.02,-0.06,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581200,27,mediation analysis,211,not significant,Relatedness,1,standardized beta coefficient,.03,0.08,-0.01,95% bias-corrected,1,1,0,,1,,1,,,,,,"indirect effect is correct, but not a good name for actual measure"
+10.1145/3544548.3581396,,,,,,,,,,,,,,,,,,,Comparison with Cohen’s Kappa,,,,,
+10.1145/3544548.3581396,1,dependent samples test,24,<0.005,,1,,,NA,NA,,,,,,,,,,,1,,,"only referenced in test, reported in image (table)"
+10.1145/3544548.3581396,2,dependent samples test,24,<0.005,,1,,,NA,NA,,,,,,,,,,,1,,,"only referenced in test, reported in image (table)"
+10.1145/3544548.3581396,3,dependent samples test,24,<0.005,,1,,,NA,NA,,,,,,,,,,,1,,,"only referenced in test, reported in image (table)"
+10.1145/3544548.3581396,4,dependent samples test,24,<0.005,,1,,,NA,NA,,,,,,,,,,,1,,,"only referenced in test, reported in image (table)"
+10.1145/3544548.3581396,5,dependent samples test,24,<0.005,,1,,,NA,NA,,,,,,,,,,,1,,,"only referenced in test, reported in image (table)"
+10.1145/3544548.3581396,6,dependent samples test,24,<0.005,,1,,,NA,NA,,,,,,,,,,,1,,,"only referenced in test, reported in image (table)"
+10.1145/3544548.3581396,7,dependent samples test,24,<0.005,,1,,,NA,NA,,,,,,,,,,,1,,,"only referenced in test, reported in image (table)"
+10.1145/3544548.3581396,8,dependent samples test,24,<0.005,,1,,,NA,NA,,,,,,,,,,,1,,,"only referenced in test, reported in image (table)"

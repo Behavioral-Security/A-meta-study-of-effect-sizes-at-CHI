@@ -1,0 +1,156 @@
+{
+    "title": "Accessible Data Representation with Natural Sound",
+    "erstautor": "Md Naimul Hoque",
+    "doi": "10.1145/3544548.3581087",
+    "link": "https://doi.org/10.1145/3544548.3581087",
+    "year": "2023",
+    "topics": [
+        ""
+    ],
+    "tests": [
+        {
+            "test_name": "repeated-measures",
+            "N": "12",
+            "p-value": "",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "Cohen's d",
+                "value": "0.45",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "no hypothesis test used, non-standardized effect size reported too (left out here)"
+        },
+        {
+            "test_name": "repeated-measures",
+            "N": "12",
+            "p-value": "",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "Cohen's d",
+                "value": "0.20",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "no hypothesis test used, non-standardized effect size reported too (left out here)"
+        },
+        {
+            "test_name": "repeated-measures",
+            "N": "6",
+            "p-value": "",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "Cohen's d",
+                "value": "0.86",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "no hypothesis test used, non-standardized effect size reported too (left out here)"
+        },
+        {
+            "test_name": "repeated-measures",
+            "N": "6",
+            "p-value": "",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "Cohen's d",
+                "value": "0.01",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "no hypothesis test used, non-standardized effect size reported too (left out here)"
+        },
+        {
+            "test_name": "repeated-measures",
+            "N": "6",
+            "p-value": "",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "Cohen's d",
+                "value": "0.78",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "no hypothesis test used, non-standardized effect size reported too (left out here)"
+        },
+        {
+            "test_name": "repeated-measures",
+            "N": "6",
+            "p-value": "",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "Cohen's d",
+                "value": "0.41",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "no hypothesis test used, non-standardized effect size reported too (left out here)"
+        },
+        {
+            "test_name": "repeated-measures",
+            "N": "12",
+            "p-value": "",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "Cohen's d",
+                "value": "0.1",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "no hypothesis test used, non-standardized effect size reported too (left out here)"
+        },
+        {
+            "test_name": "repeated-measures",
+            "N": "12",
+            "p-value": "",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "Cohen's d",
+                "value": "0.08",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "no hypothesis test used, non-standardized effect size reported too (left out here)"
+        }
+    ]
+}

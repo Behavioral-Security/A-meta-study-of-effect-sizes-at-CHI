@@ -1,0 +1,334 @@
+{
+    "title": "Usability of Gamified Knowledge Learning in VR and Desktop-3D",
+    "erstautor": "Sebastian Oberd\u00f6rfer",
+    "doi": "10.1145/3290605.3300405",
+    "link": "https://doi.org/10.1145/3290605.3300405",
+    "year": "2019",
+    "topics": [
+        ""
+    ],
+    "tests": [
+        {
+            "test_name": "paired t-test",
+            "N": "11",
+            "p_value": "0.13",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "11",
+            "p_value": "0.08",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "11",
+            "p_value": "< 0.001",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "11",
+            "p_value": "0.65",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "11",
+            "p_value": "0.02",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "11",
+            "p_value": "0.01",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "11",
+            "p_value": "0.02",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Pearson's product-moment correlation",
+            "N": "11",
+            "p_value": "0.04",
+            "effect_size": {
+                "measure": "cor",
+                "value": "2.47",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "11",
+            "p_value": "0.03",
+            "effect_size": {
+                "measure": "Cohen's d",
+                "value": "0.57",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "11",
+            "p_value": "0.001",
+            "effect_size": {
+                "measure": "Cohen's d",
+                "value": "1.19",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "11",
+            "p_value": "0.007",
+            "effect_size": {
+                "measure": "Cohen's d",
+                "value": "0.48",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "11",
+            "p_value": "0.08",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "11",
+            "p_value": "0.62",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "11",
+            "p_value": "0.20",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "11",
+            "p_value": "0.75",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "11",
+            "p_value": "< 0.001",
+            "effect_size": {
+                "measure": "Cohen's d",
+                "value": "0.99",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "11",
+            "p_value": "0.002",
+            "effect_size": {
+                "measure": "Cohen's d",
+                "value": "1.10",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "11",
+            "p_value": "0.03",
+            "effect_size": {
+                "measure": "Cohen's d",
+                "value": "0.69",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "11",
+            "p_value": "0.38",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "11",
+            "p_value": "0.26",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "11",
+            "p_value": "0.79",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "11",
+            "p_value": "0.13",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "paired t-test",
+            "N": "11",
+            "p_value": "0.12",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        }
+    ]
+}

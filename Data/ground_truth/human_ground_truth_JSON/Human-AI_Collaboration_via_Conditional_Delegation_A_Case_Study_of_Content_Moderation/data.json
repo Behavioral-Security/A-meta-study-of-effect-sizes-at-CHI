@@ -1,0 +1,1951 @@
+{
+    "title": "Human-AI Collaboration via Conditional Delegation: A Case Study of Content Moderation",
+    "erstautor": "Vivian Lai",
+    "doi": "10.1145/3491102.3501999",
+    "link": "https://doi.org/10.1145/3491102.3501999",
+    "year": "2022",
+    "topics": [
+        ""
+    ],
+    "tests": [
+        {
+            "test_name": "t-test",
+            "N": "60",
+            "p-value": "<0.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "uncertain about sample size per group, especially for model only "
+        },
+        {
+            "test_name": "t-test",
+            "N": "60",
+            "p-value": "<0.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "uncertain about sample size per group, especially for model only "
+        },
+        {
+            "test_name": "t-test",
+            "N": "60",
+            "p-value": "<0.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "uncertain about sample size per group, especially for model only "
+        },
+        {
+            "test_name": "t-test",
+            "N": "60",
+            "p-value": "<0.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "uncertain about sample size per group, especially for model only "
+        },
+        {
+            "test_name": "t-test",
+            "N": "60",
+            "p-value": "<0.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "uncertain about sample size per group, especially for model only "
+        },
+        {
+            "test_name": "t-test",
+            "N": "60",
+            "p-value": "<0.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "uncertain about sample size per group, especially for model only "
+        },
+        {
+            "test_name": "t-test",
+            "N": "60",
+            "p-value": "<0.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "uncertain about sample size per group, especially for model only "
+        },
+        {
+            "test_name": "t-test",
+            "N": "60",
+            "p-value": "<0.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "uncertain about sample size per group, especially for model only "
+        },
+        {
+            "test_name": "two-way ANOVA",
+            "N": "234",
+            "p-value": "",
+            "num_conditions": "2x4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "main effect",
+                    "p_value": "<.001",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "main effect",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "interaction effect",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "one-way ANOVA",
+            "N": "120",
+            "p-value": "<0.001",
+            "num_conditions": "4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "sample size in subgroups"
+        },
+        {
+            "test_name": "one-way ANOVA",
+            "N": "120",
+            "p-value": "0.864",
+            "num_conditions": "4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "sample size in subgroups"
+        },
+        {
+            "test_name": "post-hoc Tukey's HSD",
+            "N": "120",
+            "p-value": "",
+            "num_conditions": "4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "8",
+            "problem_explanation": "sample size in subgroups"
+        },
+        {
+            "test_name": "two-way ANOVA",
+            "N": "234",
+            "p-value": "",
+            "num_conditions": "2x4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "main effect",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "main effect",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "interaction effect",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+                ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "one-way ANOVA",
+            "N": "120",
+            "p-value": "<0.001",
+            "num_conditions": "4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "8",
+            "problem_explanation": "sample size in subgroups"
+        },
+        {
+            "test_name": "one-way ANOVA",
+            "N": "120",
+            "p-value": "<0.001",
+            "num_conditions": "4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "sample size in subgroups"
+        },
+        {
+            "test_name": "post-hoc Tukey's HSD",
+            "N": "120",
+            "p-value": "",
+            "num_conditions": "4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "<0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "<0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "8",
+            "problem_explanation": "sample sizes in subgroups"
+        },
+        {
+            "test_name": "post-hoc Tukey's HSD",
+            "N": "120",
+            "p-value": "",
+            "num_conditions": "4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "",
+                    "p_value": "0.004",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "0.028",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "8",
+            "problem_explanation": "sample sizes in subgroups"
+        },
+        {
+            "test_name": "Two-way ANOVA",
+            "N": "234",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "main effect",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "main effect",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "interaction effect",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "one-way ANOVA",
+            "N": "120",
+            "p-value": "0.01",
+            "num_conditions": "4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "uncertain about subgroup sample size"
+        },
+        {
+            "test_name": "post-hoc Tukey's HSD",
+            "N": "120",
+            "p-value": "",
+            "num_conditions": "4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "0.007",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "0.004",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "8",
+            "problem_explanation": "sample size in subgroups"
+        },
+        {
+            "test_name": "one-way ANOVA",
+            "N": "120",
+            "p-value": "0.018",
+            "num_conditions": "4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "sample size in subgroups"
+        },
+        {
+            "test_name": "post-hoc Tukey's HSD",
+            "N": "120",
+            "p-value": "",
+            "num_conditions": "4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "",
+                    "p_value": "0.018",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "8",
+            "problem_explanation": "sample size in subgroups"
+        },
+        {
+            "test_name": "two-way ANOVA",
+            "N": "234",
+            "p-value": "",
+            "num_conditions": "2x4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "main effect",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "main effect",
+                    "p_value": "<0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "interaction effect",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": "should exist a total of four times"
+        },
+        {
+            "test_name": "one-way ANOVA",
+            "N": "234",
+            "p-value": "<0.001",
+            "num_conditions": "4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "post-hoc Tukey's HSD",
+            "N": "234",
+            "p-value": "",
+            "num_conditions": "4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "0.009",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "",
+            "N": "",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "one-way aNOVA",
+            "N": "234",
+            "p-value": "0.021",
+            "num_conditions": "4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "post-hoc Tukey's HSD",
+            "N": "",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "",
+                    "p_value": "0.028",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "one-way ANOVA",
+            "N": "234",
+            "p-value": "0.074",
+            "num_conditions": "4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "post-hoc Tukey's HSD",
+            "N": "234",
+            "p-value": "",
+            "num_conditions": "4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "one-way ANOVA",
+            "N": "234",
+            "p-value": "0.008",
+            "num_conditions": "4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "",
+                    "p_value": "0.031",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "two-way ANOVA",
+            "N": "234",
+            "p-value": "",
+            "num_conditions": "2x4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "main effect",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "main effect",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "interaction effect",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "two-way ANOVA",
+            "N": "234",
+            "p-value": "",
+            "num_conditions": "2x4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "main effect",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "main effect",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "interaction effect",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "two-way ANOVA",
+            "N": "234",
+            "p-value": "",
+            "num_conditions": "2x4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "main effect",
+                    "p_value": "0.063",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "main effect",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "interaction effect",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        }
+    ]
+}

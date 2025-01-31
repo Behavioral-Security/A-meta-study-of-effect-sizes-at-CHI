@@ -1,0 +1,48 @@
+{
+    "title": "MeetingCoach: An Intelligent Dashboard for Supporting Efective & Inclusive Meetings",
+    "erstautor": "Samiha Samrose",
+    "doi": "10.1145/3411764.3445615",
+    "link": "https://doi.org/10.1145/3411764.3445615",
+    "year": "2021",
+    "topics": [
+        ""
+    ],
+    "tests": [
+        {
+            "test_name": "chi-square test",
+            "N": "231",
+            "p_value": "<0.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "9",
+            "problem_explanation": "probably wrong test (there were only 120 survey participants)"
+        },
+        {
+            "test_name": "chi-square test",
+            "N": "240",
+            "p_value": "<0.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "9",
+            "problem_explanation": "probably wrong test (there were only 120 survey participants)"
+        }
+    ]
+}

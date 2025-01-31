@@ -1,0 +1,2927 @@
+{
+    "title": "Audio Matters Too: How Audial Avatar Customization Enhances Visual Avatar Customization",
+    "erstautor": "Dominic Kao",
+    "doi": "10.1145/3491102.3501848",
+    "link": "https://doi.org/10.1145/3491102.3501848",
+    "year": "2022",
+    "topics": [
+        ""
+    ],
+    "tests": [
+        {
+            "test_name": "ANOVA",
+            "N": "1526",
+            "p-value": "0.737",
+            "num_conditions": "4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "\u03b7^2p",
+                "value": "0.001",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "ANOVA",
+            "N": "1526",
+            "p-value": "p=0.851",
+            "num_conditions": "4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "\u03b7^2p",
+                "value": "0.001",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "ANOVA",
+            "N": "1526",
+            "p-value": "0.852",
+            "num_conditions": "4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "\u03b7^2p",
+                "value": "0.001",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Levene\u2019s Test of Equality of Error Variances",
+            "N": "1526",
+            "p-value": ">0.05",
+            "num_conditions": "4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Levene\u2019s Test of Equality of Error Variances",
+            "N": "1526",
+            "p-value": "<0.05",
+            "num_conditions": "4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Box\u2019s Test of Equality of Covari-ance Matrices",
+            "N": "1526",
+            "p-value": "p>0.001",
+            "num_conditions": "4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Box\u2019s Test of Equality of Covariance Matrices",
+            "N": "1526",
+            "p-value": ">0.001",
+            "num_conditions": "4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "one-way MANOVA (Wilk's \u039b)",
+            "N": "1526",
+            "p-value": "0.630",
+            "num_conditions": "4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "\u03b7^2p",
+                "value": "0.011",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "one-way MANOVA (Pillai's Trace)",
+            "N": "1526",
+            "p-value": "0.183",
+            "num_conditions": "4",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "\u03b7^2p",
+                "value": "0.015",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "factorial 2 x 2 ANOVA",
+            "N": "1526",
+            "p-value": "",
+            "num_conditions": "2x2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "main effect",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": "0.061",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "main effect",
+                    "p_value": "0.118",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": "0.002",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "interaction effect",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": "0.010",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "simple effects analysis",
+                    "p_value": "0.093",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": "0.002",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "simple effects analysis",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": "0.010",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "factorial 2 x 2 ANOVA",
+            "N": "1526",
+            "p-value": "",
+            "num_conditions": "2x2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "main effect",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": "0.026",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "main effect",
+                    "p_value": "0.153",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": "0.001",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "interaction effect",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": "0.009",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "simple effects analysis",
+                    "p_value": "0.092",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": "0.002",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "simple effects analysis",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": "0.009",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "factorial 2 x 2 ANOVA ",
+            "N": "1526",
+            "p-value": "",
+            "num_conditions": "2x2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "main effect",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": "0.033",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "main effect",
+                    "p_value": "0.245",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": "0.001",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "interaction effect",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": "0.011",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "simple effects analysis",
+                    "p_value": "0.037",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": "0.003",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "simple effects analysis",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": "0.009",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "factorial 2 x 2 ANOVA ",
+            "N": "1526",
+            "p-value": "",
+            "num_conditions": "2x2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "main effect",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": "0.015",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "main effect",
+                    "p_value": "0.765",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": "0.000",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "interaction effect",
+                    "p_value": "0.002",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": "0.006",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "simple effects analysis",
+                    "p_value": "0.051",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": "0.002",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "simple effects analysis",
+                    "p_value": "0.018",
+                    "effect_size": {
+                        "measure": "\u03b7^2p",
+                        "value": "0.004",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Kolmogorov-Smirnov test",
+            "N": "1526",
+            "p-value": "<0.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Shapiro-Wilk test",
+            "N": "1526",
+            "p-value": "<0.05",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Kolmogorov-Smirnov test",
+            "N": "1526",
+            "p-value": "0.200",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Shapiro-Wilk test",
+            "N": "1526",
+            "p-value": "0.997",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "mediation analysis",
+            "N": "1526",
+            "p-value": "<0.005",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "unstandardized regression coefficient",
+                "value": "0.397",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "Direct Effect",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.015",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "a1",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.535",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "b1",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.033",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "a1b1",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.018",
+                        "CI": {
+                            "lower": "-0.027",
+                            "upper": "0.065",
+                            "type": "95% bias-corrected confidence interval based on 10,000 bootstrap samples"
+                        }
+                    }
+                },
+                 {
+                    "factor": "a2",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.375",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "b2",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.264",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "a2b2",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.099",
+                        "CI": {
+                            "lower": "0.057",
+                            "upper": "0.148",
+                            "type": "95% bias-corrected confidence interval based on 10,000 bootstrap samples"
+                        }
+                    }
+                },
+                 {
+                    "factor": "a3",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.393",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "b3",
+                    "p_value": "<0.05",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "-0.085",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "a3b3",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "-0.033",
+                        "CI": {
+                            "lower": "-0.068",
+                            "upper": "-0.001",
+                            "type": "95% bias-corrected confidence interval based on 10,000 bootstrap samples"
+                        }
+                    }
+                },
+                 {
+                    "factor": "a4",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.420",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "b4",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.686",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "a4b4",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.288",
+                        "CI": {
+                            "lower": "0.171",
+                            "upper": "0.409",
+                            "type": "95% bias-corrected confidence interval based on 10,000 bootstrap samples"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "mediation analysis",
+            "N": "1526",
+            "p-value": "<0..005",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "unstandardized regression coefficient",
+                "value": "0.387",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "Direct Effect",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.048",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "a1",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.535",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "b1",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "-0.034",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "a1b1",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "-0.018",
+                        "CI": {
+                            "lower": "-0.067",
+                            "upper": "0.030",
+                            "type": "95% bias-corrected confidence interval based on 10,000 bootstrap samples"
+                        }
+                    }
+                },
+                 {
+                    "factor": "a2",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.375",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "b2",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.573",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "a2b2",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.215",
+                        "CI": {
+                            "lower": "0.144",
+                            "upper": "0.293",
+                            "type": "95% bias-corrected confidence interval based on 10,000 bootstrap samples"
+                        }
+                    }
+                },
+                 {
+                    "factor": "a3",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.393",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "b3",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "-0.059",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "a3b3",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "-0.023",
+                        "CI": {
+                            "lower": "-0.061",
+                            "upper": "0.010",
+                            "type": " 95% bias-corrected confidence interval based on 10,000 bootstrap samples"
+                        }
+                    }
+                },
+                 {
+                    "factor": "a4",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.420",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "b4",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "<0.298",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "a4b4",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.125",
+                        "CI": {
+                            "lower": "0.073",
+                            "upper": "0.182",
+                            "type": " 95% bias-corrected confidence interval based on 10,000 bootstrap samples"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "mediation analysis",
+            "N": "1526",
+            "p-value": "<0.005",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": " unstandardized regression coefficient",
+                "value": "70.60",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "direct effect",
+                    "p_value": "<0.05",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "41.66",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "a1",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "0.535",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "b1",
+                    "p_value": "<0.05",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "31.65",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "a1b1",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "16.94",
+                        "CI": {
+                            "lower": "2.091",
+                            "upper": "33.02",
+                            "type": "95% bias-corrected confidence interval based on 10,000 bootstrap samples"
+                        }
+                    }
+                },
+                 {
+                    "factor": "a2",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "0.375",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "b2",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "-1.693",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "a2b2",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "-0.635",
+                        "CI": {
+                            "lower": "-10.24",
+                            "upper": "9.037",
+                            "type": "95% bias-corrected confidence interval based on 10,000 bootstrap samples"
+                        }
+                    }
+                },
+                 {
+                    "factor": "a3",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "0.393",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "b3",
+                    "p_value": "<0.05",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "33.10",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "a3b3",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "33.10",
+                        "CI": {
+                            "lower": "2.376",
+                            "upper": "25.48",
+                            "type": "95% bias-corrected confidence interval based on 10,000 bootstrap samples"
+                        }
+                    }
+                },
+                 {
+                    "factor": "a4",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "0.420",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "b4",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "-0.913",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "a4b4",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "-0.384",
+                        "CI": {
+                            "lower": "-5.683",
+                            "upper": "4.548",
+                            "type": "95% bias-corrected confidence interval based on 10,000 bootstrap samples"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "mediation analysis",
+            "N": "1526",
+            "p-value": "<0.005",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "unstandardized regression coefficient",
+                "value": "0.521",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "direct effect",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "0.053",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "a1",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "0.535",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "b1",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "0.025",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "a1b1",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "0.013",
+                        "CI": {
+                            "lower": "-0.050",
+                            "upper": "0.075",
+                            "type": "95% bias-corrected confidence interval based on 10,000 bootstrap samples"
+                        }
+                    }
+                },
+                 {
+                    "factor": "a2",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "0.375",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "b2",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "0.296",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "a2b2",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "0.111",
+                        "CI": {
+                            "lower": "0.062",
+                            "upper": "0.169",
+                            "type": "95% bias-corrected confidence interval based on 10,000 bootstrap samples"
+                        }
+                    }
+                },
+                 {
+                    "factor": "a3",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "0.393",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "b3",
+                    "p_value": "<0.01",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "0.158",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "a3b3",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "0.062",
+                        "CI": {
+                            "lower": "0.016",
+                            "upper": "0.117",
+                            "type": "95% bias-corrected confidence interval based on 10,000 bootstrap samples"
+                        }
+                    }
+                },
+                 {
+                    "factor": "a4",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "0.420",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "b4",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "0.670",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "a4b4",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "0.281",
+                        "CI": {
+                            "lower": "0.165",
+                            "upper": "0.400",
+                            "type": "95% bias-corrected confidence interval based on 10,000 bootstrap samples"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "mediation analysis",
+            "N": "1526",
+            "p-value": "<0.005",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "unstandardized regression coefficient (total effect)",
+                "value": "0.510",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "direct effect",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.030",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "a1",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.535",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "b1",
+                    "p_value": ">0.05",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.084",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "a1b1",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.045",
+                        "CI": {
+                            "lower": "-0.013",
+                            "upper": "0.105",
+                            "type": " 95% bias-corrected confidence interval based on 10,000 bootstrap samples"
+                        }
+                    }
+                },
+                 {
+                    "factor": "a2",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.375",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "b2",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.187",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "a2b2",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.070",
+                        "CI": {
+                            "lower": "0.028",
+                            "upper": "0.120",
+                            "type": " 95% bias-corrected confidence interval based on 10,000 bootstrap samples"
+                        }
+                    }
+                },
+                 {
+                    "factor": "a3",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.393",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "b3",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.174",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "a3b3",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.069",
+                        "CI": {
+                            "lower": "0.023",
+                            "upper": "0.122",
+                            "type": " 95% bias-corrected confidence interval based on 10,000 bootstrap samples"
+                        }
+                    }
+                },
+                 {
+                    "factor": "a4",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.420",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "b4",
+                    "p_value": "<0.005",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.706",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "a4b4",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.297",
+                        "CI": {
+                            "lower": "0.176",
+                            "upper": "0.422",
+                            "type": " 95% bias-corrected confidence interval based on 10,000 bootstrap samples"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "moderated mediation analysis",
+            "N": "1526",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "M1",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "index of moderated mediation (MM)",
+                        "value": "-0.080",
+                        "CI": {
+                            "lower": "-0.179",
+                            "upper": "0.018",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M2",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "index of moderated mediation (MM)",
+                        "value": "0.132",
+                        "CI": {
+                            "lower": "0.038",
+                            "upper": "0.233",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M3",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "index of moderated mediation (MM)",
+                        "value": "0.003",
+                        "CI": {
+                            "lower": "-0.071",
+                            "upper": "0.077",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M4",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "index of moderated mediation (MM)",
+                        "value": "0.364",
+                        "CI": {
+                            "lower": "0.128",
+                            "upper": "0.600",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": " moderated mediation analysis",
+            "N": "1526",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "M1",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "index of moderated mediation (MM)",
+                        "value": "0.012",
+                        "CI": {
+                            "lower": "-0.098",
+                            "upper": "0.130",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M2",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "index of moderated mediation (MM)",
+                        "value": "0.255",
+                        "CI": {
+                            "lower": "0.104",
+                            "upper": "0.418",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M3",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "index of moderated mediation (MM)",
+                        "value": "-0.013",
+                        "CI": {
+                            "lower": "-0.098",
+                            "upper": "0.069",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M4",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "index of moderated mediation (MM)",
+                        "value": "0.172",
+                        "CI": {
+                            "lower": "0.062",
+                            "upper": "0.290",
+                            "type": "95%"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "moderated mediation analysis",
+            "N": "1526",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "M1",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "index of moderated mediation (MM)",
+                        "value": "24.36",
+                        "CI": {
+                            "lower": "-9.628",
+                            "upper": "58.76",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M2",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "index of moderated mediation (MM)",
+                        "value": "-5.954",
+                        "CI": {
+                            "lower": "-27.68",
+                            "upper": "15.16",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M3",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "index of moderated mediation (MM)",
+                        "value": "13.28",
+                        "CI": {
+                            "lower": "-12.89",
+                            "upper": "42.17",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M4",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "index of moderated mediation (MM)",
+                        "value": "2.453",
+                        "CI": {
+                            "lower": "-9.172",
+                            "upper": "14.36",
+                            "type": "95%"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "moderated mediation analysis",
+            "N": "1526",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "M1",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "index of moderated mediation (MM)",
+                        "value": "-0.111",
+                        "CI": {
+                            "lower": "-0.250",
+                            "upper": "0.030",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M2",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "index of moderated mediation (MM)",
+                        "value": "0.096",
+                        "CI": {
+                            "lower": "-0.025",
+                            "upper": "0.226",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M3",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "index of moderated mediation (MM)",
+                        "value": "0.174",
+                        "CI": {
+                            "lower": "0.068",
+                            "upper": "0.293",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M4",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "index of moderated mediation (MM)",
+                        "value": "0.388",
+                        "CI": {
+                            "lower": "0.157",
+                            "upper": "0.627",
+                            "type": "95%"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "moderated mediation analysis",
+            "N": "1526",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "M1",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "index of moderated mediation (MM)",
+                        "value": "-0.020",
+                        "CI": {
+                            "lower": "-0.147",
+                            "upper": "0.111",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M2",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "index of moderated mediation (MM)",
+                        "value": "0.099",
+                        "CI": {
+                            "lower": "-0.003",
+                            "upper": "0.209",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M3",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "index of moderated mediation (MM)",
+                        "value": "0.098",
+                        "CI": {
+                            "lower": "-0.001",
+                            "upper": "0.209",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M4",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "index of moderated mediation (MM)",
+                        "value": "0.396",
+                        "CI": {
+                            "lower": "0.149",
+                            "upper": "0.645",
+                            "type": "95%"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "moderated mediation analysis conditional effect",
+            "N": "1526",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "direct effect",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "-0.006",
+                        "CI": {
+                            "lower": "-0.153",
+                            "upper": "0.142",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M1",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.036",
+                        "CI": {
+                            "lower": "-0.003",
+                            "upper": "0.084",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M2",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.036",
+                        "CI": {
+                            "lower": "-0.006",
+                            "upper": "0.089",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M3",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "-0.022",
+                        "CI": {
+                            "lower": "-0.054",
+                            "upper": "0.001",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M4",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.104",
+                        "CI": {
+                            "lower": "-0.063",
+                            "upper": "0.272",
+                            "type": "95%"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "moderated mediation analysis conditional effect",
+            "N": "1526",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "direct effect",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "0.045",
+                        "CI": {
+                            "lower": "-0.099",
+                            "upper": "0.190",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M1",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "-0.044",
+                        "CI": {
+                            "lower": "-0.132",
+                            "upper": "0.047",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M2",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "0.168",
+                        "CI": {
+                            "lower": "0.092",
+                            "upper": "0.259",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M3",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "-0.019",
+                        "CI": {
+                            "lower": "-0.087",
+                            "upper": "0.049",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M4",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.468",
+                        "CI": {
+                            "lower": "0.302",
+                            "upper": "0.637",
+                            "type": "95%"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": " moderated mediation analysis conditional effect",
+            "N": "1526",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "direct effect",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.026",
+                        "CI": {
+                            "lower": "-0.132",
+                            "upper": "0.183",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M1",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "-0.019",
+                        "CI": {
+                            "lower": "-0.063",
+                            "upper": "0.018",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M2",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.086",
+                        "CI": {
+                            "lower": "-0.012",
+                            "upper": "0.188",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M3",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "-0.013",
+                        "CI": {
+                            "lower": "-0.044",
+                            "upper": "0.006",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M4",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.042",
+                        "CI": {
+                            "lower": "-0.026",
+                            "upper": "0.113",
+                            "type": "95%"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "moderated mediation analysis conditional effect",
+            "N": "1526",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "direct effect",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "0.044",
+                        "CI": {
+                            "lower": "-0.122",
+                            "upper": "0.210",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M1",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "-0.006",
+                        "CI": {
+                            "lower": "-0.112",
+                            "upper": "0.102",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M2",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "0.341",
+                        "CI": {
+                            "lower": "0.228",
+                            "upper": "0.471",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M3",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "-0.026",
+                        "CI": {
+                            "lower": "-0.107",
+                            "upper": "0.052",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M4",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": " unstandardized regression coefficient",
+                        "value": "0.214",
+                        "CI": {
+                            "lower": "0.131",
+                            "upper": "0.309",
+                            "type": "95%"
+                        }
+                    }
+
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "moderated mediation analysis conditional effect",
+            "N": "1526",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "direct effect",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "28.10",
+                        "CI": {
+                            "lower": "-20.99",
+                            "upper": "77.18",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M1",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "6.904",
+                        "CI": {
+                            "lower": "-5.576",
+                            "upper": "21.55",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M2",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.798",
+                        "CI": {
+                            "lower": "-5.627",
+                            "upper": "7.986",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M3",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "5.710",
+                        "CI": {
+                            "lower": "-0.823",
+                            "upper": "16.28",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M4",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "-0.723",
+                        "CI": {
+                            "lower": "-5.318",
+                            "upper": "2.348",
+                            "type": "95%"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "moderated mediation analysis conditional effect",
+            "N": "1526",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "direct effect",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "52.83",
+                        "CI": {
+                            "lower": "3.981",
+                            "upper": "101.7",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M1",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "31.26",
+                        "CI": {
+                            "lower": "0.383",
+                            "upper": "62.91",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M2",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "-5.157",
+                        "CI": {
+                            "lower": "-26.42",
+                            "upper": "15.00",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M3",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "18.99",
+                        "CI": {
+                            "lower": "-5.24",
+                            "upper": "46.89",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M4",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "1.730",
+                        "CI": {
+                            "lower": "-9.468",
+                            "upper": "12.84",
+                            "type": "95%"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "moderated mediation analysis conditional effect",
+            "N": "1526",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "direct effect",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.034",
+                        "CI": {
+                            "lower": "-0.155",
+                            "upper": "0.223",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M1",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.039",
+                        "CI": {
+                            "lower": "-0.011",
+                            "upper": "0.096",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M2",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.051",
+                        "CI": {
+                            "lower": "-0.006",
+                            "upper": "0.122",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M3",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.006",
+                        "CI": {
+                            "lower": "-0.024",
+                            "upper": "0.044",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M4",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.096",
+                        "CI": {
+                            "lower": "-0.055",
+                            "upper": "0.256",
+                            "type": "95%"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "moderated mediation analysis conditional effect",
+            "N": "1526",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                {
+                    "factor": "direct effect",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.070",
+                        "CI": {
+                            "lower": "-0.128",
+                            "upper": "0.267",
+                            "type": "95%"
+                        }
+                    }
+                },
+                {
+                    "factor": "M1",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "-0.072",
+                        "CI": {
+                            "lower": "-0.202",
+                            "upper": "0.057",
+                            "type": "95%"
+                        }
+                    }
+                },
+                {
+                    "factor": "M2",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.147",
+                        "CI": {
+                            "lower": "0.046",
+                            "upper": "0.260",
+                            "type": "95%"
+                        }
+                    }
+                },
+                {
+                    "factor": "M3",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.180",
+                        "CI": {
+                            "lower": "0.081",
+                            "upper": "0.295",
+                            "type": "95%"
+                        }
+                    }
+                },
+                {
+                    "factor": "M4",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.484",
+                        "CI": {
+                            "lower": "0.313",
+                            "upper": "0.669",
+                            "type": "95%"
+                        }
+                    }
+
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "moderated mediation analysis conditional effect",
+            "N": "1526",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                {
+                    "factor": "direct effect",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "-0.014",
+                        "CI": {
+                            "lower": "-0.193",
+                            "upper": "0.165",
+                            "type": "95%"
+                        }
+                    }
+                },
+                {
+                    "factor": "M1",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.042",
+                        "CI": {
+                            "lower": "-0.006",
+                            "upper": "0.097",
+                            "type": "95%"
+                        }
+                    }
+                },
+                {
+                    "factor": "M2",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.025",
+                        "CI": {
+                            "lower": "-0.004",
+                            "upper": "0.071",
+                            "type": "95%"
+                        }
+                    }
+                },
+                {
+                    "factor": "M3",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.026",
+                        "CI": {
+                            "lower": "-0.003",
+                            "upper": "0.073",
+                            "type": "95%"
+                        }
+                    }
+                },
+                {
+                    "factor": "M4",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.103",
+                        "CI": {
+                            "lower": "-0.065",
+                            "upper": "0.275",
+                            "type": "95%"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "moderated mediation analysis conditional effect",
+            "N": "1526",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "direct effect",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.063",
+                        "CI": {
+                            "lower": "-0.130",
+                            "upper": "0.255",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M1",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.022",
+                        "CI": {
+                            "lower": "-0.098",
+                            "upper": "0.143",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M2",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.124",
+                        "CI": {
+                            "lower": "0.032",
+                            "upper": "0.229",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M3",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.124",
+                        "CI": {
+                            "lower": "0.033",
+                            "upper": "0.229",
+                            "type": "95%"
+                        }
+                    }
+                },
+                 {
+                    "factor": "M4",
+                    "p_value": "",
+                    "effect_size": {
+                        "measure": "unstandardized regression coefficient",
+                        "value": "0.499",
+                        "CI": {
+                            "lower": "0.323",
+                            "upper": "0.695",
+                            "type": "95%"
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        }
+    ]
+}

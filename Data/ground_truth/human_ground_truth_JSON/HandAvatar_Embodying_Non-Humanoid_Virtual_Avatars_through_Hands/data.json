@@ -1,0 +1,1102 @@
+{
+    "title": "HandAvatar: Embodying Non-Humanoid Virtual Avatars through Hands",
+    "erstautor": "Yu Jiang",
+    "doi": "10.1145/3544548.3581027",
+    "link": "https://doi.org/10.1145/3544548.3581027",
+    "year": "2023",
+    "topics": [
+        ""
+    ],
+    "tests": [
+        {
+            "test_name": "Friedman test",
+            "N": "12",
+            "p-value": "<0.05",
+            "num_conditions": "8",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Friedman test",
+            "N": "12",
+            "p-value": "<.001",
+            "num_conditions": "8",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Friedman test",
+            "N": "12",
+            "p-value": "<0.05",
+            "num_conditions": "8",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "12",
+            "p-value": "<0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+         {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "12",
+            "p-value": "<0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+         {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "12",
+            "p-value": "<0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+         {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "12",
+            "p-value": "<0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+         {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "12",
+            "p-value": "<0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "12",
+            "p-value": ">0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "12",
+            "p-value": ">0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "12",
+            "p-value": "<.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+         {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "12",
+            "p-value": "<.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+         {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "12",
+            "p-value": "<.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+         {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "12",
+            "p-value": "<.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "12",
+            "p-value": ">.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "12",
+            "p-value": ">.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "12",
+            "p-value": ">.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "12",
+            "p-value": "<0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "12",
+            "p-value": "<0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "12",
+            "p-value": ">0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "12",
+            "p-value": ">0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "12",
+            "p-value": ">0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "12",
+            "p-value": ">0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "12",
+            "p-value": ">0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Mauchly's test of sphericity",
+            "N": "16",
+            "p-value": "0.66",
+            "num_conditions": "8",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Mauchly's test of sphericity",
+            "N": "16",
+            "p-value": "0.55",
+            "num_conditions": "8x2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": " repeated-measures ANOVA",
+            "N": "16",
+            "p-value": "",
+            "num_conditions": "8x2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "main effect of avatar",
+                    "p_value": "<0.05",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "main effect of control method",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "interaction effect beween avatars and control methods",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "post-hoc t-test for pairwise comparisons",
+            "N": "16",
+            "p-value": "<0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "should be paired t-test, but stated as if independent (pairwise is different!)"
+        },
+        {
+            "test_name": "post-hoc t-test for pairwise comparisons",
+            "N": "16",
+            "p-value": "<0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "should be paired t-test, but stated as if independent (pairwise is different!)"
+        },
+        {
+            "test_name": "post-hoc t-test for pairwise comparisons",
+            "N": "16",
+            "p-value": "<0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "should be paired t-test, but stated as if independent (pairwise is different!)"
+        },
+        {
+            "test_name": "post-hoc t-test for pairwise comparisons",
+            "N": "16",
+            "p-value": "<0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "should be paired t-test, but stated as if independent (pairwise is different!)"
+        },
+        {
+            "test_name": "post-hoc t-test for pairwise comparisons",
+            "N": "16",
+            "p-value": "<0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "should be paired t-test, but stated as if independent (pairwise is different!)"
+        },
+        {
+            "test_name": "post-hoc t-test for pairwise comparisons",
+            "N": "16",
+            "p-value": "<0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "should be paired t-test, but stated as if independent (pairwise is different!)"
+        },
+        {
+            "test_name": "post-hoc t-test for pairwise comparisons",
+            "N": "16",
+            "p-value": "<0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "should be paired t-test, but stated as if independent (pairwise is different!)"
+        },
+        {
+            "test_name": "post-hoc t-test for pairwise comparisons",
+            "N": "16",
+            "p-value": "0.25",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "should be paired t-test, but stated as if independent (pairwise is different!)"
+        },
+        {
+            "test_name": "Mauchly's test of sphericity",
+            "N": "16",
+            "p-value": "0.001",
+            "num_conditions": "8x2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Mauchly's test of sphericity",
+            "N": "16",
+            "p-value": "0.161",
+            "num_conditions": "8",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "repeated-measures ANOVA",
+            "N": "16",
+            "p-value": "",
+            "num_conditions": "8x2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "main effect of avatar",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "main effect of control methods",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "interaction effect between avatars and control methods",
+                    "p_value": "<0.001",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "post-hoc t-test for pairwise comparisons",
+            "N": "16",
+            "p-value": "0.19",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "should be paired t-test, but stated as if independent (pairwise is different!)"
+        },
+        {
+            "test_name": "post-hoc t-test for pairwise comparisons",
+            "N": "16",
+            "p-value": ">0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "should be paired t-test, but stated as if independent (pairwise is different!)"
+        },
+         {
+            "test_name": "post-hoc t-test for pairwise comparisons",
+            "N": "16",
+            "p-value": ">0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "should be paired t-test, but stated as if independent (pairwise is different!)"
+        },
+         {
+            "test_name": "post-hoc t-test for pairwise comparisons",
+            "N": "16",
+            "p-value": ">0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "should be paired t-test, but stated as if independent (pairwise is different!)"
+        },
+         {
+            "test_name": "post-hoc t-test for pairwise comparisons",
+            "N": "16",
+            "p-value": ">0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "should be paired t-test, but stated as if independent (pairwise is different!)"
+        },
+         {
+            "test_name": "post-hoc t-test for pairwise comparisons",
+            "N": "16",
+            "p-value": ">0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "should be paired t-test, but stated as if independent (pairwise is different!)"
+        },
+         {
+            "test_name": "post-hoc t-test for pairwise comparisons",
+            "N": "16",
+            "p-value": ">0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "should be paired t-test, but stated as if independent (pairwise is different!)"
+        },
+         {
+            "test_name": "post-hoc t-test for pairwise comparisons",
+            "N": "16",
+            "p-value": ">0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "8",
+            "problem_explanation": "should be paired t-test, but stated as if independent (pairwise is different!)"
+        },
+        {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "16",
+            "p-value": "0.28",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "16",
+            "p-value": "<0.01",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "16",
+            "p-value": "<0.01",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "16",
+            "p-value": "<0.05",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "16",
+            "p-value": "<0.01",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "12",
+            "p-value": "0.06",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "12",
+            "p-value": "0.016",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "12",
+            "p-value": "0.012",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "12",
+            "p-value": "0.011",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        },
+        {
+            "test_name": "Wilcoxon signed-rank test",
+            "N": "12",
+            "p-value": "0.031",
+            "num_conditions": "2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "",
+            "problem_explanation": ""
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "title": "Design Guidelines for Prompt Engineering Text-to-Image Generative Models",
+    "erstautor": "Vivian Liu",
+    "doi": "10.1145/3491102.3501825",
+    "link": "https://doi.org/10.1145/3491102.3501825",
+    "year": "2022",
+    "topics": [
+        ""
+    ],
+    "tests": [
+        {
+            "test_name": "Chi-square test",
+            "N": "2",
+            "p-value": "0.55",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "2",
+            "problem_explanation": " Uncertain about N, Paper had two annotators judge images as outlier/not outlier, and described using a contingency table reminiscent of mcnemar. I'm not even sure what the second variable is supposed to be chi squared"
+        },
+        {
+            "test_name": "Fisher's exact test",
+            "N": "2",
+            "p-value": "<0.01",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },       
+            "certainty": "2",
+            "problem_explanation": " Uncertain about N, Paper had two annotators judge images as categories. I'm not even sure what the second variable is supposed to be for fisher's exact test"
+        },
+        {
+            "test_name": "Chi-Squared test",
+            "N": "2",
+            "p-value": "0.01",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "2",
+            "problem_explanation": "Uncertain about N"
+        },
+        {
+            "test_name": "Chi-Squared Test",
+            "N": "2",
+            "p-value": "<0.01",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "2",
+            "problem_explanation": "Uncertain about N,"
+        },
+	{
+        "test_name": "Mann-Whitney test",
+        "N": "2",
+        "p_value": "0.377",
+        "effect_size": {
+            "measure": "",
+            "value": "",
+            "CI": {
+                "lower": "",
+                "upper": "",
+                "type": ""
+            }
+        },
+	"certainty": "2",
+        "problem_explanation": "Uncertain about N,"
+   	},
+
+	{
+        "test_name": "Kruskal-Wallis test",
+        "N": "2",
+	"num_conditions": "3",
+        "p_value": "<0.001",
+        "effect_size": {
+            "measure": "",
+            "value": "",
+            "CI": {
+                "lower": "",
+                "upper": "",
+                "type": ""
+            }
+        },
+        "certainty": "2",
+        "problem_explanation": 	"Uncertain about N"
+        },
+        {
+            "test_name": "Pearson's correlation",
+            "N": "2",
+            "p-value": "",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "r",
+                "value": "0.62",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "certainty": "2",
+            "problem_explanation": "Uncertain about N, Paper had two annotators judge images"
+        },
+        {
+            "test_name": "two-way ANOVA",
+            "N": "2",
+            "p-value": "",
+            "num_conditions": "2x2",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors": [
+                 {
+                    "factor": "main effect",
+                    "p_value": "<0.01",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "main effect",
+                    "p_value": "<0.01",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                },
+                 {
+                    "factor": "interaction effect",
+                    "p_value": "<0.01",
+                    "effect_size": {
+                        "measure": "",
+                        "value": "",
+                        "CI": {
+                            "lower": "",
+                            "upper": "",
+                            "type": ""
+                        }
+                    }
+                }
+            ],
+            "certainty": "2",
+            "problem_explanation": "Uncertain about N, Paper had two annotators judge images"
+        }
+    ]
+}

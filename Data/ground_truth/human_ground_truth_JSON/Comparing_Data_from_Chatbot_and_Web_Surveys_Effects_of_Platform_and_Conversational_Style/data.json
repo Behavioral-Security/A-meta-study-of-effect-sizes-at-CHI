@@ -1,0 +1,223 @@
+{
+    "title": "Comparing Data from Chatbot and Web Surveys Effects of Platform and Conversational Style on Survey Response Quality",
+    "erstautor": "Soomin Kim",
+    "doi": "10.1145/3290605.3300316",
+    "link": "https://dl.acm.org/doi/10.1145/3290605.3300316",
+    "year": "2019",
+    "topics": [
+        ""
+    ],
+    "tests": [
+        {
+            "test_name": "independent samples t-test",
+            "N": "106",
+            "p_value": "<0.001",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "2 x 2 ANOVA",
+            "N": "106",
+            "p_value": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors":  [
+                {
+                    "factor": "main effect",
+                    "p-value": "< 0.01",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                },
+                {
+                    "factor": "main effect",
+                    "p-value": "0.053",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                },
+                {
+                    "factor": "interaction effect",
+                    "p-value": "< 0.001",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                }
+
+				]
+        },
+        {
+            "test_name": "independent samples t-test",
+            "N": "54",
+            "p_value": "< 0.001",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "independent samples t-test",
+            "N": "52",
+            "p_value": "0.63",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "2 x 2 ANOVA",
+            "N": "106",
+            "p_value": "",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+            "factors":  [
+                {
+                    "factor": "main effect",
+                    "p-value": "0.174",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                },
+                {
+                    "factor": "main effect",
+                    "p-value": "0.256",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                },
+                {
+                    "factor": "interaction effect",
+                    "p-value": "0.32",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                }
+
+            ]
+        },
+        {
+            "test_name": "factorial ANOVA",
+            "N": "106",
+            "p_value": "< 0.01",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            },
+             "factors":  [
+                {
+                    "factor": "main effect",
+                    "p-value": "<0.01",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                },
+                {
+                    "factor": "main effect",
+                    "p-value": "0.17",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                },
+                {
+                    "factor": "interaction effect",
+                    "p-value": "0.136",
+                    "effectsizes": [{
+                        "effectsize_measure": "",
+                        "value": "",
+                        "CI" : 	{
+                            "lower": "",
+                            "upper": "",
+                            "CI_type": ""
+                        }
+                    }]
+                }
+
+            ]
+        }
+        
+    ]
+}

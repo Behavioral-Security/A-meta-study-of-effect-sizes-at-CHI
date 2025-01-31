@@ -1,0 +1,1 @@
+The files in this folder have to be manually annotated. You can find the annoted counterparts of these not-yet-annotated files in the folder R_done_manual_check.

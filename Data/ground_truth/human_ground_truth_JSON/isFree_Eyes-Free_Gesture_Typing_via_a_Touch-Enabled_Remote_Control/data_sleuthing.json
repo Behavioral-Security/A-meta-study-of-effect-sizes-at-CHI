@@ -1,0 +1,425 @@
+{
+    "title": "i\u2019sFree: Eyes-Free Gesture Typing via a Touch-Enabled Remote Control",
+    "erstautor": "Suwen Zhu",
+    "doi": "10.1145/3290605.3300678",
+    "link": "https://doi.org/10.1145/3290605.3300678",
+    "year": "2019",
+    "topics": [
+        ""
+    ],
+    "tests": [
+        {
+            "test_name": "ANOVA",
+            "N": "54",
+            "p_value": "<.001",
+            "num_conditions": "",
+            "num_repeat": "",
+            "effect_size": {
+                "measure": "NA",
+                "value": "NA",
+                "CI": {
+                    "lower": "NA",
+                    "upper": "NA",
+                    "type": "NA"
+                }
+            }
+        },
+        {
+            "test_name": "Pairwise t-test (with Bonferroni Adjustment)",
+            "N": "36",
+            "p_value": "<.001",
+            "effect_size": {
+                "measure": "NA",
+                "value": "NA",
+                "CI": {
+                    "lower": "NA",
+                    "upper": "NA",
+                    "type": "NA"
+                }
+            }
+        },
+        {
+            "test_name": "Pairwise t-test (with Bonferroni Adjustment)",
+            "N": "36",
+            "p_value": "<.001",
+            "effect_size": {
+                "measure": "NA",
+                "value": "NA",
+                "CI": {
+                    "lower": "NA",
+                    "upper": "NA",
+                    "type": "NA"
+                }
+            }
+        },
+        {
+            "test_name": "Pairwise t-test (with Bonferroni Adjustment)",
+            "N": "36",
+            "p_value": "1",
+            "effect_size": {
+                "measure": "NA",
+                "value": "NA",
+                "CI": {
+                    "lower": "NA",
+                    "upper": "NA",
+                    "type": "NA"
+                }
+            }
+        },
+        {
+            "test_name": "ANOVA main effect",
+            "N": "72",
+            "p_value": "<.001",
+            "effect_size": {
+                "measure": "NA",
+                "value": "NA",
+                "CI": {
+                    "lower": "NA",
+                    "upper": "NA",
+                    "type": "NA"
+                }
+            },
+            "certainty": "7",
+            "problem_explanation": "using degrees of freedom sleuthing, determined that multiple analyses were used, one each for each main effect and another separate one for the interaction effects for ANOVAs in this paper. This may make this a bad example for ground truth"
+        },
+        {
+            "test_name": "ANOVA interaction effect",
+            "N": "144",
+            "p_value": ".037",
+            "effect_size": {
+                "measure": "NA",
+                "value": "NA",
+                "CI": {
+                    "lower": "NA",
+                    "upper": "NA",
+                    "type": "NA"
+                }
+            },
+            "certainty": "7",
+            "problem_explanation": "using degrees of freedom sleuthing, determined that multiple analyses were used, one each for each main effect and another separate one for the interaction effects for ANOVAs in this paper. This may make this a bad example for ground truth"
+
+        },
+        {
+            "test_name": "Pairwise t-test (with Bonferroni Adjustment)",
+            "N": "36",
+            "p_value": ".005",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Pairwise t-test (with Bonferroni Adjustment)",
+            "N": "36",
+            "p_value": ".017",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Pairwise t-test (with Bonferroni Adjustment)",
+            "N": "36",
+            "p_value": ">0.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Pairwise t-test (with Bonferroni Adjustment)",
+            "N": "36",
+            "p_value": ">0.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Pairwise t-test (with Bonferroni Adjustment)",
+            "N": "36",
+            "p_value": ">0.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Pairwise t-test (with Bonferroni Adjustment)",
+            "N": "36",
+            "p_value": ">0.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "ANOVA",
+            "N": "54",
+            "p_value": "<.001",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Pairwise t-test (with Bonferroni Adjustment)",
+            "N": "36",
+            "p_value": "<.005",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Pairwise t-test (with Bonferroni Adjustment)",
+            "N": "36",
+            "p_value": "= .13",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Pairwise t-test (with Bonferroni Adjustment)",
+            "N": "36",
+            "p_value": "<.005",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "ANOVA",
+            "N": "54",
+            "p_value": "=.003",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Pairwise t-test (with Bonferroni Adjustment)",
+            "N": "36",
+            "p_value": "=.039",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Pairwise t-test (with Bonferroni Adjustment)",
+            "N": "36",
+            "p_value": ">0.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Pairwise t-test (with Bonferroni Adjustment)",
+            "N": "36",
+            "p_value": ">0.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "ANOVA",
+            "N": "54",
+            "p_value": "<.001",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Pairwise t-test (with Bonferroni Adjustment)",
+            "N": "36",
+            "p_value": "<.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Pairwise t-test (with Bonferroni Adjustment)",
+            "N": "36",
+            "p_value": "<.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "Pairwise t-test (with Bonferroni Adjustment)",
+            "N": "36",
+            "p_value": "<.05",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "ANOVA",
+            "N": "36",
+            "p_value": ".924",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "ANOVA",
+            "N": "54",
+            "p_value": ".004",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "ANOVA",
+            "N": "54",
+            "p_value": "<.001",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "ANOVA",
+            "N": "54",
+            "p_value": "<.001",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        },
+        {
+            "test_name": "ANOVA",
+            "N": "54",
+            "p_value": "<.001",
+            "effect_size": {
+                "measure": "",
+                "value": "",
+                "CI": {
+                    "lower": "",
+                    "upper": "",
+                    "type": ""
+                }
+            }
+        }
+    ]
+}
